@@ -2,40 +2,55 @@
 
 ### dotnet/c#
 
-- Управление памятью в .NET для профессионалов ([Konrad Kokosa](https://github.com/kkokosa))
-- Конкурентность в C# ([Stephen Cleary](https://github.com/StephenCleary))
-- Внедрение зависимостей на платформе .NET ([Mark Seemann](https://github.com/ploeh))
-- Код, который умещается в голове ([Mark Seemann](https://github.com/ploeh))
-- Паттерны проектирования на платформе .NET ([Sergey Teplyakov](https://github.com/SergeyTeplyakov))
-- ASP.NET Core в действии ([Andrew Lock](https://github.com/andrewlock))
-- Принципы юнит-тестирования ([Vladimir Khorikov](https://github.com/vkhorikov))
-- Software. Ошибки и компромиссы ([Jon Skeet](https://github.com/jskeet/) and [Tomasz Lelek](https://github.com/tomekl007))
+> 🔥 Управление памятью в .NET для профессионалов ([Konrad Kokosa](https://github.com/kkokosa))
 
-- Параллельное программирование на C# и .NET Core ([Shakti Tanwar](https://github.com/shaktisinghtanwar))
-- Pro Microservices in .NET 6 ([Sean Whitesell](https://github.com/seanw122), [Rob Richardson](https://github.com/robrich) and [Matthew D. Groves](https://github.com/mgroves))
-- Безопасность ASP.NET Core ([Christian Wenz](https://github.com/wenz))
-- C# 9.0. Карманный справочник ([Joe Albahari](https://www.albahari.com/) and [Ben Albahari](https://www.albahari.com/))
-- Адаптивный код. 2-е издание ([Gary McLean Hall](https://github.com/garymcleanhall))
+> 🔥 Конкурентность в C# ([Stephen Cleary](https://github.com/StephenCleary))
 
-    * Apps and Services with .NET 8 ([Mark J. Price](https://github.com/markjprice))
-    * Entity Framework Core in Action ([Jon P Smith](https://github.com/JonPSmith))
+> 🔥 Внедрение зависимостей на платформе .NET ([Mark Seemann](https://github.com/ploeh))
+
+> 🔥 Паттерны проектирования на платформе .NET ([Sergey Teplyakov](https://github.com/SergeyTeplyakov))
+
+> 🔥 Принципы юнит-тестирования ([Vladimir Khorikov](https://github.com/vkhorikov))
+
+> Код, который умещается в голове ([Mark Seemann](https://github.com/ploeh))
+
+> ASP.NET Core в действии ([Andrew Lock](https://github.com/andrewlock))
+
+> Software. Ошибки и компромиссы ([Jon Skeet](https://github.com/jskeet/) and [Tomasz Lelek](https://github.com/tomekl007))
+
+
+> Параллельное программирование на C# и .NET Core ([Shakti Tanwar](https://github.com/shaktisinghtanwar))
+
+> Pro Microservices in .NET 6 ([Sean Whitesell](https://github.com/seanw122), [Rob Richardson](https://github.com/robrich) and [Matthew D. Groves](https://github.com/mgroves))
+
+> Безопасность ASP.NET Core ([Christian Wenz](https://github.com/wenz))
+
+> C# 9.0. Карманный справочник ([Joe Albahari](https://www.albahari.com/) and [Ben Albahari](https://www.albahari.com/))
+
+> Адаптивный код. 2-е издание ([Gary McLean Hall](https://github.com/garymcleanhall))
+
+> * Apps and Services with .NET 8 ([Mark J. Price](https://github.com/markjprice))
+
+> * Entity Framework Core in Action ([Jon P Smith](https://github.com/JonPSmith))
 
 ### c++
 
     - Паттерны программирования игр
-
+    
 ### js
 
-    - Как строен JavaScript
+    - Как устроен JavaScript
     - JavaScript. Сильный стороны
     - Рефакторинг JavaScript
     - Профессиональный TypeScript
 
 ### java
 
- - Elegant Objects, vol. 1 ([Yegor Bugayenko](https://github.com/yegor256))
- - Элегантные объекты. Java Edition ([Yegor Bugayenko](https://github.com/yegor256))
- - Clojure на производстве ([Ivan Grishaev](https://github.com/igrishaev))
+> 🔥 Elegant Objects, vol. 1 ([Yegor Bugayenko](https://github.com/yegor256))
+
+> Элегантные объекты. Java Edition ([Yegor Bugayenko](https://github.com/yegor256))
+
+> Clojure на производстве ([Ivan Grishaev](https://github.com/igrishaev))
 
 ### xslt/latex
 
@@ -48,25 +63,28 @@
     - Unix. Программное окружение
     - Искусство программирования для UNIX
     - Практика программирования
-    - Active Directory глазами хакера
-    - Linuxx глазами хакера
-    - Web-сервер глазами хакера
-    - Внутреннее устройство Linux
+    - Внутреннее устройство Linux    
 
 ### network
 
     - Компьютерные сети
     - Искусство тестирования проникновения в сеть
+    
     - Kubernetes в действии
     - Kubernetes изнутри
     - Kubernetes на практике
+    
     - Безопасность контейнеров
+    
     - Docker на практике
     - Docker Compose для разработчиков
+    
     - HTTP/2 в действии
+    
     - Проектирование веб-API
     - Паттерны проектирования API
     - Непрерывное развитие API
+    
     - Kafka в действии
     - Kafka Streams и ksqlDB
 
@@ -110,7 +128,9 @@
     - Джоэл о программировании
     - Джоэл: и снова о программировании
     - Ум программиста. Как понять и осмыслить любой код
-    - Наш код. Ремесло, профессия, искусство
+    - Active Directory глазами хакера
+    - Linux глазами хакера
+    - Web-сервер глазами хакера
 
     - Чистый код
     - Совершенный код. Практическое руководство по разработке программного обеспечения
@@ -140,9 +160,11 @@
     - Криптвоюматика
 
 ### soft
-    - xxx
+
+- 🔥 Наш код. Ремесло, профессия, искусство ([Yegor Bugayenko](https://github.com/yegor256))
 
 ### design and development
+
     - Разработка требований к программному обеспечению
 
 ### music
