@@ -1,4 +1,4 @@
-## Bookshelf
+## bookshelf
 
 ### dotnet/c#
 
@@ -33,9 +33,9 @@
 
 ### java
 
-    - Elegant Objects, vol. 1
-    - Элегантные объекты. Java Edition
-    - Clojure на производстве
+ - Elegant Objects, vol. 1 ([Yegor Bugayenko](https://github.com/yegor256))
+ - Элегантные объекты. Java Edition ([Yegor Bugayenko](https://github.com/yegor256))
+ - Clojure на производстве ([Ivan Grishaev](https://github.com/igrishaev))
 
 ### xslt/latex
 
