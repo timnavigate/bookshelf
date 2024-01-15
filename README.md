@@ -1,4 +1,4 @@
-# Bookshelf
+## Bookshelf
 
 ### dotnet/c#
 
@@ -14,7 +14,7 @@
 - Параллельное программирование на C# и .NET Core ([Shakti Tanwar](https://github.com/shaktisinghtanwar))
 - Pro Microservices in .NET 6 ([Sean Whitesell](https://github.com/seanw122), [Rob Richardson](https://github.com/robrich) and [Matthew D. Groves](https://github.com/mgroves))
 - Безопасность ASP.NET Core ([Christian Wenz](https://github.com/wenz))
-- C# 9.0. Карманный справочник ([Joe Albahari]() and [Ben Albahari]())
+- C# 9.0. Карманный справочник ([Joe Albahari](https://www.albahari.com/) and [Ben Albahari](https://www.albahari.com/))
 - Адаптивный код. 2-е издание ([Gary McLean Hall](https://github.com/garymcleanhall))
 
     * Apps and Services with .NET 8 ([Mark J. Price](https://github.com/markjprice))
