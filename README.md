@@ -2,19 +2,23 @@
 
 ### dotnet/c#
 
-    - Управление памятью в .NET для профессионалов
-    - Конкурентность в C#
-    - Внедрение зависимостей на платформе .NET
-    - C# 9.0. Карманный справочник
-    - Адаптивный код. 2-е издание
-    - Паттерны проектирования на платформе .NET
-    - Параллельное программирование на C# и .NET Core
-    - Pro Microservices in .NET 6
-    - Безопасность ASP.NET Core
-    - ASP.NET Core в действии
-    - Принципы юнит-тестирования
-    - Код, который умещается в голове
-    - Software. Ошибки и компромиссы
+- Управление памятью в .NET для профессионалов ([Konrad Kokosa](https://github.com/kkokosa))
+- Конкурентность в C# ([Stephen Cleary](https://github.com/StephenCleary))
+- Внедрение зависимостей на платформе .NET ([Mark Seemann](https://github.com/ploeh))
+- Код, который умещается в голове ([Mark Seemann](https://github.com/ploeh))
+- Паттерны проектирования на платформе .NET ([Sergey Teplyakov](https://github.com/SergeyTeplyakov))
+- ASP.NET Core в действии ([Andrew Lock](https://github.com/andrewlock))
+- Принципы юнит-тестирования ([Vladimir Khorikov](https://github.com/vkhorikov))
+- Software. Ошибки и компромиссы ([Jon Skeet](https://github.com/jskeet/) and [Tomasz Lelek](https://github.com/tomekl007))
+
+- Параллельное программирование на C# и .NET Core ([Shakti Tanwar](https://github.com/shaktisinghtanwar))
+- Pro Microservices in .NET 6 ([Sean Whitesell](https://github.com/seanw122), [Rob Richardson](https://github.com/robrich) and [Matthew D. Groves](https://github.com/mgroves))
+- Безопасность ASP.NET Core ([Christian Wenz](https://github.com/wenz))
+- C# 9.0. Карманный справочник ([Joe Albahari]() and [Ben Albahari]())
+- Адаптивный код. 2-е издание ([Gary McLean Hall](https://github.com/garymcleanhall))
+
+    * Apps and Services with .NET 8 ([Mark J. Price](https://github.com/markjprice))
+    * Entity Framework Core in Action ([Jon P Smith](https://github.com/JonPSmith))
 
 ### c++
 
