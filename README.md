@@ -2,22 +2,61 @@
 
 ### dotnet/c#
 
-> 🔥 Управление памятью в .NET для профессионалов ([Konrad Kokosa](https://github.com/kkokosa))
+<!--    ![image](https://github.com/timnavigate/bookshelf/assets/14907341/2c6b4a18-b382-4572-ac4b-647db856215f)    -->
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/2c6b4a18-b382-4572-ac4b-647db856215f" alt="Управление памятью в .NET для профессионалов" width="100" align="right"/><br/>
+🔥 [**Управление памятью в .NET для профессионалов**](https://dmkpress.com/catalog/computer/programming/dot_net/978-5-97060-800-5/)<br/>
+by [Konrad Kokosa](https://github.com/kkokosa)<br/>
+<br clear="right"/>
+<hr/>
 
-> 🔥 Конкурентность в C# ([Stephen Cleary](https://github.com/StephenCleary))
+<!--    ![image](https://github.com/timnavigate/bookshelf/assets/14907341/b092838e-e489-4601-9f66-8a8bfc69d6d6)    -->
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/b092838e-e489-4601-9f66-8a8bfc69d6d6" alt="Конкурентность в C#" width="100" align="right"/><br/>
+🔥 [**Конкурентность в C#**](https://www.piter.com/product/konkurentnost-v-c-asinhronnoe-parallelnoe-i-mnogopotochnoe-programmirovanie-2-e-mezhd-izd)<br/>
+by [Stephen Cleary](https://github.com/StephenCleary)<br/>
+<br clear="right"/>
+<hr/>
 
-> 🔥 Внедрение зависимостей на платформе .NET ([Mark Seemann](https://github.com/ploeh))
+<!--    ![image](https://github.com/timnavigate/bookshelf/assets/14907341/64ba50c0-8980-4169-93f0-09d5e325f575)    -->
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/64ba50c0-8980-4169-93f0-09d5e325f575" alt="Внедрение зависимостей на платформе .NET" width="100" align="right"/><br/>
+🔥 [**Внедрение зависимостей на платформе .NET**](https://www.piter.com/collection/programmirovanie-razrabotka-programnogo-obespecheniya/product/vnedrenie-zavisimostey-na-platforme-net-2-e-izdanie)<br/>
+by [Mark Seemann](https://github.com/ploeh)<br/>
+<br clear="right"/>
+<hr/>
 
-> 🔥 Паттерны проектирования на платформе .NET ([Sergey Teplyakov](https://github.com/SergeyTeplyakov))
+<!--    ![image](https://github.com/timnavigate/bookshelf/assets/14907341/9badc67a-7463-4aa2-adfa-beecde12e390)    -->
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/9badc67a-7463-4aa2-adfa-beecde12e390" alt="Паттерны проектирования на платформе .NET" width="100" align="right"/><br/>
+🔥 [**Паттерны проектирования на платформе .NET**](https://www.piter.com/product/patterny-proektirovaniya-na-platforme-net) 
+by [Sergey Teplyakov](https://github.com/SergeyTeplyakov)<br/>
+<br clear="right"/>
+<hr/>
 
-> 🔥 Принципы юнит-тестирования ([Vladimir Khorikov](https://github.com/vkhorikov))
+<!--    ![image](https://github.com/timnavigate/bookshelf/assets/14907341/d16f19b8-dc6e-4c24-bcd3-a4eb47324d8c)    -->
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/d16f19b8-dc6e-4c24-bcd3-a4eb47324d8c" alt="Принципы юнит-тестирования" width="100" align="right"/><br/>
+🔥 [**Принципы юнит-тестирования**](https://www.piter.com/product/printsipy-yunit-testirovaniya)<br/>
+by [Vladimir Khorikov](https://github.com/vkhorikov)<br/>
+<br clear="right"/>
+<hr/>
 
-> Код, который умещается в голове ([Mark Seemann](https://github.com/ploeh))
+<!--    ![image](https://github.com/timnavigate/bookshelf/assets/14907341/d4deffab-07de-4be8-91d3-9bb4528718f2)    -->
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/d4deffab-07de-4be8-91d3-9bb4528718f2" alt="Код, который умещается в голове" width="100" align="right"/><br/>
+[**Код, который умещается в голове**](https://www.piter.com/collection/recommend/product/robert-martin-rekomenduet-kod-kotoryy-umeschaetsya-v-golove-evristiki-dlya-razrabotchikov)<br/>
+by [Mark Seemann](https://github.com/ploeh)<br/>
+<br clear="right"/>
+<hr/>
 
-> ASP.NET Core в действии ([Andrew Lock](https://github.com/andrewlock))
+<!--    ![image](https://github.com/timnavigate/bookshelf/assets/14907341/3b08135a-b207-484a-a2de-570bb97d36d1)    -->
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/3b08135a-b207-484a-a2de-570bb97d36d1" alt="ASP.NET Core в действии" width="100" align="right"/><br/>
+[**ASP.NET Core в действии**](https://dmkpress.com/catalog/computer/web/978-5-97060-550-9/)<br/>
+by [Andrew Lock](https://github.com/andrewlock)<br/>
+<br clear="right"/>
+<hr/>
 
-> Software. Ошибки и компромиссы ([Jon Skeet](https://github.com/jskeet/) and [Tomasz Lelek](https://github.com/tomekl007))
-
+<!--    ![image](https://github.com/timnavigate/bookshelf/assets/14907341/6b68dabb-ca77-416b-8330-cefed38190b6)    -->
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/6b68dabb-ca77-416b-8330-cefed38190b6" alt="Software. Ошибки и компромиссы" width="100" align="right"/><br/>
+[**Software. Ошибки и компромиссы**](https://www.piter.com/product/software-oshibki-i-kompromissy-pri-razrabotke-po)<br/>
+by [Jon Skeet](https://github.com/jskeet/) and [Tomasz Lelek](https://github.com/tomekl007)<br/>
+<br clear="right"/>
+<hr/>
 
 > Параллельное программирование на C# и .NET Core ([Shakti Tanwar](https://github.com/shaktisinghtanwar))
 
