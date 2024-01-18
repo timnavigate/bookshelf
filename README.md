@@ -6,6 +6,7 @@
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/2c6b4a18-b382-4572-ac4b-647db856215f" alt="Управление памятью в .NET для профессионалов" width="100" align="right"/><br/>
 🔥 [**Управление памятью в .NET для профессионалов**](https://dmkpress.com/catalog/computer/programming/dot_net/978-5-97060-800-5/), Апрель 2020<br/>
 by [Konrad Kokosa](https://github.com/kkokosa)<br/>
+<br/>_**note**: [2nd edition](https://prodotnetmemory.com/) coming soon ..._
 <br clear="right"/>
 
 <!--    ![image](https://github.com/timnavigate/bookshelf/assets/14907341/b092838e-e489-4601-9f66-8a8bfc69d6d6)    -->
