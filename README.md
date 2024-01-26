@@ -2,10 +2,9 @@
 
 ### dotnet/c#
 
-<!--    ![image](https://github.com/timnavigate/bookshelf/assets/14907341/2c6b4a18-b382-4572-ac4b-647db856215f)    -->
-<img src="https://github.com/timnavigate/bookshelf/assets/14907341/2c6b4a18-b382-4572-ac4b-647db856215f" alt="Управление памятью в .NET для профессионалов" width="100" align="right"/><br/>
 <span>🔥&nbsp;</span>[**Управление памятью в .NET для профессионалов**](https://dmkpress.com/catalog/computer/programming/dot_net/978-5-97060-800-5/), Апрель 2020<br/>
 _[Конрад Кокоса](https://github.com/kkokosa)_
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/2c6b4a18-b382-4572-ac4b-647db856215f" alt="Управление памятью в .NET для профессионалов" width="120" align="right"/><br/>
 
 _eng:_<br/>
 [Pro .NET Memory Management: For Better Code, Performance, and Scalability 1st ed. Edition](https://www.amazon.com/Pro-NET-Memory-Management-Performance/dp/148424026X), November 2018<br/>
@@ -14,9 +13,9 @@ _**note**: [2nd edition](https://prodotnetmemory.com/) coming soon ..._
 <br clear="right"/>
 <hr/>
 
-<img src="https://github.com/timnavigate/bookshelf/assets/14907341/b092838e-e489-4601-9f66-8a8bfc69d6d6" alt="Конкурентность в C#" width="100" align="right"/><br/>
 <span>🔥&nbsp;</span>[**Конкурентность в C#**](https://www.piter.com/product/konkurentnost-v-c-asinhronnoe-parallelnoe-i-mnogopotochnoe-programmirovanie-2-e-mezhd-izd), 2-е издание, 2020<br/>
 _[Стивен Клири](https://github.com/StephenCleary)_
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/b092838e-e489-4601-9f66-8a8bfc69d6d6" alt="Конкурентность в C#" width="120" align="right"/><br/>
 
 _eng:_<br/>
 [Concurrency in C# Cookbook: Asynchronous, Parallel, and Multithreaded Programming 2nd Edition](https://www.amazon.com/Concurrency-Cookbook-Asynchronous-Multithreaded-Programming), October 2019<br/>
@@ -24,9 +23,9 @@ _by [Stephen Cleary](https://github.com/StephenCleary)_
 <br clear="right"/>
 <hr/>
 
-<img src="https://github.com/timnavigate/bookshelf/assets/14907341/64ba50c0-8980-4169-93f0-09d5e325f575" alt="Внедрение зависимостей на платформе .NET" width="100" align="right"/><br/>
 <span>🔥&nbsp;</span>[**Внедрение зависимостей на платформе .NET**](https://www.piter.com/collection/programmirovanie-razrabotka-programnogo-obespecheniya/product/vnedrenie-zavisimostey-na-platforme-net-2-e-izdanie), 2-е издание, 2021<br/>
 _[Марк Симан](https://github.com/ploeh)_
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/64ba50c0-8980-4169-93f0-09d5e325f575" alt="Внедрение зависимостей на платформе .NET" width="120" align="right"/><br/>
 
 _eng:_<br/>
 [Dependency Injection Principles, Practices, and Patterns First Edition](https://www.amazon.com/Dependency-Injection-Principles-Practices-Patterns-dp-161729473X/dp/161729473X), March 2019<br/>
@@ -34,15 +33,15 @@ _by [Mark Seemann](https://github.com/ploeh)_
 <br clear="right"/>
 <hr/>
 
-<img src="https://github.com/timnavigate/bookshelf/assets/14907341/9badc67a-7463-4aa2-adfa-beecde12e390" alt="Паттерны проектирования на платформе .NET" width="100" align="right"/><br/>
 <span>🔥&nbsp;</span>[**Паттерны проектирования на платформе .NET**](https://www.piter.com/product/patterny-proektirovaniya-na-platforme-net), 2016<br/>
 _[Сергей Тепляков](https://github.com/SergeyTeplyakov)_
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/9badc67a-7463-4aa2-adfa-beecde12e390" alt="Паттерны проектирования на платформе .NET" width="120" align="right"/><br/>
 <br clear="right"/>
 <hr/>
 
-<img src="https://github.com/timnavigate/bookshelf/assets/14907341/d16f19b8-dc6e-4c24-bcd3-a4eb47324d8c" alt="Принципы юнит-тестирования" width="100" align="right"/><br/>
 <span>🔥&nbsp;</span>[**Принципы юнит-тестирования**](https://www.piter.com/product/printsipy-yunit-testirovaniya), 2022<br/>
 _[Владимир Хориков](https://github.com/vkhorikov)_
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/d16f19b8-dc6e-4c24-bcd3-a4eb47324d8c" alt="Принципы юнит-тестирования" width="120" align="right"/><br/>
 
 _eng:_<br/>
 [Unit Testing Principles, Practices, and Patterns: Effective testing styles, patterns, and reliable automation for unit testing, mocking, and integration testing with examples in C# First Edition](https://www.amazon.com/Unit-Testing-Principles-Practices-Patterns/dp/1617296279), January 2020<br/>
@@ -50,9 +49,9 @@ _by [Vladimir Khorikov](https://github.com/vkhorikov)_
 <br clear="right"/>
 <hr/>
 
-<img src="https://github.com/timnavigate/bookshelf/assets/14907341/d4deffab-07de-4be8-91d3-9bb4528718f2" alt="Код, который умещается в голове" width="100" align="right"/><br/>
 [**Код, который умещается в голове**](https://www.piter.com/collection/recommend/product/robert-martin-rekomenduet-kod-kotoryy-umeschaetsya-v-golove-evristiki-dlya-razrabotchikov), 2023<br/>
 _[Марк Симан](https://github.com/ploeh)_
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/d4deffab-07de-4be8-91d3-9bb4528718f2" alt="Код, который умещается в голове" width="120" align="right"/><br/>
 
 _eng:_<br/>
 [Code That Fits in Your Head : Heuristics for Software Engineering (Robert C. Martin Series) 1st Edition](https://www.amazon.com/Code-That-Fits-Your-Head/dp/0137464401), November 2021<br/>
@@ -60,9 +59,9 @@ _by [Mark Seemann](https://github.com/ploeh)_
 <br clear="right"/>
 <hr/>
 
-<img src="https://github.com/timnavigate/bookshelf/assets/14907341/3b08135a-b207-484a-a2de-570bb97d36d1" alt="ASP.NET Core в действии" width="100" align="right"/><br/>
 [**ASP.NET Core в действии**](https://dmkpress.com/catalog/computer/web/978-5-97060-550-9/), Сентябрь 2021<br/>
 _[Эндрю Лок](https://github.com/andrewlock)_
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/3b08135a-b207-484a-a2de-570bb97d36d1" alt="ASP.NET Core в действии" width="120" align="right"/><br/>
 
 _eng:_<br/>
 [ASP.NET Core in Action, Second Edition 2nd Edition](https://www.amazon.com/ASP-NET-Core-Action-Second-Andrew/dp/1617298301), April 2021<br/>
@@ -70,9 +69,9 @@ _by [Andrew Lock](https://github.com/andrewlock)_
 <br clear="right"/>
 <hr/>
 
-<img src="https://github.com/timnavigate/bookshelf/assets/14907341/6b68dabb-ca77-416b-8330-cefed38190b6" alt="Software. Ошибки и компромиссы" width="100" align="right"/><br/>
 [**Software. Ошибки и компромиссы**](https://www.piter.com/product/software-oshibki-i-kompromissy-pri-razrabotke-po), 2023<br/>
 _[Джон Скит](https://github.com/jskeet/) и [Томаш Лелек](https://github.com/tomekl007)_
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/6b68dabb-ca77-416b-8330-cefed38190b6" alt="Software. Ошибки и компромиссы" width="120" align="right"/><br/>
 
 _eng:_<br/>
 [Software Mistakes and Tradeoffs: How to make good programming decisions](https://www.amazon.com/Software-Mistakes-Tradeoffs-programming-decisions/dp/1617299200), June 2022<br/>
