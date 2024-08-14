@@ -181,28 +181,47 @@ _by [Yegor Bugayenko](https://github.com/yegor256)_<br/>
 
     - Компьютерные сети
     - Искусство тестирования проникновения в сеть
-    
+    - Active Directory глазами хакера
+    - Безопасность контейнеров
+    - HTTP/2 в действии
+    - Высоконагруженные приложения
+    - 
     - Kubernetes в действии
     - Kubernetes изнутри
     - Kubernetes на практике
     
-    - Безопасность контейнеров
-    
     - Docker на практике
     - Docker Compose для разработчиков
-    
-    - HTTP/2 в действии
-
-    - Высоконагруженные приложения
-    
-    - Проектирование веб-API
-    - Паттерны проектирования API
-    - Непрерывное развитие API
     
     - Kafka в действии
     - Kafka Streams и ksqlDB
 
-    - Active Directory глазами хакера
+### api
+
+    - Проектирование веб-API
+    - Паттерны проектирования API
+    - Непрерывное развитие API
+
+#### Проектирование архитектуры API
+<img src="https://bhv.ru/wp-content/uploads/2024/05/3038_978-601-09-5053-5.jpg" alt="Проектирование архитектуры API" width="120" />
+
+[**Проектирование архитектуры API: Как правильно проектировать, развивать и эксплуатировать API**](https://bhv.ru/product/proektirovanie-arhitektury-api-kak-pravilno-proektirovat-razvivat-i-ekspluatirovat-api), bhv 2023  
+_[Джеймс Гоф](https://github.com/jpgough), Дэниэл Брайант, Мэтью Оберн_  
+
+<details>
+<summary>original:</summary>
+
+<img src="https://m.media-amazon.com/images/I/618JYtOzXoL._SL1318_.jpg" alt="Mastering API Architecture: Design, Operate and Evolve API-Based Systems" width="120" />  
+
+[Mastering API Architecture: Design, Operate and Evolve API-Based Systems](https://www.amazon.in/Mastering-API-Architecture-API-Based-Grayscale/dp/9355422083/), October 2022  
+_by [James Gough](https://github.com/jpgough), Daniel Bryant, Matthew Auburn_  
+
+</details>
+
+---
+
+#### Тестирование веб-API
+Марк Винтерингем
 
 ### databases
 
