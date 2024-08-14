@@ -4,16 +4,18 @@
 #### Проектирование веб-API
 <img src="https://dmkpress.com/images/cms/thumbs/a5b0aeaa3fa7d6e58d75710c18673bd7ec6d5f6d/978-5-97060-861-6-1_450_600_jpg__100.jpg" alt="Проектирование веб-API" width="120" />
 
-[Проектирование веб-API](https://dmkpress.com/catalog/computer/web/978-5-97060-861-6/), ДМК-Пресс 2020  
-_[Арно Лоре](https://github.com/arno-di-loreto)_
+[Проектирование веб-API](https://dmkpress.com/catalog/computer/web/978-5-97060-861-6/)  
+_[Арно Лоре](https://github.com/arno-di-loreto)_  
+ДМК-Пресс, 2020
 
 <details>
 <summary>анг. издание</summary>
 
 <img src="https://m.media-amazon.com/images/I/61ZND26BDZL._SL1500_.jpg" alt="The Design of Web APIs" width="120" />
 
-[The Design of Web APIs 1st edition](https://www.amazon.com/Design-Web-APIs-Arnaud-Lauret/dp/1617295108), November 2019  
-_by [Arnaud Lauret](https://github.com/arno-di-loreto)_
+[The Design of Web APIs 1st edition](https://www.amazon.com/Design-Web-APIs-Arnaud-Lauret/dp/1617295108)  
+_by [Arnaud Lauret](https://github.com/arno-di-loreto)_  
+Manning, November 2019
 
 </details>
 
@@ -21,21 +23,18 @@ _by [Arnaud Lauret](https://github.com/arno-di-loreto)_
 #### Проектирование архитектуры API
 <img src="https://bhv.ru/wp-content/uploads/2024/05/3038_978-601-09-5053-5.jpg" alt="Проектирование архитектуры API" width="120" />
 
-[**Проектирование архитектуры API: Как правильно проектировать, развивать и эксплуатировать API**](https://bhv.ru/product/proektirovanie-arhitektury-api-kak-pravilno-proektirovat-razvivat-i-ekspluatirovat-api), БХВ 2023
-
-_авторы:_ [Джеймс Гоф](https://github.com/jpgough), Дэниэл Брайант, Мэтью Оберн
+[**Проектирование архитектуры API: Как проектировать, развивать и эксплуатировать API**](https://bhv.ru/product/proektirovanie-arhitektury-api-kak-pravilno-proektirovat-razvivat-i-ekspluatirovat-api)  
+_[Джеймс Гоф](https://github.com/jpgough), Дэниэл Брайант, Мэтью Оберн_  
+БХВ, 2023
 
 <details>
 <summary>анг. издание</summary>
 
 <img src="https://m.media-amazon.com/images/I/618JYtOzXoL._SL1318_.jpg" alt="Mastering API Architecture: Design, Operate and Evolve API-Based Systems" width="120" />  
 
-[Mastering API Architecture: Design, Operate and Evolve API-Based Systems](https://www.amazon.in/Mastering-API-Architecture-API-Based-Grayscale/dp/9355422083/), October 2022
-
-_by:_
-- [James Gough](https://github.com/jpgough)
-- Daniel Bryant
-- Matthew Auburn
+[Mastering API Architecture: Design, Operate and Evolve API-Based Systems](https://www.amazon.in/Mastering-API-Architecture-API-Based-Grayscale/dp/9355422083/)    
+_by [James Gough](https://github.com/jpgough), Daniel Bryant, Matthew Auburn_  
+O’Reilly, October 2022
 
 </details>
 
@@ -43,16 +42,18 @@ _by:_
 #### Паттерны проектирования API
 <img src="https://static.insales-cdn.com/images/products/1/6799/639056527/44611984.jpg" alt="Паттерны проектирования API" width="120" />
 
-[Паттерны проектирования API](https://www.piter.com/product/patterny-proektirovaniya-api), Питер 2024  
-_[Джей Джей Гивакс](https://github.com/jgeewax)_
+[Паттерны проектирования API](https://www.piter.com/product/patterny-proektirovaniya-api)  
+_[Джей Джей Гивакс](https://github.com/jgeewax)_  
+Питер, 2024
 
 <details>
 <summary>анг. издание</summary>
 
 <img src="https://m.media-amazon.com/images/I/71-Q7YOvWkL._SL1500_.jpg" alt="API Design Patterns" width="120" />
 
-[API Design Patterns](https://www.amazon.com/API-Design-Patterns-JJ-Geewax/dp/161729585X), July 2021  
-_by [JJ Geewax](https://github.com/jgeewax)_
+[API Design Patterns](https://www.amazon.com/API-Design-Patterns-JJ-Geewax/dp/161729585X)  
+_by [JJ Geewax](https://github.com/jgeewax)_  
+Manning, July 2021
 
 </details>
 
@@ -60,16 +61,18 @@ _by [JJ Geewax](https://github.com/jgeewax)_
 #### Тестирование веб-API
 <img src="https://static.insales-cdn.com/images/products/1/2633/808274505/44612092.jpg" alt="Тестирование веб-API" width="120" />
 
-[Тестирование веб-API](https://www.piter.com/collection/top-2/product/testirovanie-veb-api), Питер 2024  
-_[Марк Винтерингем](https://github.com/mwinteringham)_
+[Тестирование веб-API](https://www.piter.com/collection/top-2/product/testirovanie-veb-api)  
+_[Марк Винтерингем](https://github.com/mwinteringham)_  
+Питер, 2024
 
 <details>
 <summary>анг. издание</summary>
 
 <img src="https://m.media-amazon.com/images/I/61RPbyND3FL._SL1500_.jpg" alt="Testing Web APIs" width="120" />
 
-[Testing Web APIs](https://www.amazon.com/Testing-Web-APIs-Mark-Winteringham/dp/1617299537), December 2022  
-_by [Mark Winteringham](https://github.com/mwinteringham)_
+[Testing Web APIs](https://www.amazon.com/Testing-Web-APIs-Mark-Winteringham/dp/1617299537)  
+_by [Mark Winteringham](https://github.com/mwinteringham)_  
+Manning, December 2022
 
 </details>
 
@@ -77,26 +80,19 @@ _by [Mark Winteringham](https://github.com/mwinteringham)_
 #### Непрерывное развитие API
 <img src="https://static.insales-cdn.com/images/products/1/5607/611374567/44612023.jpg" alt="Непрерывное развитие API" width="120" />
 
-[Непрерывное развитие API. Правильные решения в изменчивом технологическом ландшафте, 2-е изд.](https://www.piter.com/collection/bestsellery-oreilly/product/nepreryvnoe-razvitie-api-pravilnye-resheniya-v-izmenchivom-tehnologicheskom-landshafte-2-e-izd), Питер 2023
+[Непрерывное развитие API. Правильные решения в изменчивом технологическом ландшафте, 2-е изд.](https://www.piter.com/collection/bestsellery-oreilly/product/nepreryvnoe-razvitie-api-pravilnye-resheniya-v-izmenchivom-tehnologicheskom-landshafte-2-e-izd)  
+_Мехди Меджуи, [Эрик Уайлд](https://github.com/dret), [Ронни Митра](https://github.com/mitraman), [Майк Амундсен](https://github.com/mamund)_  
+Питер, 2023
 
-_авторы:_
-- Мехди Меджуи
-- [Эрик Уайлд](https://github.com/dret)
-- [Ронни Митра](https://github.com/mitraman)
-- [Майк Амундсен](https://github.com/mamund)
 
 <details>
 <summary>анг. издание</summary>
 
 <img src="https://m.media-amazon.com/images/I/81+paLnjOpL._SL1500_.jpg" alt="Continuous API Management: Making the Right Decisions in an Evolving Landscape 2nd Edition" width="120" />
 
-[Continuous API Management: Making the Right Decisions in an Evolving Landscape 2nd Edition](https://www.amazon.com/Continuous-API-Management-Decisions-Landscape/dp/1098103521), November 2021
-
-_by:_
-- Mehdi Medjaoui
-- [Erik Wilde](https://github.com/dret)
-- [Ronnie Mitra](https://github.com/mitraman)
-- [Mike Amundsen](https://github.com/mamund)
+[Continuous API Management: Making the Right Decisions in an Evolving Landscape 2nd Edition](https://www.amazon.com/Continuous-API-Management-Decisions-Landscape/dp/1098103521)  
+_by Mehdi Medjaoui, [Erik Wilde](https://github.com/dret), [Ronnie Mitra](https://github.com/mitraman), [Mike Amundsen](https://github.com/mamund)_  
+O'Reilly, November 2021
 
 </details>
 
@@ -333,7 +329,7 @@ _by [Ivan Grishaev](https://github.com/igrishaev)_<br/>
 
 ---
 
-### soft
+### Soft
 
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/0144c634-53ae-42b3-b5bf-40ef82e8cec2" alt="Наш код. Ремесло, профессия, искусство" width="100" align="right"/><br/>
 <span>🔥&nbsp;</span>[**Наш код. Ремесло, профессия, искусство**](https://www.piter.com/product/nash-kod-remeslo-professiya-iskusstvo), 2019<br/>
