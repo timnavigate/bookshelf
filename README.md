@@ -50,7 +50,7 @@ tags:  `api`
 
 ---
 #### Проектирование веб-API
-<img src="https://dmkpress.com/images/cms/thumbs/a5b0aeaa3fa7d6e58d75710c18673bd7ec6d5f6d/978-5-97060-861-6-1_450_600_jpg__100.jpg" alt="Проектирование веб-API" width="120" />
+<img src="https://www.dmkpress.com/upload/iblock/71a/uclujzb33ygz8su0ixjhk7n7ybphd26z.jpg" alt="Проектирование веб-API" width="120" />  
 
 [Проектирование веб-API](https://dmkpress.com/catalog/computer/web/978-5-97060-861-6/)  
 _[Арно Лоре](https://github.com/arno-di-loreto)_  
