@@ -46,7 +46,7 @@
 [**API как искусство: разработка, поддержка, интеграция**](https://bhv.ru/product/api-kak-iskusstvo-razrabotka-podderzhka-integratsiya/)  
 _`authored by` [Сергей Константинов](https://github.com/twirl/The-API-Book)_  
 _`publisher` ДМК-Пресс_  
-_`publication date` 2025_
+_`published at` 2025_
 
 tags:  [`api`](#API-как-искусство)
 
