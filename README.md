@@ -42,10 +42,8 @@
 #### API как искусство
 <img alt="API как искусство: разработка, поддержка, интеграция. Сергей Константинов" width="120" src="https://bhv.ru/wp-content/uploads/2025/04/3133_978-5-9775-2084-3.jpg" />
 
-[API как искусство: разработка, поддержка, интеграция](https://bhv.ru/product/api-kak-iskusstvo-razrabotka-podderzhka-integratsiya/)
-
-_[Сергей Константинов](https://github.com/twirl/The-API-Book)_
-
+[API как искусство: разработка, поддержка, интеграция](https://bhv.ru/product/api-kak-iskusstvo-razrabotka-podderzhka-integratsiya/)  
+_[Сергей Константинов](https://github.com/twirl/The-API-Book)_  
 _ДМК-Пресс, 2025_
 
 tags:  `api`
@@ -54,11 +52,9 @@ tags:  `api`
 #### Проектирование веб-API
 <img alt="Проектирование веб-API" width="120" src="https://www.dmkpress.com/upload/iblock/71a/uclujzb33ygz8su0ixjhk7n7ybphd26z.jpg" />  
 
-[Проектирование веб-API](https://dmkpress.com/catalog/computer/web/978-5-97060-861-6/)
-
-_[Арно Лоре](https://github.com/arno-di-loreto)_
-
-ДМК-Пресс, 2020
+[Проектирование веб-API](https://dmkpress.com/catalog/computer/web/978-5-97060-861-6/)  
+_[Арно Лоре](https://github.com/arno-di-loreto)_  
+_ДМК-Пресс, 2020_
 
 <details>
     <summary>
@@ -80,11 +76,9 @@ tags:  `api` `api-design`
 #### Проектирование архитектуры API
 <img alt="Проектирование архитектуры API" width="120" src="https://bhv.ru/wp-content/uploads/2024/05/3038_978-601-09-5053-5.jpg" />
 
-[Проектирование архитектуры API: Как проектировать, развивать и эксплуатировать API](https://bhv.ru/product/proektirovanie-arhitektury-api-kak-pravilno-proektirovat-razvivat-i-ekspluatirovat-api)
-
-_[Джеймс Гоф](https://github.com/jpgough), Дэниэл Брайант, Мэтью Оберн_
-
-БХВ, 2023
+[Проектирование архитектуры API: Как проектировать, развивать и эксплуатировать API](https://bhv.ru/product/proektirovanie-arhitektury-api-kak-pravilno-proektirovat-razvivat-i-ekspluatirovat-api)  
+_[Джеймс Гоф](https://github.com/jpgough), Дэниэл Брайант, Мэтью Оберн_  
+_БХВ, 2023_
 
 <details>
     <summary>
@@ -106,11 +100,9 @@ tags:  `api` `api-design` `architecture`
 #### Паттерны проектирования API
 <img src="https://static.insales-cdn.com/images/products/1/6799/639056527/44611984.jpg" alt="Паттерны проектирования API" width="120" />
 
-[Паттерны проектирования API](https://www.piter.com/product/patterny-proektirovaniya-api)
-
-_[Джей Джей Гивакс](https://github.com/jgeewax)_
-
-Питер, 2024
+[Паттерны проектирования API](https://www.piter.com/product/patterny-proektirovaniya-api)  
+_[Джей Джей Гивакс](https://github.com/jgeewax)_  
+_Питер, 2024_
 
 <details>
     <summary>
@@ -132,11 +124,9 @@ tags:  `api` `api-design` `patterns`
 #### Тестирование веб-API
 <img src="https://static.insales-cdn.com/images/products/1/2633/808274505/44612092.jpg" alt="Тестирование веб-API" width="120" />
 
-[Тестирование веб-API](https://www.piter.com/collection/top-2/product/testirovanie-veb-api)
-
-_[Марк Винтерингем](https://github.com/mwinteringham)_
-
-Питер, 2024
+[Тестирование веб-API](https://www.piter.com/collection/top-2/product/testirovanie-veb-api)  
+_[Марк Винтерингем](https://github.com/mwinteringham)_  
+_Питер, 2024_
 
 <details>
     <summary>
@@ -158,11 +148,9 @@ tags:  `api` `testops`
 #### Непрерывное развитие API
 <img src="https://static.insales-cdn.com/images/products/1/5607/611374567/44612023.jpg" alt="Непрерывное развитие API" width="120" />
 
-[Непрерывное развитие API. Правильные решения в изменчивом технологическом ландшафте, 2-е изд.](https://www.piter.com/collection/bestsellery-oreilly/product/nepreryvnoe-razvitie-api-pravilnye-resheniya-v-izmenchivom-tehnologicheskom-landshafte-2-e-izd)
-
-_Мехди Меджуи, [Эрик Уайлд](https://github.com/dret), [Ронни Митра](https://github.com/mitraman), [Майк Амундсен](https://github.com/mamund)_
-
-Питер, 2023
+[Непрерывное развитие API. Правильные решения в изменчивом технологическом ландшафте, 2-е изд.](https://www.piter.com/collection/bestsellery-oreilly/product/nepreryvnoe-razvitie-api-pravilnye-resheniya-v-izmenchivom-tehnologicheskom-landshafte-2-e-izd)  
+_Мехди Меджуи, [Эрик Уайлд](https://github.com/dret), [Ронни Митра](https://github.com/mitraman), [Майк Амундсен](https://github.com/mamund)_  
+_Питер, 2023_
 
 <details>
     <summary>
@@ -184,10 +172,8 @@ tags:  `api` `architecture`
 #### Разработка требований к программному обеспечению
 <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
-[Разработка требований к программному обеспечению](https://bhv.ru/product/razrabotka-trebovanij-k-programmnomu-obespecheniyu-3-izd)
-
-_[Карл Вигерс](), [Джой Битти]()_
-
+[Разработка требований к программному обеспечению](https://bhv.ru/product/razrabotka-trebovanij-k-programmnomu-obespecheniyu-3-izd)  
+_[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers), [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_  
 _`publishing`, `year`_
 
 <details>
@@ -228,9 +214,19 @@ tags:  `software-requirements` `requirements-engineering`
 <br/>
 <i>[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers) и [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)</i>
 
-[Software Requirements](https://www.google.com/search?q=Karl+Wiegers), `Month` `Year`
-
-_by [Karl Wiegers](https://www.google.com/search?q=Karl+Wiegers) and [Joy Beatty](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_
+<details>
+    <summary>
+      <i>анг. издание</i>
+    </summary>
+    <br/>
+    <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
+    <br/>
+    <a href="https://www.google.com/search?q=Karl+Wiegers">Software Requirements</a>
+    <br/>
+    <i>by <a href="https://www.google.com/search?q=Karl+Wiegers">Karl Wiegers</a> and <a href="https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty">Joy Beatty</a></i>
+    <br/>
+    <i>publishing, month year</i>
+</details>
 
 tags:  `software-requirements` `requirements-engineering`
 
