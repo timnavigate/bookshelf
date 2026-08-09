@@ -173,8 +173,7 @@ tags:  `api` `architecture`
 #### Разработка требований к программному обеспечению
 <img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
-<span>`status`&nbsp;</span>
-[**Разработка требований к программному обеспечению**](https://bhv.ru/product/razrabotka-trebovanij-k-programmnomu-obespecheniyu-3-izd),  
+<span>`status`&nbsp;</span>[**Разработка требований к программному обеспечению**](https://bhv.ru/product/razrabotka-trebovanij-k-programmnomu-obespecheniyu-3-izd),  
 _[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers), [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_  
 _`publishing`, `year`_
 
