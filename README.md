@@ -91,7 +91,7 @@ _[Джеймс Гоф](https://github.com/jpgough), Дэниэл Брайант,
 <br/>
 <i>by <a href="https://github.com/jpgough">James Gough</a>, Daniel Bryant, Matthew Auburn</i>
 <br/>
-O’Reilly, October 2022
+<i>O’Reilly, October 2022</i>
 </details>
 
 tags:  `api` `api-design` `architecture`
@@ -170,9 +170,11 @@ tags:  `api` `architecture`
 
 ---
 #### Разработка требований к программному обеспечению
-...
+<img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
-авторы - Карл Вигерс (Karl Wiegers) и Джой Битти (Joy Beatty)
+[Разработка требований к программному обеспечению][]
+_[Карл Вигерс](), [Джой Битти]()_
+`publishing`, `year`
 
 <details>
 <summary>
@@ -192,25 +194,21 @@ tags:  `software-requirements` `requirements-engineering`
 
 ---
 #### Разработка требований к программному обеспечению 2
-<span>🔥&nbsp;</span>
-[Разработка требований к программному обеспечению](https://www.google.com/search?q=Karl+Wiegers), Месяц Год
+<!--<span>`emoji`&nbsp;</span>-->
+[Разработка требований к программному обеспечению](https://www.google.com/search?q=Karl+Wiegers), `Месяц` `Год`
+<img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 <br/>
 <i>[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers) и [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)</i>
-<img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 <br/>
-_eng:_
-<br/>
-[Software Requirements](https://www.google.com/search?q=Karl+Wiegers), Month Year
+[Software Requirements](https://www.google.com/search?q=Karl+Wiegers), `Month` `Year`
 <br/>
 _by [Karl Wiegers](https://www.google.com/search?q=Karl+Wiegers) and [Joy Beatty](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_
-<br/>
+
 tags:  `software-requirements` `requirements-engineering`
-<br/>
-<br clear="right"/>
 
 ---
 #### System Design. Подготовка к сложному интервью
-...
+<img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
 автор - Алекс Сюй
 
@@ -232,7 +230,7 @@ tags:  `system design`
 
 ---
 #### System Design. Машинное обучение. Подготовка к сложному интервью
-...
+<img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
 авторы - Алекс Сюй и Али Аминиан
 
@@ -255,7 +253,7 @@ tags:  `system design` `ml`
 
 ---
 #### Современная программная инженерия
-...
+<img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
 автор - Дэвид Фарли 
 
