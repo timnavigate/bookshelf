@@ -340,10 +340,12 @@ tags:  `dotnet` `dependency-injection` `patterns`
 #### Паттерны проектирования на платформе .NET
 <img alt="Паттерны проектирования на платформе .NET" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/9badc67a-7463-4aa2-adfa-beecde12e390" />
 
-<span>&nbsp;</span>
+<span>🔥&nbsp;</span>
 [**Паттерны проектирования на платформе .NET**](https://www.piter.com/product/patterny-proektirovaniya-na-platforme-net), 2016  
 _[Сергей Тепляков](https://github.com/SergeyTeplyakov)_  
 _`publishing`, `year`_
+
+...
 
 tags:  `dotnet` `patterns`
 
@@ -381,9 +383,9 @@ tags:  `dotnet`
 
 ---
 #### ASP.NET Core в действии
-<span>🔥&nbsp;</span>
 <img alt="ASP.NET Core в действии" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/3b08135a-b207-484a-a2de-570bb97d36d1" />
 
+<span>🔥&nbsp;</span>
 [**ASP.NET Core в действии**](https://dmkpress.com/catalog/computer/web/978-5-97060-550-9/), Сентябрь 2021  
 _[Эндрю Лок](https://github.com/andrewlock)_  
 _`publishing`, `year`_
@@ -397,12 +399,14 @@ tags:  `dotnet` `dotnet-core`
 
 ---
 #### Software. Ошибки и компромиссы
-<img alt="Software. Ошибки и компромиссы" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/6b68dabb-ca77-416b-8330-cefed38190b6"  />
+<img alt="Software. Ошибки и компромиссы" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/6b68dabb-ca77-416b-8330-cefed38190b6"  />
 
 <span>🖼&nbsp;</span>
-[**Software. Ошибки и компромиссы**](https://www.piter.com/product/software-oshibki-i-kompromissy-pri-razrabotke-po), 2023
-_[Джон Скит](https://github.com/jskeet/) и [Томаш Лелек](https://github.com/tomekl007)_
-_`publishing`, `year`_
+[**Software. Ошибки и компромиссы**](https://www.piter.com/product/software-oshibki-i-kompromissy-pri-razrabotke-po)  
+_[Джон Скит](https://github.com/jskeet/) и [Томаш Лелек](https://github.com/tomekl007)_  
+_`publishing`, 2023_
+
+...
 
 <details>
     <summary><i>анг. издание</i></summary>
@@ -419,9 +423,9 @@ tags:  `dotnet` `dotnet-core` `jon-skeet`
 <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
 <span>🖼&nbsp;</span>
-[**Параллельное программирование на C# и .NET Core**](https://dmkpress.com/catalog/computer/programming/c/978-5-97060-851-7/), Ноябрь 2021  
+[**Параллельное программирование на C# и .NET Core**](https://dmkpress.com/catalog/computer/programming/c/978-5-97060-851-7/)  
 _by [Shakti Tanwar](https://github.com/shaktisinghtanwar)_  
-_`pulishing`, `year`_
+_Ноябрь, 2021_
 
 tags:  `dotnet` `dotnet-core` `concurrency`
 
@@ -429,9 +433,9 @@ tags:  `dotnet` `dotnet-core` `concurrency`
 <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
 <span>🖼&nbsp;</span>
-[**Pro Microservices in .NET 6**](https://www.amazon.com/Pro-Microservices-NET-MassTransit-Kubernetes/dp/1484278321), 2022  
+[**Pro Microservices in .NET 6**](https://www.amazon.com/Pro-Microservices-NET-MassTransit-Kubernetes/dp/1484278321)  
 _by [Sean Whitesell](https://github.com/seanw122), [Rob Richardson](https://github.com/robrich) and [Matthew D. Groves](https://github.com/mgroves)_  
-_`pulishing`, `year`_
+_`pulishing`, 2022_
 
 tags:  `dotnet` `microservices` `patterns` `architecture`
 
@@ -439,9 +443,9 @@ tags:  `dotnet` `microservices` `patterns` `architecture`
 <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211"  />
 
 <span>🖼&nbsp;</span>
-[**Безопасность ASP.NET Core**](https://dmkpress.com/catalog/computer/web/978-5-93700-176-4/), Апрель 2023  
+[**Безопасность ASP.NET Core**](https://dmkpress.com/catalog/computer/web/978-5-93700-176-4/)  
 _by [Christian Wenz](https://github.com/wenz)_  
-_`publish`, `year`_
+_Апрель, 2023_
 
 tags:  `dotnet` `aspnet-core` `security`
 
@@ -449,9 +453,9 @@ tags:  `dotnet` `aspnet-core` `security`
 <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
 <span>🖼&nbsp;</span>
-[**C# 9.0. Карманный справочник**](https://www.ozon.ru/product/c-9-0-karmannyy-spravochnik-albahari-ben-albahari-dzhozef-251632157/), 2021  
+[**C# 9.0. Карманный справочник**](https://www.ozon.ru/product/c-9-0-karmannyy-spravochnik-albahari-ben-albahari-dzhozef-251632157/)  
 _by [Joe Albahari](https://www.albahari.com/) and [Ben Albahari](https://www.albahari.com/)__  
-_`publish`, `year`_
+_`publish`, 2021_
 
 tags:  `dotnet` `c#`
 
@@ -459,9 +463,9 @@ tags:  `dotnet` `c#`
 <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
 <span>🖼&nbsp;</span>
-[**Адаптивный код. 2-е издание**](https://www.ozon.ru/product/adaptivnyy-kod-gibkoe-kodirovanie-s-pomoshchyu-patternov-proektirovaniya-i-printsipov-solid-2-341104039/), 2019  
+[**Адаптивный код. 2-е издание**](https://www.ozon.ru/product/adaptivnyy-kod-gibkoe-kodirovanie-s-pomoshchyu-patternov-proektirovaniya-i-printsipov-solid-2-341104039/)  
 _by [Gary McLean Hall](https://github.com/garymcleanhall)_  
-_`publish`, `year`_
+_`publish`, 2019_
 
 tags:  `dotnet` `c#`
 
@@ -469,9 +473,9 @@ tags:  `dotnet` `c#`
 <img alt="Apps and Services with .NET 8" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/ddc5d172-e74f-40d7-aea4-bb8133b115d1" />
 
 <span>🛒&nbsp;</span>
-[**Apps and Services with .NET 8**](https://www.packtpub.com/product/apps-and-services-with-net-8-second-edition/9781837637133), December 2023  
+[**Apps and Services with .NET 8**](https://www.packtpub.com/product/apps-and-services-with-net-8-second-edition/9781837637133)  
 _by [Mark J. Price](https://github.com/markjprice)_  
-_`publish`, `year`_
+_December, 2023_
 
 tags:  `dotnet`
 
@@ -479,9 +483,9 @@ tags:  `dotnet`
 <img alt="Entity Framework Core in Action" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/b27e2f90-d2c2-41af-aaf9-cfa21883ce6d" />
 
 <span>🛒&nbsp;</span>
-[**Entity Framework Core in Action**](https://www.manning.com/books/entity-framework-core-in-action), May 2021  
+[**Entity Framework Core in Action**](https://www.manning.com/books/entity-framework-core-in-action)  
 _by [Jon P Smith](https://github.com/JonPSmith)_  
-_`publish`, `year`_
+_May, 2021_
 
 tags:  `dotnet` `ef-core`
 
