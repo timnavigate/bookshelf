@@ -213,7 +213,7 @@ tags:  `software-requirements` `requirements-engineering`
 <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 <br/>
 <i>[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers) и [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)</i>
-<br/>
+
 [Software Requirements](https://www.google.com/search?q=Karl+Wiegers), `Month` `Year`
 <br/>
 _by [Karl Wiegers](https://www.google.com/search?q=Karl+Wiegers) and [Joy Beatty](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_
@@ -224,12 +224,12 @@ tags:  `software-requirements` `requirements-engineering`
 #### Разработка требований к программному обеспечению 3
 <span>`emoji`&nbsp;</span>
 [Разработка требований к программному обеспечению](https://www.google.com/search?q=Karl+Wiegers), `Месяц` `Год`
-<br/>
-<i>[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers) и [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)</i>
 <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 <br/>
+<i>[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers) и [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)</i>
+
 [Software Requirements](https://www.google.com/search?q=Karl+Wiegers), `Month` `Year`
-<br/>
+
 _by [Karl Wiegers](https://www.google.com/search?q=Karl+Wiegers) and [Joy Beatty](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_
 
 tags:  `software-requirements` `requirements-engineering`
