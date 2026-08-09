@@ -16,7 +16,7 @@
 - [Внедрение зависимостей на платформе .NET](#Внедрение-зависимостей-на-платформе-NET)
 - [Паттерны проектирования на платформе .NET](#Паттерны-проектирования-на-платформе-NET)
 - [Принципы юнит-тестирования](#Принципы-юнит-тестирования)
-- [Код, который умещается в голове ](#Код,-который-умещается-в-голове-)
+- [Код, который умещается в голове](#Код-который-умещается-в-голове)
 - [ASP.NET Core в действии](#ASPNET-Core-в-действии)
 - [Software. Ошибки и компромиссы](#Software-Ошибки-и-компромиссы)
 - [not sorted yet stage 2](#not-sorted-yet-stage-2)
@@ -193,7 +193,7 @@ tags:  `software-requirements` `requirements-engineering`
 <img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
 <span>`status`&nbsp;</span><br/>
-[**System Design. Подготовка к сложному интервью**](),  
+[**System Design. Подготовка к сложному интервью**]()  
 _[Алекс Сюй]()_  
 _`publishing`, `year`_
 
@@ -212,7 +212,7 @@ tags:  `system design`
 <img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
 <span>`status`&nbsp;</span><br/>
-[**System Design. Подготовка к сложному интервью**](),  
+[**System Design. Подготовка к сложному интервью**]()  
 _[Алекс Сюй]() и [Али Аминиан]()_  
 _`publishing`, `year`_
 
@@ -231,7 +231,7 @@ tags:  `system design` `ml`
 <img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
 <span>`status`&nbsp;</span><br/>
-[**Современная программная инженерия**](),  
+[**Современная программная инженерия**]()  
 _[Дэвид Фарли]()_  
 _`publishing`, `year`_ 
 
@@ -428,81 +428,73 @@ tags:  `dotnet` `dotnet-core` `jon-skeet`
 ---
 #### not sorted yet stage 2
 <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
-<br/>
-<span>🖼&nbsp;</span>
-[**Параллельное программирование на C# и .NET Core**](https://dmkpress.com/catalog/computer/programming/c/978-5-97060-851-7/), Ноябрь 2021
-<br/>
-<i>by [Shakti Tanwar](https://github.com/shaktisinghtanwar)</i>
-<br/>
+
+<span>🖼&nbsp;</span><br/>
+[**Параллельное программирование на C# и .NET Core**](https://dmkpress.com/catalog/computer/programming/c/978-5-97060-851-7/), Ноябрь 2021  
+_by [Shakti Tanwar](https://github.com/shaktisinghtanwar)_  
+_`pulishing`, `year`_
+
 tags:  `dotnet` `dotnet-core` `concurrency`
-<br/>
-<br clear="right"/>
 
+---
 <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
-<br/>
-<span>🖼&nbsp;</span>
-[**Pro Microservices in .NET 6**](https://www.amazon.com/Pro-Microservices-NET-MassTransit-Kubernetes/dp/1484278321), 2022
-<br/>
-<i>by [Sean Whitesell](https://github.com/seanw122), [Rob Richardson](https://github.com/robrich) and [Matthew D. Groves](https://github.com/mgroves)</i>
-<br/>
+
+<span>🖼&nbsp;</span><br/>
+[**Pro Microservices in .NET 6**](https://www.amazon.com/Pro-Microservices-NET-MassTransit-Kubernetes/dp/1484278321), 2022  
+_by [Sean Whitesell](https://github.com/seanw122), [Rob Richardson](https://github.com/robrich) and [Matthew D. Groves](https://github.com/mgroves)_  
+_`pulishing`, `year`_
+
 tags:  `dotnet` `microservices` `patterns` `architecture`
-<br/>
-<br clear="right"/>
 
+---
 <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211"  />
-<br/>
-<span>🖼&nbsp;</span>
-[**Безопасность ASP.NET Core**](https://dmkpress.com/catalog/computer/web/978-5-93700-176-4/), Апрель 2023
-<br/>
-<i>by [Christian Wenz](https://github.com/wenz)</i>
-<br/>
+
+<span>🖼&nbsp;</span><br/>
+[**Безопасность ASP.NET Core**](https://dmkpress.com/catalog/computer/web/978-5-93700-176-4/), Апрель 2023  
+_by [Christian Wenz](https://github.com/wenz)_  
+_`publish`, `year`_
+
 tags:  `dotnet` `aspnet-core` `security`
-<br/>
-<br clear="right"/>
 
+---
 <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
-<br/>
-<span>🖼&nbsp;</span>
-[**C# 9.0. Карманный справочник**](https://www.ozon.ru/product/c-9-0-karmannyy-spravochnik-albahari-ben-albahari-dzhozef-251632157/), 2021
-<br/>
-<i>by [Joe Albahari](https://www.albahari.com/) and [Ben Albahari](https://www.albahari.com/)</i>
-<br/>
-tags:  `dotnet` `c#`
-<br/>
-<br clear="right"/>
 
+<span>🖼&nbsp;</span><br/>
+[**C# 9.0. Карманный справочник**](https://www.ozon.ru/product/c-9-0-karmannyy-spravochnik-albahari-ben-albahari-dzhozef-251632157/), 2021  
+_by [Joe Albahari](https://www.albahari.com/) and [Ben Albahari](https://www.albahari.com/)__  
+_`publish`, `year`_
+
+tags:  `dotnet` `c#`
+
+---
 <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
-<br/>
-<span>🖼&nbsp;</span>
-[**Адаптивный код. 2-е издание**](https://www.ozon.ru/product/adaptivnyy-kod-gibkoe-kodirovanie-s-pomoshchyu-patternov-proektirovaniya-i-printsipov-solid-2-341104039/), 2019
-<br/>
-<i>by [Gary McLean Hall](https://github.com/garymcleanhall)</i>
-<br/>
-tags:  `dotnet` `c#`
-<br/>
-<br clear="right"/>
 
+<span>🖼&nbsp;</span><br/>
+[**Адаптивный код. 2-е издание**](https://www.ozon.ru/product/adaptivnyy-kod-gibkoe-kodirovanie-s-pomoshchyu-patternov-proektirovaniya-i-printsipov-solid-2-341104039/), 2019  
+_by [Gary McLean Hall](https://github.com/garymcleanhall)_  
+_`publish`, `year`_
+
+tags:  `dotnet` `c#`
+
+---
 <img alt="Apps and Services with .NET 8" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/ddc5d172-e74f-40d7-aea4-bb8133b115d1" />
-<br/>
-<span>🛒&nbsp;</span>
-[**Apps and Services with .NET 8**](https://www.packtpub.com/product/apps-and-services-with-net-8-second-edition/9781837637133), December 2023
-<br/>
-<i>by [Mark J. Price](https://github.com/markjprice)</i>
-<br/>
-tags:  `dotnet`
-<br/>
-<br clear="right"/>
 
+<span>🛒&nbsp;</span><br/>
+[**Apps and Services with .NET 8**](https://www.packtpub.com/product/apps-and-services-with-net-8-second-edition/9781837637133), December 2023  
+_by [Mark J. Price](https://github.com/markjprice)_  
+_`publish`, `year`_
+
+tags:  `dotnet`
+
+---
 <img alt="" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/b27e2f90-d2c2-41af-aaf9-cfa21883ce6d" />
-<br/>
-<span>🛒&nbsp;</span>
-[**Entity Framework Core in Action**](https://www.manning.com/books/entity-framework-core-in-action), May 2021
-<br/>
-<i>by [Jon P Smith](https://github.com/JonPSmith)</i>
-<br/>
+
+<span>🛒&nbsp;</span><br/>
+[**Entity Framework Core in Action**](https://www.manning.com/books/entity-framework-core-in-action), May 2021  
+_by [Jon P Smith](https://github.com/JonPSmith)</i>
+_`publish`, `year`_
+
 tags:  `dotnet` `ef-core`
-<br/>
-<br clear="right"/>
 
 ---
 #### Паттерны программирования игр
@@ -554,50 +546,43 @@ tags:  `xslt`
 ---
 #### Elegant Objects
 <img alt="Elegant Objects, Volume 1" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/38ad581e-f6db-461b-b711-efea661c00c6" />
-<br/>
-<span>🔥&nbsp;</span>
-[**Elegant Objects, Volume 1**](https://www.amazon.com/Elegant-Objects-1-Yegor-Bugayenko/dp/1519166915), February 17, 2016
-<br/>
-<i>by [Yegor Bugayenko](https://github.com/yegor256)</i>
-<br/>
-tags:  `yegor256` `elegant-objects`
-<br/>
-<br clear="right"/>
 
-<img alt="Элегантные объекты. Java Edition" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/97b5d651-2eda-4a97-a85a-60d23283e2bf" />
-<br/>
-[**Элегантные объекты. Java Edition**](https://www.piter.com/collection/A32721/product/elegantnye-obekty-java-edition), 2018
-<br/>
-<i>by [Yegor Bugayenko](https://github.com/yegor256)</i>
-<br/>
+<span>🔥&nbsp;</span><br/>
+[**Elegant Objects, Volume 1**](https://www.amazon.com/Elegant-Objects-1-Yegor-Bugayenko/dp/1519166915), February 17, 2016  
+_by [Yegor Bugayenko](https://github.com/yegor256)_  
+_`publish`, `year`_
+
 tags:  `yegor256` `elegant-objects`
-<br/>
-<br clear="right"/>
+
+---
+<img alt="Элегантные объекты. Java Edition" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/97b5d651-2eda-4a97-a85a-60d23283e2bf" />
+
+[**Элегантные объекты. Java Edition**](https://www.piter.com/collection/A32721/product/elegantnye-obekty-java-edition), 2018  
+_by [Yegor Bugayenko](https://github.com/yegor256)_  
+_`publish`, `year`_
+
+tags:  `yegor256` `elegant-objects`
 
 ---
 #### Clojure на производстве
 <img alt="Clojure на производстве" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/89dba865-ac22-4c7b-95db-6d59f73279a8" />
-<br/>
-[**Clojure на производстве**](https://dmkpress.com/catalog/computer/programming/functional/978-5-93700-055-2), Ноябрь 2021
-<br/>
-<i>by [Ivan Grishaev](https://github.com/igrishaev)</i>
-<br/>
+
+[**Clojure на производстве**](https://dmkpress.com/catalog/computer/programming/functional/978-5-93700-055-2), Ноябрь 2021  
+_by [Ivan Grishaev](https://github.com/igrishaev)_  
+_`publish`, `year`_
+
 tags:  `clojure`
-<br/>
-<br clear="right"/>
 
 ---
 #### Code Ahead
 <img alt="Наш код. Ремесло, профессия, искусство" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/0144c634-53ae-42b3-b5bf-40ef82e8cec2" />
-<br/>
-<span>🔥&nbsp;</span>
-[**Наш код. Ремесло, профессия, искусство**](https://www.piter.com/product/nash-kod-remeslo-professiya-iskusstvo), 2019
-<br/>
-<i>by [Yegor Bugayenko](https://github.com/yegor256)</i>
-<br/>
+
+<span>🔥&nbsp;</span><br/>
+[**Наш код. Ремесло, профессия, искусство**](https://www.piter.com/product/nash-kod-remeslo-professiya-iskusstvo), 2019  
+_by [Yegor Bugayenko](https://github.com/yegor256)_  
+_`publish`, `year`_
+
 tags:  `yegor256` `code-ahead`
-<br/>
-<br clear="right"/>
 
 ---
 #### linux and unix
