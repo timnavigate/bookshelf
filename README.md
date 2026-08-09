@@ -180,10 +180,11 @@ _`publishing`, `year`_
     <summary>
       <i>анг. издание</i>
     </summary>
+    <br/>
     <a href="">Software Requirements</a>
+    <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
     <br/>
     <i>by <a href="">Karl Wiegers</a> and <a href="">Joy Beatty</a></i>
-    <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
     <br/>
     <i>publishing, month year</i>
 </details>
