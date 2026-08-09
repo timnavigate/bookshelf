@@ -10,7 +10,7 @@
 - [System Design. Подготовка к сложному интервью](#System-Design-Подготовка-к-сложному-интервью)
 - [System Design. Машинное обучение. Подготовка к сложному интервью](#System-Design-Машинное-обучение-Подготовка-к-сложному-интервью)
 - [Современная программная инженерия](#Современная-программная-инженерия)
-- [not sorted yet stage 2](#not-sorted-yet-stage-2)
+- [not sorted yet stage 1](#not-sorted-yet-stage-1)
 - [Управление памятью в .NET для профессионалов](#Управление-памятью-в-NET-для-профессионалов)
 - [Конкурентность в C#](#Конкурентность-в-C#)
 - [Внедрение зависимостей на платформе .NET](#Внедрение-зависимостей-на-платформе-NET)
@@ -46,6 +46,8 @@
 _[Сергей Константинов](https://github.com/twirl/The-API-Book)_  
 ДМК-Пресс, 2025
 
+tags:  `api`
+
 ---
 #### Проектирование веб-API
 <img src="https://dmkpress.com/images/cms/thumbs/a5b0aeaa3fa7d6e58d75710c18673bd7ec6d5f6d/978-5-97060-861-6-1_450_600_jpg__100.jpg" alt="Проектирование веб-API" width="120" />
@@ -67,6 +69,8 @@ _[Арно Лоре](https://github.com/arno-di-loreto)_
 <br/>
 Manning, November 2019
 </details>
+
+tags:  `api` `api-design`
 
 ---
 #### Проектирование архитектуры API
@@ -90,6 +94,8 @@ _[Джеймс Гоф](https://github.com/jpgough), Дэниэл Брайант,
 O’Reilly, October 2022
 </details>
 
+tags:  `api` `api-design` `architecture`
+
 ---
 #### Паттерны проектирования API
 <img src="https://static.insales-cdn.com/images/products/1/6799/639056527/44611984.jpg" alt="Паттерны проектирования API" width="120" />
@@ -111,6 +117,8 @@ _[Джей Джей Гивакс](https://github.com/jgeewax)_
 <br/>
 Manning, July 2021
 </details>
+
+tags:  `api` `api-design` `patterns`
 
 ---
 #### Тестирование веб-API
@@ -134,6 +142,8 @@ _[Марк Винтерингем](https://github.com/mwinteringham)_
 Manning, December 2022
 </details>
 
+tags:  `api` `testops`
+
 ---
 #### Непрерывное развитие API
 <img src="https://static.insales-cdn.com/images/products/1/5607/611374567/44612023.jpg" alt="Непрерывное развитие API" width="120" />
@@ -141,7 +151,6 @@ Manning, December 2022
 [Непрерывное развитие API. Правильные решения в изменчивом технологическом ландшафте, 2-е изд.](https://www.piter.com/collection/bestsellery-oreilly/product/nepreryvnoe-razvitie-api-pravilnye-resheniya-v-izmenchivom-tehnologicheskom-landshafte-2-e-izd)  
 _Мехди Меджуи, [Эрик Уайлд](https://github.com/dret), [Ронни Митра](https://github.com/mitraman), [Майк Амундсен](https://github.com/mamund)_  
 Питер, 2023
-
 
 <details>
 <summary>
@@ -157,24 +166,99 @@ _Мехди Меджуи, [Эрик Уайлд](https://github.com/dret), [Ро�
 O'Reilly, November 2021
 </details>
 
+tags:  `api` `architecture`
+
 ---
 #### Разработка требований к программному обеспечению
 ...
+
+авторы - Карл Вигерс (Karl Wiegers) и Джой Битти (Joy Beatty)
+
+<details>
+<summary>
+  <i>анг. издание</i>
+</summary>
+<br/>
+<img src="" alt="Software Requirements by Karl Wiegers and Joy Beatty" width="120" />
+<br/>
+<a href="">Software Requirements</a>
+<br/>
+<i>by <a href="">Karl Wiegers</a> and <a href="">Joy Beatty</a></i>
+<br/>
+<i>`publishing`, `month yaar`</i>
+</details>
+
+tags:  `software requirements` `requirements engineering`
 
 ---
 #### System Design. Подготовка к сложному интервью
 ...
 
+автор - Алекс Сюй
+
+<details>
+<summary>
+  <i>анг. издание</i>
+</summary>
+<br/>
+<img src="" alt="System Design Interview – An insider's guide by Alex Xu" width="120" />
+<br/>
+<a href="">System Design Interview – An insider's guide</a>
+<br/>
+<i>by <a href="">Alex Xu</a></i>
+<br/>
+<i>`publishing`, `month yaar`</i>
+</details>
+
+tags:  `system design`
+
 ---
 #### System Design. Машинное обучение. Подготовка к сложному интервью
----
-
 ...
+
+авторы - Алекс Сюй и Али Аминиан
+
+<details>
+<summary>
+  <i>анг. издание</i>
+</summary>
+<br/>
+<img src="" alt="Machine Learning System Design Interview" width="120" />
+<br/>
+<a href="">Machine Learning System Design Interview</a>
+<br/>
+<i>by <a href="">Alex Xu</a> and <a href="">Ali Aminian</a></i>
+<br/>
+<i>`publishing`, `month yaar`</i>
+<br clear="right"/>
+</details>
+
+tags:  `system design` `ml`
+
+---
 #### Современная программная инженерия
----
-
 ...
-#### not sorted yet stage 2
+
+автор - Дэвид Фарли 
+
+<details>
+<summary>
+  <i>анг. издание</i>
+</summary>
+<br/>
+<img src="" alt="Modern Software Engineering: Doing What Works to Build Better Software Faster" width="120" />
+<br/>
+<a href="">Modern Software Engineering: Doing What Works to Build Better Software Faster</a>
+<br/>
+<i>by <a href="">David Farley</a></i>
+<br/>
+<i>`publishing`, `month yaar`</i>
+</details>
+
+tags:  `software engineering`
+
+---
+#### not sorted yet stage 1
 - Computer Science для программиста-самоучки
 - Грокаем алгоритмы
 - Машинное обучение. Паттерны проектирования
@@ -303,45 +387,68 @@ _by [Jon Skeet](https://github.com/jskeet/) and [Tomasz Lelek](https://github.co
 
 ---
 #### not sorted yet stage 2
-<img src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" alt="empty book title" width="100" align="right"/><br/>
-<span>🖼&nbsp;</span>[**Параллельное программирование на C# и .NET Core**](https://dmkpress.com/catalog/computer/programming/c/978-5-97060-851-7/), Ноябрь 2021<br/>
-_by [Shakti Tanwar](https://github.com/shaktisinghtanwar)_<br/>
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" alt="empty book title" width="100" align="right"/>
+<br/>
+<span>🖼&nbsp;</span>[**Параллельное программирование на C# и .NET Core**](https://dmkpress.com/catalog/computer/programming/c/978-5-97060-851-7/), Ноябрь 2021
+<br/>
+<i>by [Shakti Tanwar](https://github.com/shaktisinghtanwar)</i>
+<br/>
 <br clear="right"/>
 
-<img src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" alt="empty book title" width="100" align="right"/><br/>
-<span>🖼&nbsp;</span>[**Pro Microservices in .NET 6**](https://www.amazon.com/Pro-Microservices-NET-MassTransit-Kubernetes/dp/1484278321), 2022<br/>
-_by [Sean Whitesell](https://github.com/seanw122), [Rob Richardson](https://github.com/robrich) and [Matthew D. Groves](https://github.com/mgroves)_<br/>
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" alt="empty book title" width="100" align="right"/>
+<br/>
+<span>🖼&nbsp;</span>[**Pro Microservices in .NET 6**](https://www.amazon.com/Pro-Microservices-NET-MassTransit-Kubernetes/dp/1484278321), 2022
+<br/>
+<i>by [Sean Whitesell](https://github.com/seanw122), [Rob Richardson](https://github.com/robrich) and [Matthew D. Groves](https://github.com/mgroves)</i>
+<br/>
 <br clear="right"/>
 
-<img src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" alt="empty book title" width="100" align="right"/><br/>
-<span>🖼&nbsp;</span>[**Безопасность ASP.NET Core**](https://dmkpress.com/catalog/computer/web/978-5-93700-176-4/), Апрель 2023<br/>
-_by [Christian Wenz](https://github.com/wenz)_<br/>
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" alt="empty book title" width="100" align="right"/>
+<br/>
+<span>🖼&nbsp;</span>[**Безопасность ASP.NET Core**](https://dmkpress.com/catalog/computer/web/978-5-93700-176-4/), Апрель 2023
+<br/>
+<i>by [Christian Wenz](https://github.com/wenz)</i>
+<br/>
 <br clear="right"/>
 
-<img src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" alt="empty book title" width="100" align="right"/><br/>
-<span>🖼&nbsp;</span>[**C# 9.0. Карманный справочник**](https://www.ozon.ru/product/c-9-0-karmannyy-spravochnik-albahari-ben-albahari-dzhozef-251632157/), 2021<br/>
-_by [Joe Albahari](https://www.albahari.com/) and [Ben Albahari](https://www.albahari.com/)_<br/>
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" alt="empty book title" width="100" align="right"/>
+<br/>
+<span>🖼&nbsp;</span>[**C# 9.0. Карманный справочник**](https://www.ozon.ru/product/c-9-0-karmannyy-spravochnik-albahari-ben-albahari-dzhozef-251632157/), 2021
+<br/>
+<i>by [Joe Albahari](https://www.albahari.com/) and [Ben Albahari](https://www.albahari.com/)</i>
+<br/>
 <br clear="right"/>
 
-<img src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" alt="empty book title" width="100" align="right"/><br/>
-<span>🖼&nbsp;</span>[**Адаптивный код. 2-е издание**](https://www.ozon.ru/product/adaptivnyy-kod-gibkoe-kodirovanie-s-pomoshchyu-patternov-proektirovaniya-i-printsipov-solid-2-341104039/), 2019<br/>
-_by [Gary McLean Hall](https://github.com/garymcleanhall)_<br/>
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" alt="empty book title" width="100" align="right"/>
+<br/>
+<span>🖼&nbsp;</span>[**Адаптивный код. 2-е издание**](https://www.ozon.ru/product/adaptivnyy-kod-gibkoe-kodirovanie-s-pomoshchyu-patternov-proektirovaniya-i-printsipov-solid-2-341104039/), 2019
+<br/>
+<i>by [Gary McLean Hall](https://github.com/garymcleanhall)</i>
+<br/>
 <br clear="right"/>
 
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/ddc5d172-e74f-40d7-aea4-bb8133b115d1" alt="Apps and Services with .NET 8" width="100" align="right"/><br/>
-<span>🛒&nbsp;</span>[**Apps and Services with .NET 8**](https://www.packtpub.com/product/apps-and-services-with-net-8-second-edition/9781837637133), December 2023<br/>
-_by [Mark J. Price](https://github.com/markjprice)_<br/>
+<span>🛒&nbsp;</span>[**Apps and Services with .NET 8**](https://www.packtpub.com/product/apps-and-services-with-net-8-second-edition/9781837637133), December 2023
+<br/>
+<i>by [Mark J. Price](https://github.com/markjprice)</i>
+<br/>
 <br clear="right"/>
 
-<img src="https://github.com/timnavigate/bookshelf/assets/14907341/b27e2f90-d2c2-41af-aaf9-cfa21883ce6d" alt="" width="100" align="right"><br/>
-<span>🛒&nbsp;</span>[**Entity Framework Core in Action**](https://www.manning.com/books/entity-framework-core-in-action), May 2021<br/>
-_by [Jon P Smith](https://github.com/JonPSmith)_<br/>
+<img src="https://github.com/timnavigate/bookshelf/assets/14907341/b27e2f90-d2c2-41af-aaf9-cfa21883ce6d" alt="" width="100" align="right">
+<br/>
+<span>🛒&nbsp;</span>[**Entity Framework Core in Action**](https://www.manning.com/books/entity-framework-core-in-action), May 2021
+<br/>
+<i>by [Jon P Smith](https://github.com/JonPSmith)</i>
+<br/>
 <br clear="right"/>
 
 ---
 #### Паттерны программирования игр
 
 tags: `c++` `patterns`
+
+[в начало](#Bookshelf)
+<br clear="right"/>
 
 ---
 #### Как устроен JavaScript
@@ -382,6 +489,8 @@ tags:  `xslt`
 #### XSLT. 2-е издание
 
 tags:  `xslt`
+
+[в начало](#Bookshelf)
 
 ---
 #### Elegant Objects
@@ -474,3 +583,6 @@ _by [Yegor Bugayenko](https://github.com/yegor256)_<br/>
     - Хулиномика
     - Жлобология
     - Криптвоюматика
+
+<br clear="right"/>
+[в начало](#Bookshelf)
