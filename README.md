@@ -391,9 +391,11 @@ tags:  `dotnet` `dotnet-core`
 <span>🖼&nbsp;</span>
 [**Software. Ошибки и компромиссы**](https://www.piter.com/product/software-oshibki-i-kompromissy-pri-razrabotke-po)  
 _`authored by` [Джон Скит](https://github.com/jskeet/) и [Томаш Лелек](https://github.com/tomekl007)_  
-_`publisher` Piter_
+_`publisher` Piter_  
 _`publication date` 2023_
 
+...  
+...  
 ...
 
 <details>
@@ -471,6 +473,10 @@ _`authored by` [Mark J. Price](https://github.com/markjprice)_
 _`publisher` -_  
 _`publication date` December, 2023_
 
+...  
+...  
+...
+
 tags:  `dotnet`
 
 ---
@@ -480,6 +486,10 @@ tags:  `dotnet`
 [**Entity Framework Core in Action**](https://www.manning.com/books/entity-framework-core-in-action)  
 _by [Jon P Smith](https://github.com/JonPSmith)_  
 _May, 2021_
+
+...  
+...  
+...
 
 tags:  `dotnet` `ef-core`
 
@@ -539,7 +549,10 @@ tags:  `xslt`
 _by [Yegor Bugayenko](https://github.com/yegor256)_  
 _`publish`, `date`_
 
+...  
+...  
 ...
+
 
 tags:  `yegor256` `elegant-objects`
 
@@ -548,9 +561,13 @@ tags:  `yegor256` `elegant-objects`
 
 [**Элегантные объекты. Java Edition**](https://www.piter.com/collection/A32721/product/elegantnye-obekty-java-edition), 2018  
 _by [Yegor Bugayenko](https://github.com/yegor256)_  
-_`publish`, `date`_
+_`publisher`_  
+_`date`_
 
+...  
+...  
 ...
+
 
 tags:  `yegor256` `elegant-objects`
 
@@ -562,7 +579,10 @@ tags:  `yegor256` `elegant-objects`
 _by [Ivan Grishaev](https://github.com/igrishaev)_  
 _`publish`, `date`_
 
+...  
+...  
 ...
+
 
 tags:  `clojure`
 
@@ -575,7 +595,10 @@ tags:  `clojure`
 _by [Yegor Bugayenko](https://github.com/yegor256)_  
 _`publish`, `date`_
 
+...  
+...  
 ...
+
 
 tags:  `yegor256` `code-ahead`
 
