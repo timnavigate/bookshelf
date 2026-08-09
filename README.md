@@ -172,7 +172,8 @@ tags:  `api` `architecture`
 #### Разработка требований к программному обеспечению
 <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
-[Разработка требований к программному обеспечению](https://bhv.ru/product/razrabotka-trebovanij-k-programmnomu-obespecheniyu-3-izd)  
+<span>`emoji`&nbsp;</span>  
+[Разработка требований к программному обеспечению](https://bhv.ru/product/razrabotka-trebovanij-k-programmnomu-obespecheniyu-3-izd),  
 _[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers), [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_  
 _`publishing`, `year`_
 
@@ -184,47 +185,35 @@ _`publishing`, `year`_
     <a href="">Software Requirements</a>
     <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
     <br/>
-    <i>by <a href="">Karl Wiegers</a> and <a href="">Joy Beatty</a></i>
+    <i>by <a href="https://www.google.com/search?q=Karl+Wiegers">Karl Wiegers</a> and <a href="https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty">Joy Beatty</a></i>
     <br/>
     <i>publishing, month year</i>
+    <br/>
 </details>
 
 tags:  `software-requirements` `requirements-engineering`
 
 ---
 #### Разработка требований к программному обеспечению 2
-<span>`emoji`&nbsp;</span>
-[Разработка требований к программному обеспечению](https://www.google.com/search?q=Karl+Wiegers), `Месяц` `Год`
-<img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
-<br/>
-<i>[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers) и [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)</i>
+<img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
-[Software Requirements](https://www.google.com/search?q=Karl+Wiegers), `Month` `Year`
-<br/>
-_by [Karl Wiegers](https://www.google.com/search?q=Karl+Wiegers) and [Joy Beatty](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_
-
-tags:  `software-requirements` `requirements-engineering`
-
----
-#### Разработка требований к программному обеспечению 3
-<span>`emoji`&nbsp;</span>
-[Разработка требований к программному обеспечению](https://www.google.com/search?q=Karl+Wiegers), `Месяц` `Год`
-<img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
-<br/>
-<i>[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers) и [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)</i>
+<span>`emoji`&nbsp;</span>  
+[Разработка требований к программному обеспечению](https://bhv.ru/product/razrabotka-trebovanij-k-programmnomu-obespecheniyu-3-izd),  
+_[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers), [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_  
+_`publishing`, `year`_
 
 <details>
     <summary>
       <i>анг. издание</i>
     </summary>
     <br/>
-    <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
-    <br/>
-    <a href="https://www.google.com/search?q=Karl+Wiegers">Software Requirements</a>
+    <a href="">Software Requirements</a>
+    <img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
     <br/>
     <i>by <a href="https://www.google.com/search?q=Karl+Wiegers">Karl Wiegers</a> and <a href="https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty">Joy Beatty</a></i>
     <br/>
     <i>publishing, month year</i>
+    <br/>
 </details>
 
 tags:  `software-requirements` `requirements-engineering`
