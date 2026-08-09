@@ -47,7 +47,7 @@
 _[Сергей Константинов](https://github.com/twirl/The-API-Book)_  
 _ДМК-Пресс, 2025_
 
-tags:  `api`
+tags:  [`api`](#API-как-искусство)
 
 ---
 #### Проектирование веб-API
@@ -71,7 +71,7 @@ _ДМК-Пресс, 2020_
     <i>Manning, November 2019</i>
 </details>
 
-tags:  `api` `api-design`
+tags:  [`api`](#API-как-искусство) [`api-design`](#API-как-искусство)
 
 ---
 #### Проектирование архитектуры API
@@ -95,7 +95,7 @@ _БХВ, 2023_
     <i>O’Reilly, October 2022</i>
 </details>
 
-tags:  `api` `api-design` `architecture`
+tags:  [`api`](#API-как-искусство) `api-design` `architecture`
 
 ---
 #### Паттерны проектирования API
@@ -119,7 +119,7 @@ _Питер, 2024_
     <i>Manning, July 2021</i>
 </details>
 
-tags:  `api` `api-design` `patterns`
+tags:  [`api`](#API-как-искусство) `api-design` `patterns`
 
 ---
 #### Тестирование веб-API
@@ -143,7 +143,7 @@ _Питер, 2024_
     <i>Manning, December 2022</i>
 </details>
 
-tags:  `api` `testops`
+tags:  [`api`](#API-как-искусство) `testops`
 
 ---
 #### Непрерывное развитие API
@@ -167,7 +167,7 @@ _Питер, 2023_
     <i>O'Reilly, November 2021</i>
 </details>
 
-tags:  `api` `architecture`
+tags:  [`api`](#API-как-искусство) `architecture`
 
 ---
 #### Разработка требований к программному обеспечению
