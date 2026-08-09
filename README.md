@@ -148,9 +148,11 @@ tags:  [`api`](#API-как-искусство) [`api-architecture`](#Проек�
 #### Разработка требований к программному обеспечению
 <img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
-<span>`status`&nbsp;</span>[**Разработка требований к программному обеспечению**](https://bhv.ru/product/razrabotka-trebovanij-k-programmnomu-obespecheniyu-3-izd),  
-_[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers), [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_  
-_`publisher`, `date`_
+<span>`score`&nbsp;</span>
+[**Разработка требований к программному обеспечению**](https://bhv.ru/product/razrabotka-trebovanij-k-programmnomu-obespecheniyu-3-izd),  
+_`authored by` [Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers) и [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_  
+_`publisher` -_  
+_`publication date` -_
 
 ...  
 ...  
@@ -171,10 +173,11 @@ tags:  [`software-requirements`](#Разработка-требований-к-�
 #### System Design. Подготовка к сложному интервью
 <img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
-<span>`status`&nbsp;</span>
+<span>`score`&nbsp;</span>
 [**System Design. Подготовка к сложному интервью**]()  
-_[Алекс Сюй]()_  
-_`publisher`, `date`_
+_`authored by` [Алекс Сюй]()_  
+_`publisher` -_  
+_`publication date` -_
 
 <details>
     <summary><i>анг. издание</i></summary>
@@ -191,10 +194,11 @@ tags:  [`system design`](#System-Design-Подготовка-к-сложному
 #### System Design. Машинное обучение. Подготовка к сложному интервью
 <img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
-<span>`status`&nbsp;</span>
+<span>`score`&nbsp;</span>
 [**System Design. Подготовка к сложному интервью**]()  
-_[Алекс Сюй]() и [Али Аминиан]()_  
-_`publisher`, `date`_
+_`authored by` [Алекс Сюй]() и [Али Аминиан]()_  
+_`publisher` -_  
+_`publication date` -_
 
 <details>
     <summary><i>анг. издание</i></summary>
@@ -211,10 +215,11 @@ tags:  [`system design`](#System-Design-Подготовка-к-сложному
 #### Современная программная инженерия
 <img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
-<span>`status`&nbsp;</span>
+<span>`score`&nbsp;</span>
 [**Современная программная инженерия**]()  
-_[Дэвид Фарли]()_  
-_`publisher`, `date`_ 
+_`authored by` [Дэвид Фарли]()_  
+_`publisher` -_  
+_`publication date` -_ 
 
 <details>
     <summary><i>анг. издание</i></summary>
@@ -275,14 +280,16 @@ tags:  [`software engineering`](#Современная-программная-�
 <img alt="Управление памятью в .NET для профессионалов" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/2c6b4a18-b382-4572-ac4b-647db856215f" />
 
 <span>🔥&nbsp;</span>
-[**Управление памятью в .NET для профессионалов**](https://dmkpress.com/catalog/computer/programming/dot_net/978-5-97060-800-5/), Апрель 2020  
-_[Конрад Кокоса](https://github.com/kkokosa)_  
-_`publisher`, `date`_
+[**Управление памятью в .NET для профессионалов**](https://dmkpress.com/catalog/computer/programming/dot_net/978-5-97060-800-5/)  
+_`authored by` [Конрад Кокоса](https://github.com/kkokosa)_  
+_`publisher` DMK_  
+_`publication date` Апрель 2020_
 
 <span>eng</span><br/>
-[**Pro .NET Memory Management: For Better Code, Performance, and Scalability 1st ed. Edition**](https://www.amazon.com/Pro-NET-Memory-Management-Performance/dp/148424026X), November 2018  
-_by [Konrad Kokosa](https://github.com/kkokosa)_  
-_`publisher`, `date`_
+[**Pro .NET Memory Management: For Better Code, Performance, and Scalability 1st ed. Edition**](https://www.amazon.com/Pro-NET-Memory-Management-Performance/dp/148424026X)  
+_`authored by` [Konrad Kokosa](https://github.com/kkokosa)_  
+_`publisher` -_  
+_`publication date` November 2018_
 _**note**: [2nd edition](https://prodotnetmemory.com/) coming soon ..._  
 
 tags:  `dotnet` `memory` `garbage-collector`
@@ -473,7 +480,7 @@ _`publication date` 2019_
 tags:  `dotnet` `c#`
 
 ---
-<img alt="Apps and Services with .NET 8" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/ddc5d172-e74f-40d7-aea4-bb8133b115d1" />
+<img alt="Apps and Services with .NET 8" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/ddc5d172-e74f-40d7-aea4-bb8133b115d1" />
 
 <span>🛒&nbsp;</span>
 [**Apps and Services with .NET 8**](https://www.packtpub.com/product/apps-and-services-with-net-8-second-edition/9781837637133)  
@@ -488,7 +495,7 @@ _`publication date` December, 2023_
 tags:  `dotnet`
 
 ---
-<img alt="Entity Framework Core in Action" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/b27e2f90-d2c2-41af-aaf9-cfa21883ce6d" />
+<img alt="Entity Framework Core in Action" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/b27e2f90-d2c2-41af-aaf9-cfa21883ce6d" />
 
 <span>🛒&nbsp;</span>
 [**Entity Framework Core in Action**](https://www.manning.com/books/entity-framework-core-in-action)  
@@ -550,12 +557,13 @@ tags:  `xslt`
 
 ---
 #### Elegant Objects
-<img alt="Elegant Objects, Volume 1" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/38ad581e-f6db-461b-b711-efea661c00c6" />
+<img alt="Elegant Objects, Volume 1" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/38ad581e-f6db-461b-b711-efea661c00c6" />
 
 <span>🔥&nbsp;</span>
 [**Elegant Objects, Volume 1**](https://www.amazon.com/Elegant-Objects-1-Yegor-Bugayenko/dp/1519166915), February 17, 2016  
-_by [Yegor Bugayenko](https://github.com/yegor256)_  
-_`publish`, `date`_
+_`authored by` [Yegor Bugayenko](https://github.com/yegor256)_  
+_`publisher` -_  
+_`publication date` -_
 
 ...  
 ...  
@@ -565,12 +573,13 @@ _`publish`, `date`_
 tags:  `yegor256` `elegant-objects`
 
 ---
-<img alt="Элегантные объекты. Java Edition" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/97b5d651-2eda-4a97-a85a-60d23283e2bf" />
+<img alt="Элегантные объекты. Java Edition" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/97b5d651-2eda-4a97-a85a-60d23283e2bf" />
 
+<span>🔥&nbsp;</span>
 [**Элегантные объекты. Java Edition**](https://www.piter.com/collection/A32721/product/elegantnye-obekty-java-edition), 2018  
-_by [Yegor Bugayenko](https://github.com/yegor256)_  
-_`publisher`_  
-_`date`_
+_`authored by` [Yegor Bugayenko](https://github.com/yegor256)_  
+_`publisher` -_  
+_`publication date`_
 
 ...  
 ...  
@@ -581,7 +590,7 @@ tags:  `yegor256` `elegant-objects`
 
 ---
 #### Clojure на производстве
-<img alt="Clojure на производстве" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/89dba865-ac22-4c7b-95db-6d59f73279a8" />
+<img alt="Clojure на производстве" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/89dba865-ac22-4c7b-95db-6d59f73279a8" />
 
 [**Clojure на производстве**](https://dmkpress.com/catalog/computer/programming/functional/978-5-93700-055-2), Ноябрь 2021  
 _by [Ivan Grishaev](https://github.com/igrishaev)_  
@@ -596,12 +605,13 @@ tags:  `clojure`
 
 ---
 #### Code Ahead
-<img alt="Наш код. Ремесло, профессия, искусство" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/0144c634-53ae-42b3-b5bf-40ef82e8cec2" />
+<img alt="Наш код. Ремесло, профессия, искусство" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/0144c634-53ae-42b3-b5bf-40ef82e8cec2" />
 
 <span>🔥&nbsp;</span>
 [**Наш код. Ремесло, профессия, искусство**](https://www.piter.com/product/nash-kod-remeslo-professiya-iskusstvo), 2019  
-_by [Yegor Bugayenko](https://github.com/yegor256)_  
-_`publish`, `date`_
+_`authore by` [Yegor Bugayenko](https://github.com/yegor256)_  
+_`publisher` -_  
+_`publication date` -_
 
 ...  
 ...  
