@@ -207,12 +207,13 @@ _`publishing`, `year`_
       <i>анг. издание</i>
     </summary>
     <br/>
-    <a href="">Software Requirements</a>
     <img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
+    <a href="">Software Requirements</a>
     <br/>
     <i>by <a href="https://www.google.com/search?q=Karl+Wiegers">Karl Wiegers</a> and <a href="https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty">Joy Beatty</a></i>
     <br/>
     <i>publishing, month year</i>
+    <br/>
     <br/>
 </details>
 
