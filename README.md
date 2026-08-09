@@ -95,7 +95,7 @@ _БХВ, 2023_
     <i>O’Reilly, October 2022</i>
 </details>
 
-tags:  [`api`](#API-как-искусство) `api-design` `architecture`
+tags:  [`api`](#API-как-искусство) [`api-design`](#Проектирование-веб-API) [`api-architecture`](#Проектирование-архитектуры-API)
 
 ---
 #### Паттерны проектирования API
@@ -119,7 +119,7 @@ _Питер, 2024_
     <i>Manning, July 2021</i>
 </details>
 
-tags:  [`api`](#API-как-искусство) `api-design` `patterns`
+tags:  [`api`](#API-как-искусство) [`api-design`](#Проектирование-веб-API) [`api-patterns`](#Паттерны-проектирования-API)
 
 ---
 #### Тестирование веб-API
@@ -143,7 +143,7 @@ _Питер, 2024_
     <i>Manning, December 2022</i>
 </details>
 
-tags:  [`api`](#API-как-искусство) `testops`
+tags:  [`api`](#API-как-искусство) [`api-testing`](#Тестирование-веб-API)
 
 ---
 #### Непрерывное развитие API
@@ -167,7 +167,7 @@ _Питер, 2023_
     <i>O'Reilly, November 2021</i>
 </details>
 
-tags:  [`api`](#API-как-искусство) `architecture`
+tags:  [`api`](#API-как-искусство) [`api-architecture`](#Проектирование-архитектуры-API)
 
 ---
 #### Разработка требований к программному обеспечению
@@ -185,7 +185,7 @@ _`publishing`, `year`_
     <i>publishing, month year</i><br/>
 </details><br/>
 
-tags:  `software-requirements` `requirements-engineering`
+tags:  [`software-requirements`](#Разработка-требований-к-программному-обеспечению) [`requirements-engineering`](#Разработка-требований-к-программному-обеспечению)
 
 ---
 #### System Design. Подготовка к сложному интервью
@@ -204,7 +204,7 @@ _`publishing`, `year`_
     <i>publishing, month yaar</i><br>
 </details>
 
-tags:  `system design`
+tags:  [`system design`](#System-Design-Подготовка-к-сложному-интервью)
 
 ---
 #### System Design. Машинное обучение. Подготовка к сложному интервью
@@ -223,7 +223,7 @@ _`publishing`, `year`_
     <i>publishing, month yaar</i><br/>
 </details>
 
-tags:  `system design` `ml`
+tags:  [`system design`](#System-Design-Подготовка-к-сложному-интервью) `ml`
 
 ---
 #### Современная программная инженерия
@@ -242,7 +242,7 @@ _`publishing`, `year`_
     <i>publishing, month yaar</i><br/>
 </details>
 
-tags:  `software engineering`
+tags:  [`software engineering`](#Современная-программная-инженерия)
 
 ---
 #### not sorted yet stage 1
