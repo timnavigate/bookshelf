@@ -291,7 +291,7 @@ tags:  `software engineering`
 #### Управление памятью в .NET для профессионалов
 <img alt="Управление памятью в .NET для профессионалов" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/2c6b4a18-b382-4572-ac4b-647db856215f" />
 
-<span>🔥&nbsp;</span><br/>
+<span>🔥&nbsp;</span>
 [**Управление памятью в .NET для профессионалов**](https://dmkpress.com/catalog/computer/programming/dot_net/978-5-97060-800-5/), Апрель 2020  
 _[Конрад Кокоса](https://github.com/kkokosa)_  
 _`publishing`, `year`_
@@ -308,7 +308,7 @@ tags:  `dotnet` `memory` `garbage-collector`
 #### Конкурентность в C#
 <img alt="Конкурентность в C#" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/b092838e-e489-4601-9f66-8a8bfc69d6d6" />
 
-<span>🔥&nbsp;</span><br/>
+<span>🔥&nbsp;</span>
 [**Конкурентность в C#**](https://www.piter.com/product/konkurentnost-v-c-asinhronnoe-parallelnoe-i-mnogopotochnoe-programmirovanie-2-e-mezhd-izd), 2-е издание, 2020  
 _[Стивен Клири](https://github.com/StephenCleary)_  
 _`publishing`, `year`_
@@ -324,7 +324,7 @@ tags:  `dotnet` `concurrency` `patterns` `async`
 #### Внедрение зависимостей на платформе .NET
 <img alt="Внедрение зависимостей на платформе .NET" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/64ba50c0-8980-4169-93f0-09d5e325f575" />
 
-<span>🔥&nbsp;</span><br/>
+<span>🔥&nbsp;</span>
 [**Внедрение зависимостей на платформе .NET**](https://www.piter.com/collection/programmirovanie-razrabotka-programnogo-obespecheniya/product/vnedrenie-zavisimostey-na-platforme-net-2-e-izdanie), 2-е издание, 2021  
 _[Марк Симан](https://github.com/ploeh)_  
 _`publishing`, `year`_
@@ -351,7 +351,7 @@ tags:  `dotnet` `patterns`
 #### Принципы юнит-тестирования
 <img alt="Принципы юнит-тестирования" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/d16f19b8-dc6e-4c24-bcd3-a4eb47324d8c" />
 
-<span>🔥&nbsp;</span><br/>
+<span>🔥&nbsp;</span>
 [**Принципы юнит-тестирования**](https://www.piter.com/product/printsipy-yunit-testirovaniya), 2022  
 _[Владимир Хориков](https://github.com/vkhorikov)_  
 _`publishing`, `year`_
@@ -367,7 +367,7 @@ tags:  `dotnet` `testing`
 #### Код, который умещается в голове 
 <img alt="Код, который умещается в голове" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/d4deffab-07de-4be8-91d3-9bb4528718f2" />
 
-<span>🔥&nbsp;</span><br/>
+<span>🔥&nbsp;</span>
 [**Код, который умещается в голове**](https://www.piter.com/collection/recommend/product/robert-martin-rekomenduet-kod-kotoryy-umeschaetsya-v-golove-evristiki-dlya-razrabotchikov), 2023  
 _[Марк Симан](https://github.com/ploeh)_  
 _`publishing`, `year`_
@@ -381,7 +381,7 @@ tags:  `dotnet`
 
 ---
 #### ASP.NET Core в действии
-<span>🔥&nbsp;</span><br/>
+<span>🔥&nbsp;</span>
 <img alt="ASP.NET Core в действии" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/3b08135a-b207-484a-a2de-570bb97d36d1" />
 
 [**ASP.NET Core в действии**](https://dmkpress.com/catalog/computer/web/978-5-97060-550-9/), Сентябрь 2021  
@@ -536,7 +536,7 @@ tags:  `xslt`
 #### Elegant Objects
 <img alt="Elegant Objects, Volume 1" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/38ad581e-f6db-461b-b711-efea661c00c6" />
 
-<span>🔥&nbsp;</span><br/>
+<span>🔥&nbsp;</span>
 [**Elegant Objects, Volume 1**](https://www.amazon.com/Elegant-Objects-1-Yegor-Bugayenko/dp/1519166915), February 17, 2016  
 _by [Yegor Bugayenko](https://github.com/yegor256)_  
 _`publish`, `year`_
@@ -572,7 +572,7 @@ tags:  `clojure`
 #### Code Ahead
 <img alt="Наш код. Ремесло, профессия, искусство" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/0144c634-53ae-42b3-b5bf-40ef82e8cec2" />
 
-<span>🔥&nbsp;</span><br/>
+<span>🔥&nbsp;</span>
 [**Наш код. Ремесло, профессия, искусство**](https://www.piter.com/product/nash-kod-remeslo-professiya-iskusstvo), 2019  
 _by [Yegor Bugayenko](https://github.com/yegor256)_  
 _`publish`, `year`_
