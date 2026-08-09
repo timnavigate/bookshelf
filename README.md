@@ -44,8 +44,9 @@
 <img alt="API как искусство: разработка, поддержка, интеграция. Сергей Константинов" width="120" src="https://bhv.ru/wp-content/uploads/2025/04/3133_978-5-9775-2084-3.jpg" />
 
 [**API как искусство: разработка, поддержка, интеграция**](https://bhv.ru/product/api-kak-iskusstvo-razrabotka-podderzhka-integratsiya/)  
-_[Сергей Константинов](https://github.com/twirl/The-API-Book)_  
-_ДМК-Пресс, 2025_
+_`authored by` [Сергей Константинов](https://github.com/twirl/The-API-Book)_  
+_`publisher` ДМК-Пресс_  
+_`publication date` 2025_
 
 tags:  [`api`](#API-как-искусство)
 
@@ -54,21 +55,16 @@ tags:  [`api`](#API-как-искусство)
 <img alt="Проектирование веб-API" width="120" src="https://www.dmkpress.com/upload/iblock/71a/uclujzb33ygz8su0ixjhk7n7ybphd26z.jpg" />  
 
 [**Проектирование веб-API**](https://dmkpress.com/catalog/computer/web/978-5-97060-861-6/)  
-_[Арно Лоре](https://github.com/arno-di-loreto)_  
-_ДМК-Пресс, 2020_
+_`authored by` [Арно Лоре](https://github.com/arno-di-loreto)_  
+_`publisher` ДМК-Пресс_  
+_`publication date` 2020_
 
 <details>
-    <summary>
-      <i>анг. издание</i>
-    </summary>
-    <br/>
+    <summary><i>анг. издание</i></summary>
     <img alt="The Design of Web APIs" width="120" src="https://m.media-amazon.com/images/I/61ZND26BDZL._SL1500_.jpg" />
-    <br/>
-    <i><b><a href="https://www.amazon.com/Design-Web-APIs-Arnaud-Lauret/dp/1617295108">The Design of Web APIs 1st edition</a></b></i>
-    <br/>
-    <i>by <a href="https://github.com/arno-di-loreto">Arnaud Lauret</a></i>
-    <br/>
-    <i>Manning, November 2019</i>
+    <i><b><a href="https://www.amazon.com/Design-Web-APIs-Arnaud-Lauret/dp/1617295108">The Design of Web APIs 1st edition</a></b></i><br/>
+    <i>by <a href="https://github.com/arno-di-loreto">Arnaud Lauret</a></i><br/>
+    <i>Manning, November 2019</i><br/>
 </details>
 
 tags:  [`api`](#API-как-искусство) [`api-design`](#API-как-искусство)
@@ -78,93 +74,72 @@ tags:  [`api`](#API-как-искусство) [`api-design`](#API-как-иск
 <img alt="Проектирование архитектуры API" width="120" src="https://bhv.ru/wp-content/uploads/2024/05/3038_978-601-09-5053-5.jpg" />
 
 [**Проектирование архитектуры API: Как проектировать, развивать и эксплуатировать API**](https://bhv.ru/product/proektirovanie-arhitektury-api-kak-pravilno-proektirovat-razvivat-i-ekspluatirovat-api)  
-_[Джеймс Гоф](https://github.com/jpgough), Дэниэл Брайант, Мэтью Оберн_  
-_БХВ, 2023_
+_`authored by` [Джеймс Гоф](https://github.com/jpgough), Дэниэл Брайант, Мэтью Оберн_  
+_`publisher` БХВ_  
+_`pubication date` 2023_
 
 <details>
-    <summary>
-      <i>анг. издание</i>
-    </summary>
-    <br/>
-    <img alt="Mastering API Architecture: Design, Operate and Evolve API-Based Systems" width="120" src="https://m.media-amazon.com/images/I/618JYtOzXoL._SL1318_.jpg" />  
-    <br/>
-    <i><b><a href="https://www.amazon.in/Mastering-API-Architecture-API-Based-Grayscale/dp/9355422083/">Mastering API Architecture: Design, Operate and Evolve API-Based Systems</a></b></i>
-    <br/>
-    <i>by <a href="https://github.com/jpgough">James Gough</a>, Daniel Bryant, Matthew Auburn</i>
-    <br/>
-    <i>O’Reilly, October 2022</i>
+    <summary><i>анг. издание</i></summary>
+    <img alt="Mastering API Architecture: Design, Operate and Evolve API-Based Systems" width="120" src="https://m.media-amazon.com/images/I/618JYtOzXoL._SL1318_.jpg" />
+    <i><b><a href="https://www.amazon.in/Mastering-API-Architecture-API-Based-Grayscale/dp/9355422083/">Mastering API Architecture: Design, Operate and Evolve API-Based Systems</a></b></i><br/>
+    <i>by <a href="https://github.com/jpgough">James Gough</a>, Daniel Bryant, Matthew Auburn</i><br/>
+    <i>O’Reilly, October 2022</i><br/>
 </details>
 
 tags:  [`api`](#API-как-искусство) [`api-design`](#Проектирование-веб-API) [`api-architecture`](#Проектирование-архитектуры-API)
 
 ---
 #### Паттерны проектирования API
-<img src="https://static.insales-cdn.com/images/products/1/6799/639056527/44611984.jpg" alt="Паттерны проектирования API" width="120" />
+<img alt="Паттерны проектирования API" width="120" src="https://static.insales-cdn.com/images/products/1/6799/639056527/44611984.jpg" />
 
 [**Паттерны проектирования API**](https://www.piter.com/product/patterny-proektirovaniya-api)  
-_[Джей Джей Гивакс](https://github.com/jgeewax)_  
-_Питер, 2024_
+_`authored by` [Джей Джей Гивакс](https://github.com/jgeewax)_  
+_`publisher` Питер_  
+_`publication date` 2024_
 
 <details>
-    <summary>
-      <i>анг. издание</i>
-    </summary>
-    <br/>
-    <img src="https://m.media-amazon.com/images/I/71-Q7YOvWkL._SL1500_.jpg" alt="API Design Patterns" width="120" />
-    <br/>
-    <i><b><a href="https://www.amazon.com/API-Design-Patterns-JJ-Geewax/dp/161729585X">API Design Patterns</a></b></i>
-    <br/>
-    <i>by <a href="https://github.com/jgeewax">JJ Geewax</a></i>  
-    <br/>
-    <i>Manning, July 2021</i>
+    <summary><i>анг. издание</i></summary>
+    <img alt="API Design Patterns" width="120" src="https://m.media-amazon.com/images/I/71-Q7YOvWkL._SL1500_.jpg" />
+    <i><b><a href="https://www.amazon.com/API-Design-Patterns-JJ-Geewax/dp/161729585X">API Design Patterns</a></b></i><br/>
+    <i>by <a href="https://github.com/jgeewax">JJ Geewax</a></i><br/>
+    <i>Manning, July 2021</i><br/>
 </details>
 
 tags:  [`api`](#API-как-искусство) [`api-design`](#Проектирование-веб-API) [`api-patterns`](#Паттерны-проектирования-API)
 
 ---
 #### Тестирование веб-API
-<img src="https://static.insales-cdn.com/images/products/1/2633/808274505/44612092.jpg" alt="Тестирование веб-API" width="120" />
+<img alt="Тестирование веб-API" width="120" src="https://static.insales-cdn.com/images/products/1/2633/808274505/44612092.jpg" />
 
 [**Тестирование веб-API**](https://www.piter.com/collection/top-2/product/testirovanie-veb-api)  
-_[Марк Винтерингем](https://github.com/mwinteringham)_  
-_Питер, 2024_
+_`authored by` [Марк Винтерингем](https://github.com/mwinteringham)_  
+_`publisher` Питер_  
+_`publication date` 2024_
 
 <details>
-    <summary>
-      <i>анг. издание</i>
-    </summary>
-    <br/>
-    <img src="https://m.media-amazon.com/images/I/61RPbyND3FL._SL1500_.jpg" alt="Testing Web APIs" width="120" />
-    <br/>
-    <i><b><a href="https://www.amazon.com/Testing-Web-APIs-Mark-Winteringham/dp/1617299537">Testing Web APIs</a></b></i>
-    <br/>
-    <i>by <a href="https://github.com/mwinteringham">Mark Winteringham</a></i>
-    <br/>
-    <i>Manning, December 2022</i>
+    <summary><i>анг. издание</i></summary>
+    <img alt="Testing Web APIs" width="120" src="https://m.media-amazon.com/images/I/61RPbyND3FL._SL1500_.jpg" />
+    <i><b><a href="https://www.amazon.com/Testing-Web-APIs-Mark-Winteringham/dp/1617299537">Testing Web APIs</a></b></i><br/>
+    <i>by <a href="https://github.com/mwinteringham">Mark Winteringham</a></i><br/>
+    <i>Manning, December 2022</i><br/>
 </details>
 
 tags:  [`api`](#API-как-искусство) [`api-testing`](#Тестирование-веб-API)
 
 ---
 #### Непрерывное развитие API
-<img src="https://static.insales-cdn.com/images/products/1/5607/611374567/44612023.jpg" alt="Непрерывное развитие API" width="120" />
+<img alt="Непрерывное развитие API" width="120" src="https://static.insales-cdn.com/images/products/1/5607/611374567/44612023.jpg" />
 
 [**Непрерывное развитие API. Правильные решения в изменчивом технологическом ландшафте, 2-е изд.**](https://www.piter.com/collection/bestsellery-oreilly/product/nepreryvnoe-razvitie-api-pravilnye-resheniya-v-izmenchivom-tehnologicheskom-landshafte-2-e-izd)  
 _Мехди Меджуи, [Эрик Уайлд](https://github.com/dret), [Ронни Митра](https://github.com/mitraman), [Майк Амундсен](https://github.com/mamund)_  
 _Питер, 2023_
 
 <details>
-    <summary>
-      <i>анг. издание</i>
-    </summary>
-    <br/>
+    <summary><i>анг. издание</i></summary>
     <img alt="Continuous API Management: Making the Right Decisions in an Evolving Landscape 2nd Edition" width="120" src="https://m.media-amazon.com/images/I/81+paLnjOpL._SL1500_.jpg" />
-    <br/>
-    <i><b><a href="https://www.amazon.com/Continuous-API-Management-Decisions-Landscape/dp/1098103521">Continuous API Management: Making the Right Decisions in an Evolving Landscape 2nd Edition</a></b></i>
-    <br/>
-    <i>by Mehdi Medjaoui, <a href="https://github.com/dret">Erik Wilde</a>, <a href="https://github.com/mitraman">Ronnie Mitra</a>, <a href="https://github.com/mamund">Mike Amundsen</a></i>
-    <br/>
-    <i>O'Reilly, November 2021</i>
+    <i><b><a href="https://www.amazon.com/Continuous-API-Management-Decisions-Landscape/dp/1098103521">Continuous API Management: Making the Right Decisions in an Evolving Landscape 2nd Edition</a></b></i><br/>
+    <i>by Mehdi Medjaoui, <a href="https://github.com/dret">Erik Wilde</a>, <a href="https://github.com/mitraman">Ronnie Mitra</a>, <a href="https://github.com/mamund">Mike Amundsen</a></i><br/>
+    <i>O'Reilly, November 2021</i><br/>
 </details>
 
 tags:  [`api`](#API-как-искусство) [`api-architecture`](#Проектирование-архитектуры-API)
@@ -175,7 +150,7 @@ tags:  [`api`](#API-как-искусство) [`api-architecture`](#Проек�
 
 <span>`status`&nbsp;</span>[**Разработка требований к программному обеспечению**](https://bhv.ru/product/razrabotka-trebovanij-k-programmnomu-obespecheniyu-3-izd),  
 _[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers), [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_  
-_`publishing`, `year`_
+_`publisher`, `date`_
 
 <details>
     <summary><i>анг. издание</i></summary>
@@ -194,7 +169,7 @@ tags:  [`software-requirements`](#Разработка-требований-к-�
 <span>`status`&nbsp;</span>
 [**System Design. Подготовка к сложному интервью**]()  
 _[Алекс Сюй]()_  
-_`publishing`, `year`_
+_`publisher`, `date`_
 
 <details>
     <summary><i>анг. издание</i></summary>
@@ -213,7 +188,7 @@ tags:  [`system design`](#System-Design-Подготовка-к-сложному
 <span>`status`&nbsp;</span>
 [**System Design. Подготовка к сложному интервью**]()  
 _[Алекс Сюй]() и [Али Аминиан]()_  
-_`publishing`, `year`_
+_`publisher`, `date`_
 
 <details>
     <summary><i>анг. издание</i></summary>
@@ -232,7 +207,7 @@ tags:  [`system design`](#System-Design-Подготовка-к-сложному
 <span>`status`&nbsp;</span>
 [**Современная программная инженерия**]()  
 _[Дэвид Фарли]()_  
-_`publishing`, `year`_ 
+_`publisher`, `date`_ 
 
 <details>
     <summary><i>анг. издание</i></summary>
@@ -294,12 +269,12 @@ tags:  [`software engineering`](#Современная-программная-�
 <span>🔥&nbsp;</span>
 [**Управление памятью в .NET для профессионалов**](https://dmkpress.com/catalog/computer/programming/dot_net/978-5-97060-800-5/), Апрель 2020  
 _[Конрад Кокоса](https://github.com/kkokosa)_  
-_`publishing`, `year`_
+_`publisher`, `date`_
 
 <span>eng</span><br/>
 [**Pro .NET Memory Management: For Better Code, Performance, and Scalability 1st ed. Edition**](https://www.amazon.com/Pro-NET-Memory-Management-Performance/dp/148424026X), November 2018  
 _by [Konrad Kokosa](https://github.com/kkokosa)_  
-_`publishing`, `year`_
+_`publisher`, `date`_
 _**note**: [2nd edition](https://prodotnetmemory.com/) coming soon ..._  
 
 tags:  `dotnet` `memory` `garbage-collector`
@@ -311,12 +286,12 @@ tags:  `dotnet` `memory` `garbage-collector`
 <span>🔥&nbsp;</span>
 [**Конкурентность в C#**](https://www.piter.com/product/konkurentnost-v-c-asinhronnoe-parallelnoe-i-mnogopotochnoe-programmirovanie-2-e-mezhd-izd), 2-е издание, 2020  
 _[Стивен Клири](https://github.com/StephenCleary)_  
-_`publishing`, `year`_
+_`publisher`, `date`_
 
 <span>eng</span><br/>
 [**Concurrency in C# Cookbook: Asynchronous, Parallel, and Multithreaded Programming 2nd Edition**](https://www.amazon.com/Concurrency-Cookbook-Asynchronous-Multithreaded-Programming), October 2019  
 _by [Stephen Cleary](https://github.com/StephenCleary)_  
-_`publishing`, `year`_
+_`publisher`, `date`_
 
 tags:  `dotnet` `concurrency` `patterns` `async`
 
@@ -326,13 +301,15 @@ tags:  `dotnet` `concurrency` `patterns` `async`
 
 <span>🔥&nbsp;</span>
 [**Внедрение зависимостей на платформе .NET**](https://www.piter.com/collection/programmirovanie-razrabotka-programnogo-obespecheniya/product/vnedrenie-zavisimostey-na-platforme-net-2-e-izdanie), 2-е издание, 2021  
-_[Марк Симан](https://github.com/ploeh)_  
-_`publishing`, `year`_
+_`authored by` [Марк Симан](https://github.com/ploeh)_  
+_`publisher` -_  
+_`publication date`_
 
 <span>eng</span><br/>
 [Dependency Injection Principles, Practices, and Patterns First Edition](https://www.amazon.com/Dependency-Injection-Principles-Practices-Patterns-dp-161729473X/dp/161729473X), March 2019  
-_by [Mark Seemann](https://github.com/ploeh)_  
-_`publishing`, `year`_
+_`authored by` [Mark Seemann](https://github.com/ploeh)_  
+_`publisher` -_  
+_`publication date`_
 
 tags:  `dotnet` `dependency-injection` `patterns`
 
@@ -341,11 +318,15 @@ tags:  `dotnet` `dependency-injection` `patterns`
 <img alt="Паттерны проектирования на платформе .NET" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/9badc67a-7463-4aa2-adfa-beecde12e390" />
 
 <span>🔥&nbsp;</span>
-[**Паттерны проектирования на платформе .NET**](https://www.piter.com/product/patterny-proektirovaniya-na-platforme-net), 2016  
-_[Сергей Тепляков](https://github.com/SergeyTeplyakov)_  
-_`publishing`, `year`_
+[**Паттерны проектирования на платформе .NET**](https://www.piter.com/product/patterny-proektirovaniya-na-platforme-net)  
+_`authored by` [Сергей Тепляков](https://github.com/SergeyTeplyakov)_  
+_`publisher` Piter_  
+_`publication date` 2016_
 
+...  
+...  
 ...
+
 
 tags:  `dotnet` `patterns`
 
@@ -355,13 +336,15 @@ tags:  `dotnet` `patterns`
 
 <span>🔥&nbsp;</span>
 [**Принципы юнит-тестирования**](https://www.piter.com/product/printsipy-yunit-testirovaniya), 2022  
-_[Владимир Хориков](https://github.com/vkhorikov)_  
-_`publishing`, `year`_
+_`authored by` [Владимир Хориков](https://github.com/vkhorikov)_  
+_`publisher` -_  
+_`publication date`_
 
 <span>eng</span><br/>
 [Unit Testing Principles, Practices, and Patterns: Effective testing styles, patterns, and reliable automation for unit testing, mocking, and integration testing with examples in C# First Edition](https://www.amazon.com/Unit-Testing-Principles-Practices-Patterns/dp/1617296279), January 2020  
-_by [Vladimir Khorikov](https://github.com/vkhorikov)_  
-_`publishing`, `year`_
+_`authored by` [Vladimir Khorikov](https://github.com/vkhorikov)_  
+_`publisher` -_  
+_`publication date`_
 
 tags:  `dotnet` `testing`
 
@@ -370,14 +353,16 @@ tags:  `dotnet` `testing`
 <img alt="Код, который умещается в голове" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/d4deffab-07de-4be8-91d3-9bb4528718f2" />
 
 <span>🔥&nbsp;</span>
-[**Код, который умещается в голове**](https://www.piter.com/collection/recommend/product/robert-martin-rekomenduet-kod-kotoryy-umeschaetsya-v-golove-evristiki-dlya-razrabotchikov), 2023  
-_[Марк Симан](https://github.com/ploeh)_  
-_`publishing`, `year`_
+[**Код, который умещается в голове**](https://www.piter.com/collection/recommend/product/robert-martin-rekomenduet-kod-kotoryy-umeschaetsya-v-golove-evristiki-dlya-razrabotchikov)  
+_`authored by` [Марк Симан](https://github.com/ploeh)_  
+_`publisher` Piter_  
+_`publication date` 2023_
 
 <span>eng</span><br/>
-[Code That Fits in Your Head : Heuristics for Software Engineering (Robert C. Martin Series) 1st Edition](https://www.amazon.com/Code-That-Fits-Your-Head/dp/0137464401), November 2021  
-_by [Mark Seemann](https://github.com/ploeh)_  
-_`publishing`, `year`_
+[Code That Fits in Your Head : Heuristics for Software Engineering (Robert C. Martin Series) 1st Edition](https://www.amazon.com/Code-That-Fits-Your-Head/dp/0137464401)  
+_`authored by` [Mark Seemann](https://github.com/ploeh)_  
+_`publisher` Addison-Wesley Professional_  
+_`publication date` November 2021_
 
 tags:  `dotnet`
 
@@ -386,25 +371,28 @@ tags:  `dotnet`
 <img alt="ASP.NET Core в действии" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/3b08135a-b207-484a-a2de-570bb97d36d1" />
 
 <span>🔥&nbsp;</span>
-[**ASP.NET Core в действии**](https://dmkpress.com/catalog/computer/web/978-5-97060-550-9/), Сентябрь 2021  
-_[Эндрю Лок](https://github.com/andrewlock)_  
-_`publishing`, `year`_
+[**ASP.NET Core в действии**](https://dmkpress.com/catalog/computer/web/978-5-97060-550-9/)  
+_`authored by` [Эндрю Лок](https://github.com/andrewlock)_  
+_`publisher` DMK_  
+_`publication date` Сентябрь 2021_
 
 <span>eng</span><br/>
-[ASP.NET Core in Action, Second Edition 2nd Edition](https://www.amazon.com/ASP-NET-Core-Action-Second-Andrew/dp/1617298301), April 2021  
-_by [Andrew Lock](https://github.com/andrewlock)_  
-_`publishing`, `year`_
+[ASP.NET Core in Action, Second Edition 2nd Edition](https://www.amazon.com/ASP-NET-Core-Action-Second-Andrew/dp/1617298301)  
+_`authored by` [Andrew Lock](https://github.com/andrewlock)_  
+_`publisher` Manning Publications_  
+_`publication date` April 2021_
 
 tags:  `dotnet` `dotnet-core`
 
 ---
 #### Software. Ошибки и компромиссы
-<img alt="Software. Ошибки и компромиссы" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/6b68dabb-ca77-416b-8330-cefed38190b6"  />
+<img alt="Software. Ошибки и компромиссы" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/6b68dabb-ca77-416b-8330-cefed38190b6"  />
 
 <span>🖼&nbsp;</span>
 [**Software. Ошибки и компромиссы**](https://www.piter.com/product/software-oshibki-i-kompromissy-pri-razrabotke-po)  
-_[Джон Скит](https://github.com/jskeet/) и [Томаш Лелек](https://github.com/tomekl007)_  
-_`publishing`, 2023_
+_`authored by` [Джон Скит](https://github.com/jskeet/) и [Томаш Лелек](https://github.com/tomekl007)_  
+_`publisher` Piter_
+_`publication date` 2023_
 
 ...
 
@@ -424,8 +412,9 @@ tags:  `dotnet` `dotnet-core` `jon-skeet`
 
 <span>🖼&nbsp;</span>
 [**Параллельное программирование на C# и .NET Core**](https://dmkpress.com/catalog/computer/programming/c/978-5-97060-851-7/)  
-_by [Shakti Tanwar](https://github.com/shaktisinghtanwar)_  
-_Ноябрь, 2021_
+_`authored by` [Shakti Tanwar](https://github.com/shaktisinghtanwar)_  
+_`publisher` DMK_  
+_`publication date` Ноябрь 2021_
 
 tags:  `dotnet` `dotnet-core` `concurrency`
 
@@ -434,8 +423,9 @@ tags:  `dotnet` `dotnet-core` `concurrency`
 
 <span>🖼&nbsp;</span>
 [**Pro Microservices in .NET 6**](https://www.amazon.com/Pro-Microservices-NET-MassTransit-Kubernetes/dp/1484278321)  
-_by [Sean Whitesell](https://github.com/seanw122), [Rob Richardson](https://github.com/robrich) and [Matthew D. Groves](https://github.com/mgroves)_  
-_`pulishing`, 2022_
+_`authored by` [Sean Whitesell](https://github.com/seanw122), [Rob Richardson](https://github.com/robrich) and [Matthew D. Groves](https://github.com/mgroves)_  
+_`publisher` -_  
+_`publication date` 2022_
 
 tags:  `dotnet` `microservices` `patterns` `architecture`
 
@@ -444,8 +434,9 @@ tags:  `dotnet` `microservices` `patterns` `architecture`
 
 <span>🖼&nbsp;</span>
 [**Безопасность ASP.NET Core**](https://dmkpress.com/catalog/computer/web/978-5-93700-176-4/)  
-_by [Christian Wenz](https://github.com/wenz)_  
-_Апрель, 2023_
+_`authored by` [Christian Wenz](https://github.com/wenz)_  
+_`publisher` -_  
+_`publication date` Апрель 2023_
 
 tags:  `dotnet` `aspnet-core` `security`
 
@@ -454,8 +445,9 @@ tags:  `dotnet` `aspnet-core` `security`
 
 <span>🖼&nbsp;</span>
 [**C# 9.0. Карманный справочник**](https://www.ozon.ru/product/c-9-0-karmannyy-spravochnik-albahari-ben-albahari-dzhozef-251632157/)  
-_by [Joe Albahari](https://www.albahari.com/) and [Ben Albahari](https://www.albahari.com/)__  
-_`publish`, 2021_
+_`authored by` [Joe Albahari](https://www.albahari.com/) and [Ben Albahari](https://www.albahari.com/)__  
+_`publisher`-_  
+_`publication date` 2021_
 
 tags:  `dotnet` `c#`
 
@@ -464,8 +456,9 @@ tags:  `dotnet` `c#`
 
 <span>🖼&nbsp;</span>
 [**Адаптивный код. 2-е издание**](https://www.ozon.ru/product/adaptivnyy-kod-gibkoe-kodirovanie-s-pomoshchyu-patternov-proektirovaniya-i-printsipov-solid-2-341104039/)  
-_by [Gary McLean Hall](https://github.com/garymcleanhall)_  
-_`publish`, 2019_
+_`authored by` [Gary McLean Hall](https://github.com/garymcleanhall)_  
+_`publisher` -_  
+_`publication date` 2019_
 
 tags:  `dotnet` `c#`
 
@@ -474,8 +467,9 @@ tags:  `dotnet` `c#`
 
 <span>🛒&nbsp;</span>
 [**Apps and Services with .NET 8**](https://www.packtpub.com/product/apps-and-services-with-net-8-second-edition/9781837637133)  
-_by [Mark J. Price](https://github.com/markjprice)_  
-_December, 2023_
+_`authored by` [Mark J. Price](https://github.com/markjprice)_  
+_`publisher` -_  
+_`publication date` December, 2023_
 
 tags:  `dotnet`
 
@@ -543,7 +537,7 @@ tags:  `xslt`
 <span>🔥&nbsp;</span>
 [**Elegant Objects, Volume 1**](https://www.amazon.com/Elegant-Objects-1-Yegor-Bugayenko/dp/1519166915), February 17, 2016  
 _by [Yegor Bugayenko](https://github.com/yegor256)_  
-_`publish`, `year`_
+_`publish`, `date`_
 
 ...
 
@@ -554,7 +548,7 @@ tags:  `yegor256` `elegant-objects`
 
 [**Элегантные объекты. Java Edition**](https://www.piter.com/collection/A32721/product/elegantnye-obekty-java-edition), 2018  
 _by [Yegor Bugayenko](https://github.com/yegor256)_  
-_`publish`, `year`_
+_`publish`, `date`_
 
 ...
 
@@ -566,7 +560,7 @@ tags:  `yegor256` `elegant-objects`
 
 [**Clojure на производстве**](https://dmkpress.com/catalog/computer/programming/functional/978-5-93700-055-2), Ноябрь 2021  
 _by [Ivan Grishaev](https://github.com/igrishaev)_  
-_`publish`, `year`_
+_`publish`, `date`_
 
 ...
 
@@ -579,7 +573,7 @@ tags:  `clojure`
 <span>🔥&nbsp;</span>
 [**Наш код. Ремесло, профессия, искусство**](https://www.piter.com/product/nash-kod-remeslo-professiya-iskusstvo), 2019  
 _by [Yegor Bugayenko](https://github.com/yegor256)_  
-_`publish`, `year`_
+_`publish`, `date`_
 
 ...
 
