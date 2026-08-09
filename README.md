@@ -152,12 +152,17 @@ tags:  [`api`](#API-как-искусство) [`api-architecture`](#Проек�
 _[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers), [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_  
 _`publisher`, `date`_
 
+...  
+...  
+...
+
 <details>
     <summary><i>анг. издание</i></summary>
     <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
     <i><b><a href="">Software Requirements</a></b></i><br/>
-    <i>by <a href="https://www.google.com/search?q=Karl+Wiegers">Karl Wiegers</a> and <a href="https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty">Joy Beatty</a></i><br/>
-    <i>publishing, month year</i><br/>
+    <i>authored by <a href="https://www.google.com/search?q=Karl+Wiegers">Karl Wiegers</a> and <a href="https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty">Joy Beatty</a></i><br/>
+    <i>publisher -</i><br/>
+    <i>publication date -</i><br/>
 </details><br/>
 
 tags:  [`software-requirements`](#Разработка-требований-к-программному-обеспечению) [`requirements-engineering`](#Разработка-требований-к-программному-обеспечению)
@@ -175,8 +180,9 @@ _`publisher`, `date`_
     <summary><i>анг. издание</i></summary>
     <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
     <i><b><a href="">System Design Interview – An insider's guide</a></b></i><br/>
-    <i>by <a href="">Alex Xu</a></i><br/>
-    <i>publishing, month yaar</i><br>
+    <i>authored by <a href="">Alex Xu</a></i><br/>
+    <i>publisher -</i><br/>
+    <i>publication date -</i><br>
 </details>
 
 tags:  [`system design`](#System-Design-Подготовка-к-сложному-интервью)
@@ -194,8 +200,9 @@ _`publisher`, `date`_
     <summary><i>анг. издание</i></summary>
     <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
     <i><b><a href="">Machine Learning System Design Interview</a></b></i><br/>
-    <i>by <a href="">Alex Xu</a> and <a href="">Ali Aminian</a></i><br/>
-    <i>publishing, month yaar</i><br/>
+    <i>authored by <a href="">Alex Xu</a> and <a href="">Ali Aminian</a></i><br/>
+    <i>publisher -</i><br/>
+    <i>publication date -</i><br/>
 </details>
 
 tags:  [`system design`](#System-Design-Подготовка-к-сложному-интервью) `ml`
@@ -213,8 +220,9 @@ _`publisher`, `date`_
     <summary><i>анг. издание</i></summary>
     <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
     <i><b><a href="">Modern Software Engineering: Doing What Works to Build Better Software Faster</a></b></i><br/>
-    <i>by <a href="">David Farley</a></i><br/>
-    <i>publishing, month yaar</i><br/>
+    <i>authored by <a href="">David Farley</a></i><br/>
+    <i>publisher -</i><br/>
+    <i>publication date</i><br/>
 </details>
 
 tags:  [`software engineering`](#Современная-программная-инженерия)
