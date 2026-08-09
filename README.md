@@ -39,10 +39,11 @@
 - [music](#music)
 - [non fiction](#non-fiction)
 
+---
 #### API как искусство
 <img alt="API как искусство: разработка, поддержка, интеграция. Сергей Константинов" width="120" src="https://bhv.ru/wp-content/uploads/2025/04/3133_978-5-9775-2084-3.jpg" />
 
-[API как искусство: разработка, поддержка, интеграция](https://bhv.ru/product/api-kak-iskusstvo-razrabotka-podderzhka-integratsiya/)  
+[**API как искусство: разработка, поддержка, интеграция**](https://bhv.ru/product/api-kak-iskusstvo-razrabotka-podderzhka-integratsiya/)  
 _[Сергей Константинов](https://github.com/twirl/The-API-Book)_  
 _ДМК-Пресс, 2025_
 
@@ -52,7 +53,7 @@ tags:  `api`
 #### Проектирование веб-API
 <img alt="Проектирование веб-API" width="120" src="https://www.dmkpress.com/upload/iblock/71a/uclujzb33ygz8su0ixjhk7n7ybphd26z.jpg" />  
 
-[Проектирование веб-API](https://dmkpress.com/catalog/computer/web/978-5-97060-861-6/)  
+[**Проектирование веб-API**](https://dmkpress.com/catalog/computer/web/978-5-97060-861-6/)  
 _[Арно Лоре](https://github.com/arno-di-loreto)_  
 _ДМК-Пресс, 2020_
 
@@ -63,7 +64,7 @@ _ДМК-Пресс, 2020_
     <br/>
     <img alt="The Design of Web APIs" width="120" src="https://m.media-amazon.com/images/I/61ZND26BDZL._SL1500_.jpg" />
     <br/>
-    <a href="https://www.amazon.com/Design-Web-APIs-Arnaud-Lauret/dp/1617295108">The Design of Web APIs 1st edition</a>
+    <i><b><a href="https://www.amazon.com/Design-Web-APIs-Arnaud-Lauret/dp/1617295108">The Design of Web APIs 1st edition</a></b></i>
     <br/>
     <i>by <a href="https://github.com/arno-di-loreto">Arnaud Lauret</a></i>
     <br/>
@@ -76,7 +77,7 @@ tags:  `api` `api-design`
 #### Проектирование архитектуры API
 <img alt="Проектирование архитектуры API" width="120" src="https://bhv.ru/wp-content/uploads/2024/05/3038_978-601-09-5053-5.jpg" />
 
-[Проектирование архитектуры API: Как проектировать, развивать и эксплуатировать API](https://bhv.ru/product/proektirovanie-arhitektury-api-kak-pravilno-proektirovat-razvivat-i-ekspluatirovat-api)  
+[**Проектирование архитектуры API: Как проектировать, развивать и эксплуатировать API**](https://bhv.ru/product/proektirovanie-arhitektury-api-kak-pravilno-proektirovat-razvivat-i-ekspluatirovat-api)  
 _[Джеймс Гоф](https://github.com/jpgough), Дэниэл Брайант, Мэтью Оберн_  
 _БХВ, 2023_
 
@@ -87,7 +88,7 @@ _БХВ, 2023_
     <br/>
     <img alt="Mastering API Architecture: Design, Operate and Evolve API-Based Systems" width="120" src="https://m.media-amazon.com/images/I/618JYtOzXoL._SL1318_.jpg" />  
     <br/>
-    <a href="https://www.amazon.in/Mastering-API-Architecture-API-Based-Grayscale/dp/9355422083/">Mastering API Architecture: Design, Operate and Evolve API-Based Systems</a>
+    <i><b><a href="https://www.amazon.in/Mastering-API-Architecture-API-Based-Grayscale/dp/9355422083/">Mastering API Architecture: Design, Operate and Evolve API-Based Systems</a></b></i>
     <br/>
     <i>by <a href="https://github.com/jpgough">James Gough</a>, Daniel Bryant, Matthew Auburn</i>
     <br/>
@@ -100,7 +101,7 @@ tags:  `api` `api-design` `architecture`
 #### Паттерны проектирования API
 <img src="https://static.insales-cdn.com/images/products/1/6799/639056527/44611984.jpg" alt="Паттерны проектирования API" width="120" />
 
-[Паттерны проектирования API](https://www.piter.com/product/patterny-proektirovaniya-api)  
+[**Паттерны проектирования API**](https://www.piter.com/product/patterny-proektirovaniya-api)  
 _[Джей Джей Гивакс](https://github.com/jgeewax)_  
 _Питер, 2024_
 
@@ -111,7 +112,7 @@ _Питер, 2024_
     <br/>
     <img src="https://m.media-amazon.com/images/I/71-Q7YOvWkL._SL1500_.jpg" alt="API Design Patterns" width="120" />
     <br/>
-    <a href="https://www.amazon.com/API-Design-Patterns-JJ-Geewax/dp/161729585X">API Design Patterns</a>  
+    <i><b><a href="https://www.amazon.com/API-Design-Patterns-JJ-Geewax/dp/161729585X">API Design Patterns</a></b></i>
     <br/>
     <i>by <a href="https://github.com/jgeewax">JJ Geewax</a></i>  
     <br/>
@@ -124,7 +125,7 @@ tags:  `api` `api-design` `patterns`
 #### Тестирование веб-API
 <img src="https://static.insales-cdn.com/images/products/1/2633/808274505/44612092.jpg" alt="Тестирование веб-API" width="120" />
 
-[Тестирование веб-API](https://www.piter.com/collection/top-2/product/testirovanie-veb-api)  
+[**Тестирование веб-API**](https://www.piter.com/collection/top-2/product/testirovanie-veb-api)  
 _[Марк Винтерингем](https://github.com/mwinteringham)_  
 _Питер, 2024_
 
@@ -135,7 +136,7 @@ _Питер, 2024_
     <br/>
     <img src="https://m.media-amazon.com/images/I/61RPbyND3FL._SL1500_.jpg" alt="Testing Web APIs" width="120" />
     <br/>
-    <a href="https://www.amazon.com/Testing-Web-APIs-Mark-Winteringham/dp/1617299537">Testing Web APIs</a>
+    <i><b><a href="https://www.amazon.com/Testing-Web-APIs-Mark-Winteringham/dp/1617299537">Testing Web APIs</a></b></i>
     <br/>
     <i>by <a href="https://github.com/mwinteringham">Mark Winteringham</a></i>
     <br/>
@@ -148,7 +149,7 @@ tags:  `api` `testops`
 #### Непрерывное развитие API
 <img src="https://static.insales-cdn.com/images/products/1/5607/611374567/44612023.jpg" alt="Непрерывное развитие API" width="120" />
 
-[Непрерывное развитие API. Правильные решения в изменчивом технологическом ландшафте, 2-е изд.](https://www.piter.com/collection/bestsellery-oreilly/product/nepreryvnoe-razvitie-api-pravilnye-resheniya-v-izmenchivom-tehnologicheskom-landshafte-2-e-izd)  
+[**Непрерывное развитие API. Правильные решения в изменчивом технологическом ландшафте, 2-е изд.**](https://www.piter.com/collection/bestsellery-oreilly/product/nepreryvnoe-razvitie-api-pravilnye-resheniya-v-izmenchivom-tehnologicheskom-landshafte-2-e-izd)  
 _Мехди Меджуи, [Эрик Уайлд](https://github.com/dret), [Ронни Митра](https://github.com/mitraman), [Майк Амундсен](https://github.com/mamund)_  
 _Питер, 2023_
 
@@ -159,7 +160,7 @@ _Питер, 2023_
     <br/>
     <img alt="Continuous API Management: Making the Right Decisions in an Evolving Landscape 2nd Edition" width="120" src="https://m.media-amazon.com/images/I/81+paLnjOpL._SL1500_.jpg" />
     <br/>
-    <a href="https://www.amazon.com/Continuous-API-Management-Decisions-Landscape/dp/1098103521">Continuous API Management: Making the Right Decisions in an Evolving Landscape 2nd Edition</a>
+    <i><b><a href="https://www.amazon.com/Continuous-API-Management-Decisions-Landscape/dp/1098103521">Continuous API Management: Making the Right Decisions in an Evolving Landscape 2nd Edition</a></b></i>
     <br/>
     <i>by Mehdi Medjaoui, <a href="https://github.com/dret">Erik Wilde</a>, <a href="https://github.com/mitraman">Ronnie Mitra</a>, <a href="https://github.com/mamund">Mike Amundsen</a></i>
     <br/>
@@ -173,7 +174,7 @@ tags:  `api` `architecture`
 <img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
 <span>`status`&nbsp;</span><br/>
-[Разработка требований к программному обеспечению](https://bhv.ru/product/razrabotka-trebovanij-k-programmnomu-obespecheniyu-3-izd),  
+[**Разработка требований к программному обеспечению**](https://bhv.ru/product/razrabotka-trebovanij-k-programmnomu-obespecheniyu-3-izd),  
 _[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers), [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_  
 _`publishing`, `year`_
 
@@ -188,49 +189,20 @@ _`publishing`, `year`_
 tags:  `software-requirements` `requirements-engineering`
 
 ---
-#### Разработка требований к программному обеспечению 2
-<img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
-
-<span>`status`&nbsp;</span>  
-[Разработка требований к программному обеспечению](https://bhv.ru/product/razrabotka-trebovanij-k-programmnomu-obespecheniyu-3-izd),  
-_[Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers), [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_  
-_`publishing`, `year`_
-
-<details>
-    <summary>
-      <i>анг. издание</i>
-    </summary>
-    <br/>
-    <img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
-    <a  href="">Software Requirements</a>
-    <br/>
-    <i>by <a href="https://www.google.com/search?q=Karl+Wiegers">Karl Wiegers</a> and <a href="https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty">Joy Beatty</a></i>
-    <br/>
-    <i>publishing, month year</i>
-    <br/>
-    <br/>
-</details>
-
-tags:  `software-requirements` `requirements-engineering`
-
----
 #### System Design. Подготовка к сложному интервью
 <img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
-автор - Алекс Сюй
+<span>`status`&nbsp;</span><br/>
+[**System Design. Подготовка к сложному интервью**](),  
+_[Алекс Сюй]()_  
+_`publishing`, `year`_
 
 <details>
-<summary>
-  <i>анг. издание</i>
-</summary>
-<br/>
-<img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
-<br/>
-<a href="">System Design Interview – An insider's guide</a>
-<br/>
-<i>by <a href="">Alex Xu</a></i>
-<br/>
-<i>`publishing`, `month yaar`</i>
+    <summary><i>анг. издание</i></summary>
+    <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
+    <i><b><a href="">System Design Interview – An insider's guide</a></b></i><br/>
+    <i>by <a href="">Alex Xu</a></i><br/>
+    <i>publishing, month yaar</i><br>
 </details>
 
 tags:  `system design`
@@ -239,21 +211,17 @@ tags:  `system design`
 #### System Design. Машинное обучение. Подготовка к сложному интервью
 <img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
-авторы - Алекс Сюй и Али Аминиан
+<span>`status`&nbsp;</span><br/>
+[**System Design. Подготовка к сложному интервью**](),  
+_[Алекс Сюй]() и [Али Аминиан]()_  
+_`publishing`, `year`_
 
 <details>
-<summary>
-  <i>анг. издание</i>
-</summary>
-<br/>
-<img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
-<br/>
-<a href="">Machine Learning System Design Interview</a>
-<br/>
-<i>by <a href="">Alex Xu</a> and <a href="">Ali Aminian</a></i>
-<br/>
-<i>`publishing`, `month yaar`</i>
-<br clear="right"/>
+    <summary><i>анг. издание</i></summary>
+    <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
+    <i><b><a href="">Machine Learning System Design Interview</a></b></i><br/>
+    <i>by <a href="">Alex Xu</a> and <a href="">Ali Aminian</a></i><br/>
+    <i>publishing, month yaar</i><br/>
 </details>
 
 tags:  `system design` `ml`
@@ -262,41 +230,20 @@ tags:  `system design` `ml`
 #### Современная программная инженерия
 <img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
 
-автор - Дэвид Фарли 
+<span>`status`&nbsp;</span><br/>
+[**Современная программная инженерия**](),  
+_[Дэвид Фарли]()_  
+_`publishing`, `year`_ 
 
 <details>
-<summary>
-  <i>анг. издание</i>
-</summary>
-<br/>
-<img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
-<br/>
-<a href="">Modern Software Engineering: Doing What Works to Build Better Software Faster</a>
-<br/>
-<i>by <a href="">David Farley</a></i>
-<br/>
-<i>`publishing`, `month yaar`</i>
+    <summary><i>анг. издание</i></summary>
+    <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
+    <i><b><a href="">Modern Software Engineering: Doing What Works to Build Better Software Faster</a></b></i><br/>
+    <i>by <a href="">David Farley</a></i><br/>
+    <i>publishing, month yaar</i><br/>
 </details>
 
 tags:  `software engineering`
-
----
-#### Современная программная инженерия 2
-<span>🔥&nbsp;</span>
-[Современная программная инженерия](https://www.google.com/search?q=David+Farley), Месяц Год
-<br/>
-<i>[Дэвид Фарли](https://www.google.com/search?q=David+Farley)</i>
-<img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
-<br/>
-_eng:_
-<br/>
-[Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.google.com/search?q=David+Farley), Month Year
-<br/>
-_by [David Farley](https://www.google.com/search?q=David+Farley)_
-<br/>
-tags:  `software-engineering`
-<br/>
-<br clear="right"/>
 
 ---
 #### not sorted yet stage 1
