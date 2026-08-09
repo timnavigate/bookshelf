@@ -40,7 +40,7 @@
 - [non fiction](#non-fiction)
 
 #### API как искусство
-<img src="https://bhv.ru/wp-content/uploads/2025/04/3133_978-5-9775-2084-3.jpg" alt="API как искусство: разработка, поддержка, интеграция. Сергей Константинов" width="120" />
+<img alt="API как искусство: разработка, поддержка, интеграция. Сергей Константинов" src="https://bhv.ru/wp-content/uploads/2025/04/3133_978-5-9775-2084-3.jpg" width="120" />
 
 [API как искусство: разработка, поддержка, интеграция](https://bhv.ru/product/api-kak-iskusstvo-razrabotka-podderzhka-integratsiya/)  
 _[Сергей Константинов](https://github.com/twirl/The-API-Book)_  
@@ -50,7 +50,7 @@ tags:  `api`
 
 ---
 #### Проектирование веб-API
-<img src="https://www.dmkpress.com/upload/iblock/71a/uclujzb33ygz8su0ixjhk7n7ybphd26z.jpg" alt="Проектирование веб-API" width="120" />  
+<img alt="Проектирование веб-API"  src="https://www.dmkpress.com/upload/iblock/71a/uclujzb33ygz8su0ixjhk7n7ybphd26z.jpg" width="120" />  
 
 [Проектирование веб-API](https://dmkpress.com/catalog/computer/web/978-5-97060-861-6/)  
 _[Арно Лоре](https://github.com/arno-di-loreto)_  
@@ -61,7 +61,7 @@ _[Арно Лоре](https://github.com/arno-di-loreto)_
   <i>анг. издание</i>
 </summary>
 <br/>
-<img src="https://m.media-amazon.com/images/I/61ZND26BDZL._SL1500_.jpg" alt="The Design of Web APIs" width="120" />
+<img alt="The Design of Web APIs" src="https://m.media-amazon.com/images/I/61ZND26BDZL._SL1500_.jpg" width="120" />
 <br/>
 <a href="https://www.amazon.com/Design-Web-APIs-Arnaud-Lauret/dp/1617295108">The Design of Web APIs 1st edition</a>
 <br/>
@@ -74,9 +74,9 @@ tags:  `api` `api-design`
 
 ---
 #### Проектирование архитектуры API
-<img src="https://bhv.ru/wp-content/uploads/2024/05/3038_978-601-09-5053-5.jpg" alt="Проектирование архитектуры API" width="120" />
+<img alt="Проектирование архитектуры API" src="https://bhv.ru/wp-content/uploads/2024/05/3038_978-601-09-5053-5.jpg" width="120" />
 
-[**Проектирование архитектуры API: Как проектировать, развивать и эксплуатировать API**](https://bhv.ru/product/proektirovanie-arhitektury-api-kak-pravilno-proektirovat-razvivat-i-ekspluatirovat-api)  
+[Проектирование архитектуры API: Как проектировать, развивать и эксплуатировать API](https://bhv.ru/product/proektirovanie-arhitektury-api-kak-pravilno-proektirovat-razvivat-i-ekspluatirovat-api)  
 _[Джеймс Гоф](https://github.com/jpgough), Дэниэл Брайант, Мэтью Оберн_  
 БХВ, 2023
 
@@ -85,7 +85,7 @@ _[Джеймс Гоф](https://github.com/jpgough), Дэниэл Брайант,
   <i>анг. издание</i>
 </summary>
 <br/>
-<img src="https://m.media-amazon.com/images/I/618JYtOzXoL._SL1318_.jpg" alt="Mastering API Architecture: Design, Operate and Evolve API-Based Systems" width="120" />  
+<img alt="Mastering API Architecture: Design, Operate and Evolve API-Based Systems" src="https://m.media-amazon.com/images/I/618JYtOzXoL._SL1318_.jpg" width="120" />  
 <br/>
 <a href="https://www.amazon.in/Mastering-API-Architecture-API-Based-Grayscale/dp/9355422083/">Mastering API Architecture: Design, Operate and Evolve API-Based Systems</a>
 <br/>
@@ -98,7 +98,7 @@ tags:  `api` `api-design` `architecture`
 
 ---
 #### Паттерны проектирования API
-<img src="https://static.insales-cdn.com/images/products/1/6799/639056527/44611984.jpg" alt="Паттерны проектирования API" width="120" />
+<img alt="Паттерны проектирования API" src="https://static.insales-cdn.com/images/products/1/6799/639056527/44611984.jpg" width="120" />
 
 [Паттерны проектирования API](https://www.piter.com/product/patterny-proektirovaniya-api)  
 _[Джей Джей Гивакс](https://github.com/jgeewax)_  
@@ -109,7 +109,7 @@ _[Джей Джей Гивакс](https://github.com/jgeewax)_
   <i>анг. издание</i>
 </summary>
 <br/>
-<img src="https://m.media-amazon.com/images/I/71-Q7YOvWkL._SL1500_.jpg" alt="API Design Patterns" width="120" />
+<img alt="API Design Patterns" src="https://m.media-amazon.com/images/I/71-Q7YOvWkL._SL1500_.jpg" width="120" />
 <br/>
 <a href="https://www.amazon.com/API-Design-Patterns-JJ-Geewax/dp/161729585X">API Design Patterns</a>  
 <br/>
@@ -122,7 +122,7 @@ tags:  `api` `api-design` `patterns`
 
 ---
 #### Тестирование веб-API
-<img src="https://static.insales-cdn.com/images/products/1/2633/808274505/44612092.jpg" alt="Тестирование веб-API" width="120" />
+<img alt="Тестирование веб-API" src="https://static.insales-cdn.com/images/products/1/2633/808274505/44612092.jpg" width="120" />
 
 [Тестирование веб-API](https://www.piter.com/collection/top-2/product/testirovanie-veb-api)  
 _[Марк Винтерингем](https://github.com/mwinteringham)_  
@@ -133,7 +133,7 @@ _[Марк Винтерингем](https://github.com/mwinteringham)_
   <i>анг. издание</i>
 </summary>
 <br/>
-<img src="https://m.media-amazon.com/images/I/61RPbyND3FL._SL1500_.jpg" alt="Testing Web APIs" width="120" />
+<img alt="Testing Web APIs" src="https://m.media-amazon.com/images/I/61RPbyND3FL._SL1500_.jpg" width="120" />
 <br/>
 <a href="https://www.amazon.com/Testing-Web-APIs-Mark-Winteringham/dp/1617299537">Testing Web APIs</a>
 <br/>
@@ -146,7 +146,7 @@ tags:  `api` `testops`
 
 ---
 #### Непрерывное развитие API
-<img src="https://static.insales-cdn.com/images/products/1/5607/611374567/44612023.jpg" alt="Непрерывное развитие API" width="120" />
+<img alt="Непрерывное развитие API" src="https://static.insales-cdn.com/images/products/1/5607/611374567/44612023.jpg" width="120" />
 
 [Непрерывное развитие API. Правильные решения в изменчивом технологическом ландшафте, 2-е изд.](https://www.piter.com/collection/bestsellery-oreilly/product/nepreryvnoe-razvitie-api-pravilnye-resheniya-v-izmenchivom-tehnologicheskom-landshafte-2-e-izd)  
 _Мехди Меджуи, [Эрик Уайлд](https://github.com/dret), [Ронни Митра](https://github.com/mitraman), [Майк Амундсен](https://github.com/mamund)_  
@@ -157,7 +157,7 @@ _Мехди Меджуи, [Эрик Уайлд](https://github.com/dret), [Ро�
   <i>анг. издание</i>
 </summary>
 <br/>
-<img src="https://m.media-amazon.com/images/I/81+paLnjOpL._SL1500_.jpg" alt="Continuous API Management: Making the Right Decisions in an Evolving Landscape 2nd Edition" width="120" />
+<img alt="Continuous API Management: Making the Right Decisions in an Evolving Landscape 2nd Edition" src="https://m.media-amazon.com/images/I/81+paLnjOpL._SL1500_.jpg" width="120" />
 <br/>
 <a href="https://www.amazon.com/Continuous-API-Management-Decisions-Landscape/dp/1098103521">Continuous API Management: Making the Right Decisions in an Evolving Landscape 2nd Edition</a>
 <br/>
@@ -179,7 +179,7 @@ tags:  `api` `architecture`
   <i>анг. издание</i>
 </summary>
 <br/>
-<img src="" alt="Software Requirements by Karl Wiegers and Joy Beatty" width="120" />
+<img alt="Software Requirements by Karl Wiegers and Joy Beatty" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" width="120" align="right"/>
 <br/>
 <a href="">Software Requirements</a>
 <br/>
@@ -201,7 +201,7 @@ tags:  `software requirements` `requirements engineering`
   <i>анг. издание</i>
 </summary>
 <br/>
-<img src="" alt="System Design Interview – An insider's guide by Alex Xu" width="120" />
+<img alt="System Design Interview – An insider's guide by Alex Xu" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" width="120" align="right"/>
 <br/>
 <a href="">System Design Interview – An insider's guide</a>
 <br/>
@@ -223,7 +223,7 @@ tags:  `system design`
   <i>анг. издание</i>
 </summary>
 <br/>
-<img src="" alt="Machine Learning System Design Interview" width="120" />
+<img alt="Machine Learning System Design Interview" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" width="120" align="right"/>
 <br/>
 <a href="">Machine Learning System Design Interview</a>
 <br/>
@@ -246,7 +246,7 @@ tags:  `system design` `ml`
   <i>анг. издание</i>
 </summary>
 <br/>
-<img src="" alt="Modern Software Engineering: Doing What Works to Build Better Software Faster" width="120" />
+<img alt="Modern Software Engineering: Doing What Works to Build Better Software Faster" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" width="120" align="right"/>
 <br/>
 <a href="">Modern Software Engineering: Doing What Works to Build Better Software Faster</a>
 <br/>
