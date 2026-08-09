@@ -121,21 +121,18 @@ O'Reilly, November 2021
 </details>
 
 ---
+#### SA/SDE, not yet sorted
 
-### SA/SDE, not yet sorted
-#### Разработка требований к программному обеспечению
-...
-#### System Design. Подготовка к сложному интервью
-...
-#### System Design. Машинное обучение. Подготовка к сложному интервью
-...
-#### Современная программная инженерия
-...
+   - Разработка требований к программному обеспечению
+   - System Design. Подготовка к сложному интервью
+   - System Design. Машинное обучение. Подготовка к сложному интервью
+   - Современная программная инженерия
+
 #### not sorted yet
-- Computer Science для программиста-самоучки
-- Грокаем алгоритмы
-- Машинное обучение. Паттерны проектирования
-- Облачный Go
+   - Computer Science для программиста-самоучки
+   - Грокаем алгоритмы
+   - Машинное обучение. Паттерны проектирования
+   - Облачный Go
 - Паттерны разработки на Python
 - Проектирование событийно-ориентированных систем
 - Создание событийно-управляемых микросервисов
@@ -172,6 +169,7 @@ O'Reilly, November 2021
 - Проектирование гибких программ
 - Типы в языках программирования
 - Создай свой собственный язык программирования
+
 #### DotNet
 ##### Управление памятью в .NET для профессионалов
 <span>🔥&nbsp;</span>[**Управление памятью в .NET для профессионалов**](https://dmkpress.com/catalog/computer/programming/dot_net/978-5-97060-800-5/), Апрель 2020<br/>
@@ -185,7 +183,6 @@ _**note**: [2nd edition](https://prodotnetmemory.com/) coming soon ..._
 <br clear="right"/>
 
 ---
-
 ##### Конкурентность в C#
 <span>🔥&nbsp;</span>[**Конкурентность в C#**](https://www.piter.com/product/konkurentnost-v-c-asinhronnoe-parallelnoe-i-mnogopotochnoe-programmirovanie-2-e-mezhd-izd), 2-е издание, 2020<br/>
 _[Стивен Клири](https://github.com/StephenCleary)_
@@ -197,7 +194,6 @@ _by [Stephen Cleary](https://github.com/StephenCleary)_
 <br clear="right"/>
 
 ---
-
 ##### Внедрение зависимостей на платформе .NET
 <span>🔥&nbsp;</span>[**Внедрение зависимостей на платформе .NET**](https://www.piter.com/collection/programmirovanie-razrabotka-programnogo-obespecheniya/product/vnedrenie-zavisimostey-na-platforme-net-2-e-izdanie), 2-е издание, 2021<br/>
 _[Марк Симан](https://github.com/ploeh)_
@@ -209,7 +205,6 @@ _by [Mark Seemann](https://github.com/ploeh)_
 <br clear="right"/>
 
 ---
-
 ##### Паттерны проектирования на платформе .NET
 <span>&nbsp;</span>[**Паттерны проектирования на платформе .NET**](https://www.piter.com/product/patterny-proektirovaniya-na-platforme-net), 2016<br/>
 _[Сергей Тепляков](https://github.com/SergeyTeplyakov)_
@@ -217,7 +212,6 @@ _[Сергей Тепляков](https://github.com/SergeyTeplyakov)_
 <br clear="right"/>
 
 ---
-
 ##### Принципы юнит-тестирования
 <span>🔥&nbsp;</span>[**Принципы юнит-тестирования**](https://www.piter.com/product/printsipy-yunit-testirovaniya), 2022<br/>
 _[Владимир Хориков](https://github.com/vkhorikov)_
@@ -229,7 +223,6 @@ _by [Vladimir Khorikov](https://github.com/vkhorikov)_
 <br clear="right"/>
 
 ---
-
 ##### Код, который умещается в голове 
 [**Код, который умещается в голове**](https://www.piter.com/collection/recommend/product/robert-martin-rekomenduet-kod-kotoryy-umeschaetsya-v-golove-evristiki-dlya-razrabotchikov), 2023<br/>
 _[Марк Симан](https://github.com/ploeh)_
@@ -241,7 +234,6 @@ _by [Mark Seemann](https://github.com/ploeh)_
 <br clear="right"/>
 
 ---
-
 ##### ASP.NET Core в действии
 [**ASP.NET Core в действии**](https://dmkpress.com/catalog/computer/web/978-5-97060-550-9/), Сентябрь 2021<br/>
 _[Эндрю Лок](https://github.com/andrewlock)_
@@ -253,7 +245,6 @@ _by [Andrew Lock](https://github.com/andrewlock)_
 <br clear="right"/>
 
 ---
-
 ##### Software. Ошибки и компромиссы
 [**Software. Ошибки и компромиссы**](https://www.piter.com/product/software-oshibki-i-kompromissy-pri-razrabotke-po), 2023<br/>
 _[Джон Скит](https://github.com/jskeet/) и [Томаш Лелек](https://github.com/tomekl007)_
@@ -265,7 +256,6 @@ _by [Jon Skeet](https://github.com/jskeet/) and [Tomasz Lelek](https://github.co
 <br clear="right"/>
 
 ---
-
 ##### ...not yet sorted
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" alt="empty book title" width="100" align="right"/><br/>
 <span>🖼&nbsp;</span>[**Параллельное программирование на C# и .NET Core**](https://dmkpress.com/catalog/computer/programming/c/978-5-97060-851-7/), Ноябрь 2021<br/>
@@ -304,24 +294,22 @@ _by [Jon P Smith](https://github.com/JonPSmith)_<br/>
 
 ---
 #### C++
-##### Паттерны программирования игр
-...
+
+   - Паттерны программирования игр
+
 #### ECMAScript
-##### Как устроен JavaScript
-...
-##### JavaScript. Сильный стороны
-...
-##### Рефакторинг JavaScript
-...
-##### Профессиональный TypeScript
-...
-#### LaTex/XSL
-##### XSLT. Сборник рецептов
-...
-##### XSLT. 2-е издание
-...
-##### Набор и верстка в пакете LaTex
-...
+
+   - Как устроен JavaScript
+   - JavaScript. Сильный стороны
+   - Рефакторинг JavaScript
+   - Профессиональный TypeScript
+
+#### LaTex/XSLT
+
+   - XSLT. Сборник рецептов
+   - XSLT. 2-е издание
+   - Набор и верстка в пакете LaTex
+
 #### JVM
 ##### Elegant Objects
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/38ad581e-f6db-461b-b711-efea661c00c6" alt="Elegant Objects, Volume 1" width="100" align="right"/><br/>
