@@ -1,26 +1,48 @@
-# Bookshelf
-## contents
-- API Design
-    - [Проектирование веб-API](#проектирование-веб-api)
-    - [Проектирование архитектуры API](#проектирование-архитектуры-api)
-    - [Паттерны проектирования API](#паттерны-проектирования-api)
-    - [Тестирование веб-API](#тестирование-веб-api)
-    - [Непрерывное развитие API](#непрерывное-развитие-api)
-- System Analysis
-    - [Разработка требований к программному обеспечению](#разработка-требований-к-программному-обеспечению)
-    - [System Design. Подготовка к сложному интервью](#system-design-подготовка-к-сложному-интервью)
-    - [System Design. Машинное обучение. Подготовка к сложному интервью](#system-design-машинное-обучение-подготовка-к-сложному-интервью)
-    - [...not sorted yet](#not-sorted-yet)
-- Software Development Engineering
-    - [Современная программная инженерия](#современная-программная-инженерия)
-    - [DotNet](#dotnet)
-    - [JVM](#jvm)
+## Bookshelf
 
-### API Design
-#### API как искусство: разработка, поддержка, интеграция
+- [API как искусство](#API-как-искусство)
+- [Проектирование веб-API](#Проектирование-веб-API)
+- [Проектирование архитектуры API](#Проектирование-архитектуры-API)
+- [Паттерны проектирования API](#Паттерны-проектирования-API)
+- [Тестирование веб-API](#Тестирование-веб-API)
+- [Непрерывное развитие API](#Непрерывное-развитие-API)
+- [Разработка требований к программному обеспечению](#Разработка-требований-к-программному-обеспечению)
+- [System Design. Подготовка к сложному интервью](#System-Design-Подготовка-к-сложному-интервью)
+- [System Design. Машинное обучение. Подготовка к сложному интервью](#System-Design-Машинное-обучение-Подготовка-к-сложному-интервью)
+- [Современная программная инженерия](#Современная-программная-инженерия)
+- [not sorted yet stage 2](#not-sorted-yet-stage-2)
+- [Управление памятью в .NET для профессионалов](#Управление-памятью-в-NET-для-профессионалов)
+- [Конкурентность в C#](#Конкурентность-в-C#)
+- [Внедрение зависимостей на платформе .NET](#Внедрение-зависимостей-на-платформе-NET)
+- [Паттерны проектирования на платформе .NET](#Паттерны-проектирования-на-платформе-NET)
+- [Принципы юнит-тестирования](#Принципы-юнит-тестирования)
+- [Код, который умещается в голове ](#Код,-который-умещается-в-голове-)
+- [ASP.NET Core в действии](#ASPNET-Core-в-действии)
+- [Software. Ошибки и компромиссы](#Software-Ошибки-и-компромиссы)
+- [not sorted yet stage 2](#not-sorted-yet-stage-2)
+- [Паттерны программирования игр](#Паттерны-программирования-игр)
+- [Как устроен JavaScript](#Как-устроен-JavaScript)
+- [JavaScript. Сильный стороны](#JavaScript-Сильный-стороны)
+- [Рефакторинг JavaScript](#Рефакторинг-JavaScript)
+- [Профессиональный TypeScript](#Профессиональный-TypeScript)
+- [LaTex](#LaTex)
+- [Набор и верстка в пакете LaTex](#Набор-и-верстка-в-пакете-LaTex)
+- [XSLT. Сборник рецептов](#XSLT-Сборник-рецептов)
+- [XSLT. 2-е издание](#XSLT-2-е-издание)
+- [Elegant Objects](#Elegant-Objects)
+- [Clojure на производстве](#Clojure-на-производстве)
+- [Code Ahead](#Code-Ahead)
+- [linux and unix](#linux-and-unix)
+- [network and containerization](#network-and-containerization)
+- [database design](#database-design)
+- [management and leadership](#management-and-leadership)
+- [music](#music)
+- [non fiction](#non-fiction)
+
+#### API как искусство
 <img src="https://bhv.ru/wp-content/uploads/2025/04/3133_978-5-9775-2084-3.jpg" alt="API как искусство: разработка, поддержка, интеграция. Сергей Константинов" width="120" />
 
-[API как искусство](https://bhv.ru/product/api-kak-iskusstvo-razrabotka-podderzhka-integratsiya/)  
+[API как искусство: разработка, поддержка, интеграция](https://bhv.ru/product/api-kak-iskusstvo-razrabotka-podderzhka-integratsiya/)  
 _[Сергей Константинов](https://github.com/twirl/The-API-Book)_  
 ДМК-Пресс, 2025
 
@@ -33,14 +55,17 @@ _[Арно Лоре](https://github.com/arno-di-loreto)_
 ДМК-Пресс, 2020
 
 <details>
-<summary>анг. издание</summary>
-
+<summary>
+  <i>анг. издание</i>
+</summary>
+<br/>
 <img src="https://m.media-amazon.com/images/I/61ZND26BDZL._SL1500_.jpg" alt="The Design of Web APIs" width="120" />
-
-[The Design of Web APIs 1st edition](https://www.amazon.com/Design-Web-APIs-Arnaud-Lauret/dp/1617295108)  
-_by [Arnaud Lauret](https://github.com/arno-di-loreto)_  
+<br/>
+<a href="https://www.amazon.com/Design-Web-APIs-Arnaud-Lauret/dp/1617295108">The Design of Web APIs 1st edition</a>
+<br/>
+<i>by <a href="https://github.com/arno-di-loreto">Arnaud Lauret</a></i>
+<br/>
 Manning, November 2019
-
 </details>
 
 ---
@@ -52,14 +77,17 @@ _[Джеймс Гоф](https://github.com/jpgough), Дэниэл Брайант,
 БХВ, 2023
 
 <details>
-<summary>анг. издание</summary>
-
+<summary>
+  <i>анг. издание</i>
+</summary>
+<br/>
 <img src="https://m.media-amazon.com/images/I/618JYtOzXoL._SL1318_.jpg" alt="Mastering API Architecture: Design, Operate and Evolve API-Based Systems" width="120" />  
-
-[Mastering API Architecture: Design, Operate and Evolve API-Based Systems](https://www.amazon.in/Mastering-API-Architecture-API-Based-Grayscale/dp/9355422083/)    
-_by [James Gough](https://github.com/jpgough), Daniel Bryant, Matthew Auburn_  
+<br/>
+<a href="https://www.amazon.in/Mastering-API-Architecture-API-Based-Grayscale/dp/9355422083/">Mastering API Architecture: Design, Operate and Evolve API-Based Systems</a>
+<br/>
+<i>by <a href="https://github.com/jpgough">James Gough</a>, Daniel Bryant, Matthew Auburn</i>
+<br/>
 O’Reilly, October 2022
-
 </details>
 
 ---
@@ -71,14 +99,17 @@ _[Джей Джей Гивакс](https://github.com/jgeewax)_
 Питер, 2024
 
 <details>
-<summary>анг. издание</summary>
-
+<summary>
+  <i>анг. издание</i>
+</summary>
+<br/>
 <img src="https://m.media-amazon.com/images/I/71-Q7YOvWkL._SL1500_.jpg" alt="API Design Patterns" width="120" />
-
-[API Design Patterns](https://www.amazon.com/API-Design-Patterns-JJ-Geewax/dp/161729585X)  
-_by [JJ Geewax](https://github.com/jgeewax)_  
+<br/>
+<a href="https://www.amazon.com/API-Design-Patterns-JJ-Geewax/dp/161729585X">API Design Patterns</a>  
+<br/>
+<i>by <a href="https://github.com/jgeewax">JJ Geewax</a></i>  
+<br/>
 Manning, July 2021
-
 </details>
 
 ---
@@ -90,14 +121,17 @@ _[Марк Винтерингем](https://github.com/mwinteringham)_
 Питер, 2024
 
 <details>
-<summary>анг. издание</summary>
-
+<summary>
+  <i>анг. издание</i>
+</summary>
+<br/>
 <img src="https://m.media-amazon.com/images/I/61RPbyND3FL._SL1500_.jpg" alt="Testing Web APIs" width="120" />
-
-[Testing Web APIs](https://www.amazon.com/Testing-Web-APIs-Mark-Winteringham/dp/1617299537)  
-_by [Mark Winteringham](https://github.com/mwinteringham)_  
+<br/>
+<a href="https://www.amazon.com/Testing-Web-APIs-Mark-Winteringham/dp/1617299537">Testing Web APIs</a>
+<br/>
+<i>by <a href="https://github.com/mwinteringham">Mark Winteringham</a></i>
+<br/>
 Manning, December 2022
-
 </details>
 
 ---
@@ -110,29 +144,41 @@ _Мехди Меджуи, [Эрик Уайлд](https://github.com/dret), [Ро�
 
 
 <details>
-<summary>анг. издание</summary>
-
+<summary>
+  <i>анг. издание</i>
+</summary>
+<br/>
 <img src="https://m.media-amazon.com/images/I/81+paLnjOpL._SL1500_.jpg" alt="Continuous API Management: Making the Right Decisions in an Evolving Landscape 2nd Edition" width="120" />
-
-[Continuous API Management: Making the Right Decisions in an Evolving Landscape 2nd Edition](https://www.amazon.com/Continuous-API-Management-Decisions-Landscape/dp/1098103521)  
-_by Mehdi Medjaoui, [Erik Wilde](https://github.com/dret), [Ronnie Mitra](https://github.com/mitraman), [Mike Amundsen](https://github.com/mamund)_  
+<br/>
+<a href="https://www.amazon.com/Continuous-API-Management-Decisions-Landscape/dp/1098103521">Continuous API Management: Making the Right Decisions in an Evolving Landscape 2nd Edition</a>
+<br/>
+<i>by Mehdi Medjaoui, <a href="https://github.com/dret">Erik Wilde</a>, <a href="https://github.com/mitraman">Ronnie Mitra</a>, <a href="https://github.com/mamund">Mike Amundsen</a></i>
+<br/>
 O'Reilly, November 2021
-
 </details>
 
 ---
-#### SA/SDE, not yet sorted
+#### Разработка требований к программному обеспечению
+...
 
-   - Разработка требований к программному обеспечению
-   - System Design. Подготовка к сложному интервью
-   - System Design. Машинное обучение. Подготовка к сложному интервью
-   - Современная программная инженерия
+---
+#### System Design. Подготовка к сложному интервью
+...
 
-#### not sorted yet
-   - Computer Science для программиста-самоучки
-   - Грокаем алгоритмы
-   - Машинное обучение. Паттерны проектирования
-   - Облачный Go
+---
+#### System Design. Машинное обучение. Подготовка к сложному интервью
+---
+
+...
+#### Современная программная инженерия
+---
+
+...
+#### not sorted yet stage 2
+- Computer Science для программиста-самоучки
+- Грокаем алгоритмы
+- Машинное обучение. Паттерны проектирования
+- Облачный Go
 - Паттерны разработки на Python
 - Проектирование событийно-ориентированных систем
 - Создание событийно-управляемых микросервисов
@@ -170,10 +216,8 @@ O'Reilly, November 2021
 - Типы в языках программирования
 - Создай свой собственный язык программирования
 
-[в начало](#Bookshelf)
-
-#### DotNet
-##### Управление памятью в .NET для профессионалов
+---
+#### Управление памятью в .NET для профессионалов
 <span>🔥&nbsp;</span>[**Управление памятью в .NET для профессионалов**](https://dmkpress.com/catalog/computer/programming/dot_net/978-5-97060-800-5/), Апрель 2020<br/>
 _[Конрад Кокоса](https://github.com/kkokosa)_
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/2c6b4a18-b382-4572-ac4b-647db856215f" alt="Управление памятью в .NET для профессионалов" width="120" align="right"/><br/>
@@ -185,7 +229,7 @@ _**note**: [2nd edition](https://prodotnetmemory.com/) coming soon ..._
 <br clear="right"/>
 
 ---
-##### Конкурентность в C#
+#### Конкурентность в C#
 <span>🔥&nbsp;</span>[**Конкурентность в C#**](https://www.piter.com/product/konkurentnost-v-c-asinhronnoe-parallelnoe-i-mnogopotochnoe-programmirovanie-2-e-mezhd-izd), 2-е издание, 2020<br/>
 _[Стивен Клири](https://github.com/StephenCleary)_
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/b092838e-e489-4601-9f66-8a8bfc69d6d6" alt="Конкурентность в C#" width="120" align="right"/><br/>
@@ -196,7 +240,7 @@ _by [Stephen Cleary](https://github.com/StephenCleary)_
 <br clear="right"/>
 
 ---
-##### Внедрение зависимостей на платформе .NET
+#### Внедрение зависимостей на платформе .NET
 <span>🔥&nbsp;</span>[**Внедрение зависимостей на платформе .NET**](https://www.piter.com/collection/programmirovanie-razrabotka-programnogo-obespecheniya/product/vnedrenie-zavisimostey-na-platforme-net-2-e-izdanie), 2-е издание, 2021<br/>
 _[Марк Симан](https://github.com/ploeh)_
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/64ba50c0-8980-4169-93f0-09d5e325f575" alt="Внедрение зависимостей на платформе .NET" width="120" align="right"/><br/>
@@ -207,14 +251,14 @@ _by [Mark Seemann](https://github.com/ploeh)_
 <br clear="right"/>
 
 ---
-##### Паттерны проектирования на платформе .NET
+#### Паттерны проектирования на платформе .NET
 <span>&nbsp;</span>[**Паттерны проектирования на платформе .NET**](https://www.piter.com/product/patterny-proektirovaniya-na-platforme-net), 2016<br/>
 _[Сергей Тепляков](https://github.com/SergeyTeplyakov)_
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/9badc67a-7463-4aa2-adfa-beecde12e390" alt="Паттерны проектирования на платформе .NET" width="120" align="right"/><br/>
 <br clear="right"/>
 
 ---
-##### Принципы юнит-тестирования
+#### Принципы юнит-тестирования
 <span>🔥&nbsp;</span>[**Принципы юнит-тестирования**](https://www.piter.com/product/printsipy-yunit-testirovaniya), 2022<br/>
 _[Владимир Хориков](https://github.com/vkhorikov)_
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/d16f19b8-dc6e-4c24-bcd3-a4eb47324d8c" alt="Принципы юнит-тестирования" width="120" align="right"/><br/>
@@ -225,7 +269,7 @@ _by [Vladimir Khorikov](https://github.com/vkhorikov)_
 <br clear="right"/>
 
 ---
-##### Код, который умещается в голове 
+#### Код, который умещается в голове 
 [**Код, который умещается в голове**](https://www.piter.com/collection/recommend/product/robert-martin-rekomenduet-kod-kotoryy-umeschaetsya-v-golove-evristiki-dlya-razrabotchikov), 2023<br/>
 _[Марк Симан](https://github.com/ploeh)_
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/d4deffab-07de-4be8-91d3-9bb4528718f2" alt="Код, который умещается в голове" width="120" align="right"/><br/>
@@ -236,7 +280,7 @@ _by [Mark Seemann](https://github.com/ploeh)_
 <br clear="right"/>
 
 ---
-##### ASP.NET Core в действии
+#### ASP.NET Core в действии
 [**ASP.NET Core в действии**](https://dmkpress.com/catalog/computer/web/978-5-97060-550-9/), Сентябрь 2021<br/>
 _[Эндрю Лок](https://github.com/andrewlock)_
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/3b08135a-b207-484a-a2de-570bb97d36d1" alt="ASP.NET Core в действии" width="120" align="right"/><br/>
@@ -247,7 +291,7 @@ _by [Andrew Lock](https://github.com/andrewlock)_
 <br clear="right"/>
 
 ---
-##### Software. Ошибки и компромиссы
+#### Software. Ошибки и компромиссы
 [**Software. Ошибки и компромиссы**](https://www.piter.com/product/software-oshibki-i-kompromissy-pri-razrabotke-po), 2023<br/>
 _[Джон Скит](https://github.com/jskeet/) и [Томаш Лелек](https://github.com/tomekl007)_
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/6b68dabb-ca77-416b-8330-cefed38190b6" alt="Software. Ошибки и компромиссы" width="120" align="right"/><br/>
@@ -258,7 +302,7 @@ _by [Jon Skeet](https://github.com/jskeet/) and [Tomasz Lelek](https://github.co
 <br clear="right"/>
 
 ---
-##### ...not yet sorted
+#### not sorted yet stage 2
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" alt="empty book title" width="100" align="right"/><br/>
 <span>🖼&nbsp;</span>[**Параллельное программирование на C# и .NET Core**](https://dmkpress.com/catalog/computer/programming/c/978-5-97060-851-7/), Ноябрь 2021<br/>
 _by [Shakti Tanwar](https://github.com/shaktisinghtanwar)_<br/>
@@ -295,25 +339,52 @@ _by [Jon P Smith](https://github.com/JonPSmith)_<br/>
 <br clear="right"/>
 
 ---
-#### C++
+#### Паттерны программирования игр
 
-   - Паттерны программирования игр
+tags: `c++` `patterns`
 
-#### ECMAScript
+---
+#### Как устроен JavaScript
 
-   - Как устроен JavaScript
-   - JavaScript. Сильный стороны
-   - Рефакторинг JavaScript
-   - Профессиональный TypeScript
+tags: `ecmascript` `javascript`
 
-#### LaTex/XSLT
+---
+#### JavaScript. Сильный стороны
 
-   - XSLT. Сборник рецептов
-   - XSLT. 2-е издание
-   - Набор и верстка в пакете LaTex
+tags: `ecmascript` `javascript`
 
-#### JVM
-##### Elegant Objects
+---
+#### Рефакторинг JavaScript
+
+tags: `javascript` `refactoring`
+
+---
+#### Профессиональный TypeScript
+
+tags: `ecmascript` `typescript`
+
+---
+#### LaTex
+
+tags: `latex`
+
+---
+#### Набор и верстка в пакете LaTex
+
+tags: `latex`
+
+---
+#### XSLT. Сборник рецептов
+
+tags:  `xslt`
+
+---
+#### XSLT. 2-е издание
+
+tags:  `xslt`
+
+---
+#### Elegant Objects
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/38ad581e-f6db-461b-b711-efea661c00c6" alt="Elegant Objects, Volume 1" width="100" align="right"/><br/>
 <span>🔥&nbsp;</span>[**Elegant Objects, Volume 1**](https://www.amazon.com/Elegant-Objects-1-Yegor-Bugayenko/dp/1519166915), February 17, 2016<br/>
 _by [Yegor Bugayenko](https://github.com/yegor256)_<br/>
@@ -325,34 +396,29 @@ _by [Yegor Bugayenko](https://github.com/yegor256)_<br/>
 <br clear="right"/>
 
 ---
-
-##### Clojure на производстве
+#### Clojure на производстве
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/89dba865-ac22-4c7b-95db-6d59f73279a8" alt="Clojure на производстве" width="100" align="right"/><br/>
 [**Clojure на производстве**](https://dmkpress.com/catalog/computer/programming/functional/978-5-93700-055-2/), Ноябрь 2021<br/>
 _by [Ivan Grishaev](https://github.com/igrishaev)_<br/>
 <br clear="right"/>
 
 ---
-
-### Soft
-
+#### Code Ahead
 <img src="https://github.com/timnavigate/bookshelf/assets/14907341/0144c634-53ae-42b3-b5bf-40ef82e8cec2" alt="Наш код. Ремесло, профессия, искусство" width="100" align="right"/><br/>
 <span>🔥&nbsp;</span>[**Наш код. Ремесло, профессия, искусство**](https://www.piter.com/product/nash-kod-remeslo-professiya-iskusstvo), 2019<br/>
 _by [Yegor Bugayenko](https://github.com/yegor256)_<br/>
 <br clear="right"/>
 
-<hr/>
+---
+#### linux and unix
 
-### linux/unix
-
+    - Внутреннее устройство Linux
+    - Linux глазами хакера
     - Unix. Программное окружение
     - Искусство программирования для UNIX
     - Практика программирования
-    - Внутреннее устройство Linux
-    - Linux глазами хакера
     - Web-сервер глазами хакера
-
-### network/containerization
+#### network and containerization
 
     - Компьютерные сети
     - Искусство тестирования проникновения в сеть
@@ -360,7 +426,7 @@ _by [Yegor Bugayenko](https://github.com/yegor256)_<br/>
     - Безопасность контейнеров
     - HTTP/2 в действии
     - Высоконагруженные приложения
-    - 
+     
     - Kubernetes в действии
     - Kubernetes изнутри
     - Kubernetes на практике
@@ -370,22 +436,15 @@ _by [Yegor Bugayenko](https://github.com/yegor256)_<br/>
     
     - Kafka в действии
     - Kafka Streams и ksqlDB
-
-### Database Design
+#### database design
 
     - PostgreSQL14 изнутри
     - MongoDB. Полное руководство
     - Распределенные данные
-
-### design, architecture and development
-
-    - x
-
-### management and leadership
+#### management and leadership
 
     - x
-
-### music
+#### music
 
     - История диджеев
     - Берлин, техно и easyJet
@@ -401,12 +460,11 @@ _by [Yegor Bugayenko](https://github.com/yegor256)_<br/>
     - Твой первый трек
     - Супердиджеи
     - Музпросвет
+#### non fiction
 
-### etc., not yet sorted
     - Вторжение. Краткая история русских хакеров
     - Потрачено. Беспредельная история GTA
     - Повелители Doom
-
     - Хлопок одной ладонью
     - Нет. Лучшая стратегия ведения переговоров
     - Философия без дураков
