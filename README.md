@@ -17,10 +17,12 @@
 - [System Design. Пережить интервью](#System-Design-пережить-интервью)
 - [Программная архитектура: практика командного принятия решений](#программная-архитектура-практика-командного-принятия-решений)
 - [Метрики программной архитектуры. Кейсы, повышающие качество ПО](#метрики-программной-архитектуры-кейсы-повышающие-качество-по)
+- [Solutions architect: Архитектура и проектирование ИТ-решений. 3-е изд](#Solutions-architect-архитектура-и-проектирование-ит-решений-3-е-изд)
+- [Современный подход к программной архитектуре: сложные компромиссы](#современный-подход-к-программной-архитектуре-сложные-компромиссы)
 - [Современная программная инженерия](#современная-программная-инженерия)
 - [not sorted yet stage 1](#not-sorted-yet-stage-1)
 - [Управление памятью в .NET для профессионалов](#управление-памятью-в-NET-для-профессионалов)
-- [Конкурентность в C#](#конкурентность-в-C#)
+- [Конкурентность в C#](#конкурентность-в-C)
 - [Внедрение зависимостей на платформе .NET](#внедрение-зависимостей-на-платформе-NET)
 - [Паттерны проектирования на платформе .NET](#паттерны-проектирования-на-платформе-NET)
 - [Принципы юнит-тестирования](#принципы-юнит-тестирования)
@@ -40,7 +42,7 @@
 - [database design](#database-design)
 - [management and leadership](#management-and-leadership)
 - [music](#music)
-- [non fiction](#non-fiction)
+- [non-fiction](#non-fiction)
 
 ---
 #### API как искусство
@@ -52,7 +54,7 @@ _`authored by` [Сергей Константинов](https://github.com/twirl/
 _`publisher` ДМК-Пресс_  
 _`published at` 2025_
 
-tags:  [`api`](#API-как-искусство)
+tags:  [api](#API-как-искусство)
 
 ---
 #### Проектирование веб-API
@@ -72,7 +74,7 @@ _`publication date` 2020_
     <i>Manning, November 2019</i><br/>
 </details>
 
-tags:  [`api`](#API-как-искусство) [`api-design`](#API-как-искусство)
+tags:  [api](#API-как-искусство) [api-design](#проектирование-веб-API)
 
 ---
 #### Проектирование архитектуры API
@@ -92,7 +94,7 @@ _`pubication date` 2023_
     <i>O’Reilly, October 2022</i><br/>
 </details>
 
-tags:  [`api`](#API-как-искусство) [`api-design`](#Проектирование-веб-API) [`api-architecture`](#Проектирование-архитектуры-API)
+tags:  [api](#API-как-искусство) [api-design](#проектирование-веб-API) [api-architecture](#проектирование-архитектуры-API)
 
 ---
 #### Паттерны проектирования API
@@ -112,7 +114,7 @@ _`publication date` 2024_
     <i>Manning, July 2021</i><br/>
 </details>
 
-tags:  [`api`](#API-как-искусство) [`api-design`](#Проектирование-веб-API) [`api-patterns`](#Паттерны-проектирования-API)
+tags:  [api](#API-как-искусство) [api-design](#проектирование-веб-API) [api-patterns](#паттерны-проектирования-API)
 
 ---
 #### Тестирование веб-API
@@ -132,7 +134,7 @@ _`publication date` 2024_
     <i>Manning, December 2022</i><br/>
 </details>
 
-tags:  [`api`](#API-как-искусство) [`api-testing`](#Тестирование-веб-API)
+tags:  [`api`](#API-как-искусство) [`api-testing`](#тестирование-веб-API)
 
 ---
 #### Непрерывное развитие API
@@ -151,7 +153,7 @@ _Питер, 2023_
     <i>O'Reilly, November 2021</i><br/>
 </details>
 
-tags:  [`api`](#API-как-искусство) [`api-architecture`](#Проектирование-архитектуры-API)
+tags:  [api](#API-как-искусство) [api-architecture](#проектирование-архитектуры-API)
 
 ---
 #### RESTful Web API паттерны и практики
@@ -179,7 +181,7 @@ _`publication date` 2025_
     <br/>
 </details>
 
-tags:  [`api`](#api-как-искусство)
+tags:  [api](#api-как-искусство)
 
 ---
 #### Web API. Сборник рецептов: Повысьте уровень JavaScript-приложений
@@ -207,7 +209,7 @@ _`publication date` 2025_
     <br/>
 </details>
 
-tags:  [`api`](#api-как-искусство)
+tags:  [api](#api-как-искусство)
 
 ---
 #### Стили API. Проектирование и внедрение
@@ -235,7 +237,7 @@ _`publication date` ..._
     <br/>
 </details>
 
-tags:  [`api`](#api-как-искусство)
+tags:  [api](#api-как-искусство)
 
 ---
 #### Автоматизация доставки API. Улучшаем скорость и качество с APIOps и OpenAPI
@@ -263,7 +265,7 @@ _`publication date` ..._
     <br/>
 </details>
 
-tags:  [`api`](#api-как-искусство)
+tags:  [api](#api-как-искусство)
 
 ---
 #### Разработка требований к программному обеспечению
@@ -291,7 +293,7 @@ _`publication date` -_
     <br/>   
 </details><br/>
 
-tags:  [`software-requirements`](#Разработка-требований-к-программному-обеспечению) [`requirements-engineering`](#Разработка-требований-к-программному-обеспечению)
+tags:  [software-requirements](#разработка-требований-к-программному-обеспечению) [requirements-engineering](#разработка-требований-к-программному-обеспечению)
 
 ---
 #### System Design. Подготовка к сложному интервью
@@ -316,7 +318,7 @@ _`publication date` -_
     <i>publication date -</i><br>
 </details>
 
-tags:  [`system design`](#System-Design-Подготовка-к-сложному-интервью)
+tags:  [`system design`](#System-Design-подготовка-к-сложному-интервью)
 
 ---
 #### System Design. Машинное обучение
@@ -341,7 +343,7 @@ _`publication date` -_
     <i>publication date -</i><br/>
 </details>
 
-tags:  [`system design`](#System-Design-Подготовка-к-сложному-интервью) `ml`
+tags:  [`system design`](#System-Design-подготовка-к-сложному-интервью) `ml`
 
 ---
 #### System Design. Подготовка к сложному интервью по GenAI
@@ -369,7 +371,7 @@ _`publication date` 2026_
     <br/>>
 </details>
 
-tags:  [`system-design`](#system-design-подготовка-к-сложному-интервью)
+tags:  [system-design](#system-design-подготовка-к-сложному-интервью)
 
 ---
 #### System Design II. Распределенные системы
@@ -397,7 +399,7 @@ _`publication date` -_
     <br/>>
 </details>
 
-tags:  [`system-design`](#system-design-подготовка-к-сложному-интервью)
+tags:  [system-design](#system-design-подготовка-к-сложному-интервью)
 
 ---
 #### System Design. Проектирование мобильных систем
@@ -425,7 +427,7 @@ _`publication date` -_
     <br/>>
 </details>
 
-tags:  [`system-design`](#system-design-подготовка-к-сложному-интервью)
+tags:  [system-design](#system-design-подготовка-к-сложному-интервью)
 
 ---
 #### System Design: пережить интервью
@@ -453,7 +455,7 @@ _`publication date` -_
     <br/>>
 </details>
 
-tags:  [`system-design`](#system-design-подготовка-к-сложному-интервью)
+tags:  [system-design](#system-design-подготовка-к-сложному-интервью)
 
 ---
 #### Software Architecture Patterns, Antipatterns, and Pitfalls
@@ -481,7 +483,7 @@ _`published` December 1, 2026_
     <br/>>
 </details>
 
-tags:  [`software-architecture`](#software-architecture)
+tags:  [software-architecture](#38-awesome-books-on-software-architecture)
 
 ---
 #### Программная архитектура: практика командного принятия решений
@@ -509,7 +511,7 @@ _`publication date` 2026_
     <br/>>
 </details>
 
-tags:  [`software-architecture`](#software-architecture)
+tags:  [software-architecture](#38-awesome-books-on-software-architecture)
 
 ---
 #### Метрики программной архитектуры. Кейсы, повышающие качество ПО
@@ -537,7 +539,7 @@ _`published` 2027_
     <br/>>
 </details>
 
-tags:  [`software-architecture`](#software-architecture)
+tags:  [software-architecture](#38-awesome-books-on-software-architecture)
 
 ---
 #### Solutions architect: Архитектура и проектирование ИТ-решений. 3-е изд
@@ -565,7 +567,7 @@ _`published` 2026_
     <br/>>
 </details>
 
-tags:  [`software-architecture`](#software-architecture) [`solution-architecture`](#solution-architecture)
+tags:  [software-architecture](#38-awesome-books-on-software-architecture) [solution-architecture](#Solutions-architect-архитектура-и-проектирование-ит-решений-3-е-изд)
 
 ---
 #### Современный подход к программной архитектуре: сложные компромиссы
@@ -593,7 +595,7 @@ _`published` 2026_
     <br/>>
 </details>
 
-tags:  [`software-architecture`](#software-architecture) [`solution-architecture`](#solution-architecture)
+tags:  [software-architecture](#38-awesome-books-on-software-architecture) [solution-architecture](#Solutions-architect-архитектура-и-проектирование-ит-решений-3-е-изд)
 
 ---
 #### Современная программная инженерия
@@ -603,7 +605,7 @@ tags:  [`software-architecture`](#software-architecture) [`solution-architecture
 [**Современная программная инженерия**]()  
 _`authored by` [Дэвид Фарли]()_  
 _`publisher` Piter_  
-_`published` -_ 
+_`published` -_
 
 ...  
 ...  
@@ -621,7 +623,7 @@ _`published` -_
     <br/>>
 </details>
 
-tags:  [`software engineering`](#Современная-программная-инженерия)
+tags:  [software engineering](#современная-программная-инженерия)
 
 ---
 #### Управление памятью в .NET для профессионалов
@@ -638,7 +640,7 @@ _`published` Апрель 2020_
 _`authored by` [Konrad Kokosa](https://github.com/kkokosa)_  
 _`publisher` -_  
 _`published` November 2018_
-_**note**: [2nd edition](https://prodotnetmemory.com/) coming soon ..._  
+_**note**: [2nd edition](https://prodotnetmemory.com/) coming soon ..._
 
 tags:  `dotnet` `memory` `garbage-collector`
 
@@ -714,7 +716,7 @@ _`published`_
 tags:  `dotnet` `testing`
 
 ---
-#### Код, который умещается в голове 
+#### Код, который умещается в голове
 <img alt="Код, который умещается в голове" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/d4deffab-07de-4be8-91d3-9bb4528718f2" />
 
 <span>✅</span>
@@ -724,7 +726,7 @@ _`publisher` Piter_
 _`published` 2023_
 
 <span>eng</span><br/>
-[Code That Fits in Your Head : Heuristics for Software Engineering (Robert C. Martin Series) 1st Edition](https://www.amazon.com/Code-That-Fits-Your-Head/dp/0137464401)  
+[Code That Fits in Your Head: Heuristics for Software Engineering (Robert C. Martin Series) 1st Edition](https://www.amazon.com/Code-That-Fits-Your-Head/dp/0137464401)  
 _`authored by` [Mark Seemann](https://github.com/ploeh)_  
 _`publisher` Addison-Wesley Professional_  
 _`published` November 2021_
@@ -773,7 +775,7 @@ _`published` 2023_
 
 tags:  `dotnet` `dotnet-core` `jon-skeet`
 
-[в начало](#bookshelf)
+[В начало](#bookshelf)
 
 #### not sorted yet stage 1
 <img alt="Параллельное программирование на C# и .NET Core" width="120" align="right" src="https://www.dmkpress.com/upload/iblock/5af/3nyfpqby4zm13en0hy8ophu6bzf5lfie.jpg" />
@@ -920,7 +922,7 @@ _`published` May, 2021_
 
 tags:  `dotnet` `ef-core`
 
-[в начало](#bookshelf)
+[В начало](#bookshelf)
 
 #### not sorted yet stage 2
 	- ✅O'Reilly - Масштабируемый рефакторинг
@@ -984,11 +986,11 @@ tags:  `dotnet` `ef-core`
     - 🛒? - Картой реализации историй (Андрей Шапиро)
     - 🛒? - Карта гипотез (Александр Бындю)
 
-[в начало](#bookshelf)
+[В начало](#bookshelf)
 
 #### Паттерны программирования игр
     ✅? - Паттерны программирования игр
-    
+
 tags: `c++` `patterns`
 
 ---
@@ -998,22 +1000,22 @@ tags: `c++` `patterns`
     - ✅? - Рефакторинг JavaScript
     - ✅? - Профессиональный TypeScript
 
-tags: [`ecmascript`](#ecmascript) [`javascript`](#javascript) [`typescript`](#typescript)
+tags: [ecmascript](#javascript) [javascript](#javascript) [typescript](#javascript)
 
 ---
 #### LaTex
     - ✅? - Набор и верстка в пакете LaTex
 
-tags: [`latex`](#latex)
+tags: [latex](#latex)
 
 ---
 #### XSLT
     - ✅? - XSLT
     - ✅? - XSLT. 2-е издание
 
-tags: [`xslt`](#xslt)
+tags: [xslt](#xslt)
 
-[в начало](#bookshelf)
+[В начало](#bookshelf)
 
 #### Elegant Objects
 <img alt="Elegant Objects, Volume 1" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/38ad581e-f6db-461b-b711-efea661c00c6" />
@@ -1075,7 +1077,7 @@ _`published` -_
 
 tags:  `yegor256` `code-ahead`
 
-[в начало](#bookshelf)
+[В начало](#bookshelf)
 
 #### linux and unix
     - ✅? - Внутреннее устройство Linux
@@ -1083,7 +1085,7 @@ tags:  `yegor256` `code-ahead`
     - ✅? - Искусство программирования для UNIX
     - ✅? - Практика программирования
 
-tags: [`linux`](#linux) [`unix`](#unix)
+tags: [linux](#linux-and-unix) [unix](#linux-and-unix)
 
 ---
 #### network and containerization
@@ -1104,9 +1106,9 @@ tags: [`linux`](#linux) [`unix`](#unix)
     - ✅? - Kafka в действии
     - ✅? - Kafka Streams и ksqlDB
 
-tags: [`kafka`](#kafka) [`docker`](#docker) [`kubernetes`](#kubernetes)
+tags: [kafka](#network-and-containerization) [docker](#network-and-containerization) [kubernetes](#network-and-containerization)
 
-[в начало](#bookshelf)
+[В начало](#bookshelf)
 
 #### database design
     - ✅? - PostgreSQL14 изнутри
@@ -1140,7 +1142,7 @@ tags: `databases` `postgresql` `mongodb`
     - Конец старинной музыки
     - Разговоры с композиторами
     - K-punk, избранное
-#### non fiction
+#### non-fiction
     - ✅? - Вторжение. Краткая история русских хакеров
     - ✅? - Потрачено. Беспредельная история GTA
     - ✅? - Повелители Doom
@@ -1181,7 +1183,7 @@ _`authored by` [Mark Richards](https://www.amazon.com/Mark-Richards/e/B0039T7ODK
 _`publisher` O'Reilly Media_  
 _`published` March 3, 2020_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Clean Architecture: A Craftsman's Guide to Software Structure and Design" width="120" src="https://m.media-amazon.com/images/I/71stxGw9JgL._SL1500_.jpg" />
@@ -1192,7 +1194,7 @@ _`authored by` [Robert Martin](https://www.amazon.com/Robert-Martin/e/B004N5WF1K
 _`publisher` Pearson_  
 _`published` September 10, 2017_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems" width="120" src="https://m.media-amazon.com/images/I/91YfNb49PLL._SL1500_.jpg" />
@@ -1203,7 +1205,7 @@ _`authored by` [Martin Kleppmann](https://www.amazon.com/Martin-Kleppmann/e/B00Q
 _`publisher` O'Reilly Media_  
 _`published` May 2, 2017_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Design Patterns: Elements of Reusable Object-Oriented Software" width="120" src="https://m.media-amazon.com/images/I/81YsHe4woRL._SL1500_.jpg" />
@@ -1213,7 +1215,7 @@ _`authored by` Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady B
 _`publisher` Addison-Wesley Professional_  
 _`published` October 31, 1994_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Domain-Driven Design: Tackling Complexity in the Heart of Software" width="120" src="https://m.media-amazon.com/images/I/81ykBjVaUjL._SL1500_.jpg" />
@@ -1223,7 +1225,7 @@ _`authored by` [Eric Evans](https://www.amazon.com/Eric-Evans/e/B001KDCO2I/)_
 _`publisher` Addison-Wesley Professional_  
 _`published` August 20, 2003_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Building Microservices: Designing Fine-Grained Systems" width="120" src="https://m.media-amazon.com/images/I/81dmHMoJDjL._SL1500_.jpg" />
@@ -1234,7 +1236,7 @@ _`authored by` [Sam Newman](https://www.amazon.com/Sam-Newman/e/B00LEP6IB0/)_
 _`publisher` O'Reilly Media_  
 _`published` September 28, 2021_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Building Evolutionary Architectures: Support Constant Change" width="120" src="https://m.media-amazon.com/images/I/91V2fclaQPL._SL1500_.jpg" />
@@ -1245,7 +1247,7 @@ _`authored by` Neal Ford, [Rebecca Parsons](https://www.amazon.com/Rebecca-Parso
 _`publisher` O'Reilly Media_  
 _`published` November 7, 2017_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Software Architecture in Practice" width="120" src="https://m.media-amazon.com/images/I/81FcAOseqNL._SL1500_.jpg" />
@@ -1255,7 +1257,7 @@ _`authored ` Len Bass, Paul Clements, Rick Kazman_
 _`publisher` Addison-Wesley Professional_  
 _`published` August 3, 2021_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Head First Design Patterns: A Brain-Friendly Guide" width="120" src="https://m.media-amazon.com/images/I/91bobQSPQrL._SL1500_.jpg" />
@@ -1265,7 +1267,7 @@ _`authored ` Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra_
 _`publisher` O'Reilly Media_  
 _`published` October 1, 2004_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions" width="120" src="https://m.media-amazon.com/images/I/81B9BdZnSvL._SL1500_.jpg" />
@@ -1275,7 +1277,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Gregor Hohpe, Bobby Woolf_  
 _`published` October 10, 2003_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Implementing Domain-Driven Design" width="120" src="https://m.media-amazon.com/images/I/818NkFvZy4L._SL1500_.jpg" />
@@ -1284,7 +1286,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Vaughn Vernon_  
 _`published` February 6, 2013_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Microservices Patterns: With examples in Java" width="120" src="https://m.media-amazon.com/images/I/612SvfNVfdL._SL1500_.jpg" />
@@ -1293,7 +1295,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Chris Richardson_  
 _`published` November 19, 2018_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith" width="120" src="https://m.media-amazon.com/images/I/91yYn6cJaLL._SL1500_.jpg" />
@@ -1303,7 +1305,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Sam Newman_  
 _`published` December 24, 2019_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Release It!: Design and Deploy Production-Ready Software" width="120" src="https://m.media-amazon.com/images/I/51YLCdLeopS._SL1000_.jpg" />
@@ -1312,7 +1314,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Michael T. Nygard_  
 _`published` July 12, 2017_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="A Philosophy of Software Design" width="120" src="https://m.media-amazon.com/images/I/71J0G8g08dL._SL1200_.jpg" />
@@ -1322,23 +1324,23 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` John Ousterhout_  
 _`published` April 6, 2018_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise" width="120" src="https://m.media-amazon.com/images/I/71ngR++SKRL._SL1500_.jpg" />
 
 [**The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise**](https://www.amazon.com/dp/1492077542)  
-_`authored ` Gregor Hohpe_  
+_`authored ` Gregor Hohpe_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives" width="120" src="https://m.media-amazon.com/images/I/51Po0D8O7tL._SL1000_.jpg" />
 
 [**Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives**](https://www.amazon.com/dp/0321112296)  
-_`authored ` Nick Rozanski, Eoin Woods_  
+_`authored ` Nick Rozanski, Eoin Woods_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="System Design Interview – An insider's guide" width="120" src="https://m.media-amazon.com/images/I/51vZ6t5W4gL._SL1499_.jpg" />
@@ -1348,7 +1350,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Alex Xu_  
 _`published` June 12, 2020_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="System Design Interview – An Insider's Guide: Volume 2" width="120" src="https://m.media-amazon.com/images/I/51lJolln98L._SL1429_.jpg" />
@@ -1358,7 +1360,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Alex Xu, Sahn Lam_  
 _`published` March 11, 2022_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="97 Things Every Software Architect Should Know" width="120" src="https://m.media-amazon.com/images/I/91FzKX-YQTL._SL1500_.jpg" />
@@ -1368,7 +1370,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Richard Monson-Haefel_  
 _`published` March 17, 2009_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="The Pragmatic Programmer: From Journeyman to Master" width="120" src="https://m.media-amazon.com/images/I/61ztlXgCmpL._SL1500_.jpg" />
@@ -1378,7 +1380,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Andrew Hunt, David Thomas_  
 _`published` January 1, 1999_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Site Reliability Engineering: How Google Runs Production Systems" width="120" src="https://m.media-amazon.com/images/I/814nAGmpAGL._SL1500_.jpg" />
@@ -1387,7 +1389,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Jennifer Petoff, Betsy Beyer, Chris Jones, Niall Richard Murphy_  
 _`published` May 10, 2016_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures" width="120" src="https://m.media-amazon.com/images/I/81sdcxLtlwL._SL1500_.jpg" />
@@ -1397,7 +1399,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani_  
 _`published` November 30, 2021_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" width="120" src="https://m.media-amazon.com/images/I/61jcWW-96CL._SL1360_.jpg" />
@@ -1406,7 +1408,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Jez Humble, David Farley_  
 _`published` July 27, 2010_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations" width="120" src="https://m.media-amazon.com/images/I/71mhqEw8LcL._SL1500_.jpg" />
@@ -1415,7 +1417,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Gene Kim, Patrick Debois, John Willis, Jez Humble, John Allspaw_  
 _`published` October 6, 2016_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Database Internals: A Deep Dive into How Distributed Data Systems Work" width="120" src="https://m.media-amazon.com/images/I/91UYIt74czL._SL1500_.jpg" />
@@ -1425,7 +1427,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Alex Petrov_  
 _`published` November 5, 2019_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services" width="120" src="https://m.media-amazon.com/images/I/91CxhyACrlL._SL1500_.jpg" />
@@ -1434,7 +1436,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Brendan Burns_  
 _`published` April 3, 2018_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Head First Software Architecture: A Learner's Guide to Architectural Thinking" width="120" src="https://m.media-amazon.com/images/I/81DrluSWXKL._SL1500_.jpg" />
@@ -1443,7 +1445,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Raju Gandhi, Mark Richards, Neal Ford_  
 _`published` April 9, 2024_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Software Architecture for Busy Developers: Talk and act like a software architect in one weekend" width="120" src="https://m.media-amazon.com/images/I/81mai2Q0MaL._SL1500_.jpg" />
@@ -1453,7 +1455,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Stephane Eyskens_  
 _`published` October 15, 2021_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Clean Architecture with .NET: Design scalable .NET applications by using Clean Architecture principles and proven patterns" width="120" src="https://m.media-amazon.com/images/I/71RfS6ARwRL._SL1500_.jpg" />
@@ -1463,7 +1465,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Casey Crouse, Steve "Ardalis" Smith, Jason Taylor_  
 _`published` April 30, 2026_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Infrastructure as Code: Managing Servers in the Cloud" width="120" src="https://m.media-amazon.com/images/I/91j0xvGbHBL._SL1500_.jpg" />
@@ -1472,7 +1474,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Kief Morris_  
 _`published` July 26, 2016_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Cloud Native Patterns: Designing change-tolerant software" width="120" src="https://m.media-amazon.com/images/I/81H40uiahSL._SL1500_.jpg" />
@@ -1481,7 +1483,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Cornelia Davis_  
 _`published` May 31, 2019_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications" width="120" src="https://m.media-amazon.com/images/I/81D4+NMzjWL._SL1500_.jpg" />
@@ -1490,7 +1492,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Bilgin Ibryam, Roland Huss_  
 _`published` May 21, 2019_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Practice of Cloud System Administration, The: DevOps and SRE Practices for Web Services, Volume 2" width="120" src="https://m.media-amazon.com/images/I/81txgKaY6QL._SL1500_.jpg" />
@@ -1500,30 +1502,30 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 _`authored ` Limoncelli Thomas A., Chalup Strata R., Hogan Christina J._  
 _`published` September 1, 2014_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Architecting for Scale: High Availability for Your Growing Applications" width="120" src="https://m.media-amazon.com/images/I/91i-+fiH2+L._SL1500_.jpg" />
 
 [**Architecting for Scale: High Availability for Your Growing Applications**](https://www.amazon.com/dp/1491943394)  
-_`authored ` Lee Atchison_  
+_`authored ` Lee Atchison_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise" width="120" src="https://m.media-amazon.com/images/I/41i0Ln3-yQL.jpg" />
 
 [**The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise**](https://www.amazon.com/dp/0137030428)  
-_`authored ` Martin L Abbott, Michael T Fisher_  
+_`authored ` Martin L Abbott, Michael T Fisher_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 ---
 <img alt="Web Scalability for Startup Engineers" width="120" src="https://m.media-amazon.com/images/I/61HO2V6wnNL._SL1360_.jpg" />
 
 [**Web Scalability for Startup Engineers**](https://www.amazon.com/dp/0071843655)  
-_`authored ` Artur Ejsmont_  
+_`authored ` Artur Ejsmont_
 
-tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
 [в начало](#bookshelf)
