@@ -1,33 +1,37 @@
 ## Bookshelf
 
 - [API как искусство](#API-как-искусство)
-- [Проектирование веб-API](#Проектирование-веб-API)
-- [Проектирование архитектуры API](#Проектирование-архитектуры-API)
-- [Паттерны проектирования API](#Паттерны-проектирования-API)
-- [Тестирование веб-API](#Тестирование-веб-API)
-- [Непрерывное развитие API](#Непрерывное-развитие-API)
-- [Разработка требований к программному обеспечению](#Разработка-требований-к-программному-обеспечению)
-- [System Design. Подготовка к сложному интервью](#System-Design-Подготовка-к-сложному-интервью)
-- [System Design. Машинное обучение. Подготовка к сложному интервью](#System-Design-Машинное-обучение-Подготовка-к-сложному-интервью)
-- [Современная программная инженерия](#Современная-программная-инженерия)
+- [Проектирование веб-API](#проектирование-веб-api)
+- [Проектирование архитектуры API](#проектирование-архитектуры-API)
+- [Паттерны проектирования API](#паттерны-проектирования-API)
+- [Тестирование веб-API](#тестирование-веб-API)
+- [Непрерывное развитие API](#непрерывное-развитие-API)
+- [Разработка требований к программному обеспечению](#разработка-требований-к-программному-обеспечению)
+- [System Design. Подготовка к сложному интервью](#System-Design-подготовка-к-сложному-интервью)
+- [System Design. Машинное обучение. Подготовка к сложному интервью](#System-Design-машинное-обучение-подготовка-к-сложному-интервью)
+- System Design. Подготовка к сложному интервью по GenAI
+- System Design II. Распределенные системы. Подготовка к сложному интервью
+- System Design. Проектирование мобильных систем. Подготовка к сложному интервью
+- System Design: пережить интервью
+- [Современная программная инженерия](#современная-программная-инженерия)
 - [not sorted yet stage 1](#not-sorted-yet-stage-1)
-- [Управление памятью в .NET для профессионалов](#Управление-памятью-в-NET-для-профессионалов)
-- [Конкурентность в C#](#Конкурентность-в-C#)
-- [Внедрение зависимостей на платформе .NET](#Внедрение-зависимостей-на-платформе-NET)
-- [Паттерны проектирования на платформе .NET](#Паттерны-проектирования-на-платформе-NET)
-- [Принципы юнит-тестирования](#Принципы-юнит-тестирования)
-- [Код, который умещается в голове](#Код-который-умещается-в-голове)
+- [Управление памятью в .NET для профессионалов](#управление-памятью-в-NET-для-профессионалов)
+- [Конкурентность в C#](#конкурентность-в-C#)
+- [Внедрение зависимостей на платформе .NET](#внедрение-зависимостей-на-платформе-NET)
+- [Паттерны проектирования на платформе .NET](#паттерны-проектирования-на-платформе-NET)
+- [Принципы юнит-тестирования](#принципы-юнит-тестирования)
+- [Код, который умещается в голове](#код-который-умещается-в-голове)
 - [ASP.NET Core в действии](#ASPNET-Core-в-действии)
-- [Software. Ошибки и компромиссы](#Software-Ошибки-и-компромиссы)
+- [Software. Ошибки и компромиссы](#Software-ошибки-и-компромиссы)
 - [not sorted yet stage 2](#not-sorted-yet-stage-2)
-- [Паттерны программирования игр](#Паттерны-программирования-игр)
-- [Как устроен JavaScript](#Как-устроен-JavaScript)
-- [JavaScript. Сильный стороны](#JavaScript-Сильный-стороны)
-- [Рефакторинг JavaScript](#Рефакторинг-JavaScript)
-- [Профессиональный TypeScript](#Профессиональный-TypeScript)
+- [Паттерны программирования игр](#паттерны-программирования-игр)
+- [Как устроен JavaScript](#как-устроен-JavaScript)
+- [JavaScript. Сильный стороны](#JavaScript-сильный-стороны)
+- [Рефакторинг JavaScript](#рефакторинг-JavaScript)
+- [Профессиональный TypeScript](#профессиональный-TypeScript)
 - [LaTex](#LaTex)
-- [Набор и верстка в пакете LaTex](#Набор-и-верстка-в-пакете-LaTex)
-- [XSLT. Сборник рецептов](#XSLT-Сборник-рецептов)
+- [Набор и верстка в пакете LaTex](#набор-и-верстка-в-пакете-LaTex)
+- [XSLT. Сборник рецептов](#XSLT-сборник-рецептов)
 - [XSLT. 2-е издание](#XSLT-2-е-издание)
 - [Elegant Objects](#Elegant-Objects)
 - [Clojure на производстве](#Clojure-на-производстве)
@@ -171,13 +175,17 @@ tags:  [`software-requirements`](#Разработка-требований-к-�
 
 ---
 #### System Design. Подготовка к сложному интервью
-<img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
+<img alt="empty book title" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/530/496681490/44611816.jpg" />
 
 <span>`score`&nbsp;</span>
 [**System Design. Подготовка к сложному интервью**]()  
 _`authored by` [Алекс Сюй]()_  
-_`publisher` -_  
+_`publisher` Piter_  
 _`publication date` -_
+
+...  
+...  
+...
 
 <details>
     <summary><i>анг. издание</i></summary>
@@ -192,13 +200,17 @@ tags:  [`system design`](#System-Design-Подготовка-к-сложному
 
 ---
 #### System Design. Машинное обучение. Подготовка к сложному интервью
-<img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
+<img alt="System Design. Машинное обучение" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/4737/782807681/44612130.jpg" />
 
 <span>`score`&nbsp;</span>
 [**System Design. Подготовка к сложному интервью**]()  
 _`authored by` [Алекс Сюй]() и [Али Аминиан]()_  
-_`publisher` -_  
+_`publisher` Piter_  
 _`publication date` -_
+
+...  
+...  
+...
 
 <details>
     <summary><i>анг. издание</i></summary>
@@ -212,14 +224,126 @@ _`publication date` -_
 tags:  [`system design`](#System-Design-Подготовка-к-сложному-интервью) `ml`
 
 ---
+#### System Design. Подготовка к сложному интервью по GenAI
+<img alt="System Design. Подготовка к сложному интервью по GenAI" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/3081/2551180297/44614339.jpg" />
+
+<span>`score`&nbsp;</span>
+[**System Design. Подготовка к сложному интервью по GenAI**](https://www.piter.com/collection/all/product/system-design-podgotovka-k-slozhnomu-intervyu-po-genai)  
+_`authored by` [Али Аминиан](), [Хао Шенг]()_  
+_`publisher` Piter_  
+_`publication date` 2026_
+
+...  
+...  
+...
+
+<!--
+<details>
+    <summary><i>анг. издание</i></summary>
+    <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
+    <i><b><a href=""></a></b></i><br/>
+    <i>authored by <a href=""></a> and <a href=""></a></i><br/>
+    <i>publisher -</i><br/>
+    <i>publication date -</i><br/>
+</details>
+-->
+
+tags:  [`system design`](#System-Design-Подготовка-к-сложному-интервью) `ml`
+
+---
+#### System Design II. Распределенные системы. Подготовка к сложному интервью
+<img alt="System Design II. Распределенные системы. Подготовка к сложному интервью" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/6697/2600278569/44614332.jpg" />
+
+<span>`score`&nbsp;</span>
+[**System Design II. Распределенные системы. Подготовка к сложному интервью**](https://www.piter.com/collection/all/product/system-design-ii-raspredelennye-sistemy-podgotovka-k-slozhnomu-intervyu)  
+_`authored by` [Алекс Сюй](), [Сан Лэм]()_  
+_`publisher` Piter_  
+_`publication date` -_
+
+...  
+...  
+...
+
+<!--
+<details>
+    <summary><i>анг. издание</i></summary>
+    <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
+    <i><b><a href=""></a></b></i><br/>
+    <i>authored by <a href=""></a> and <a href=""></a></i><br/>
+    <i>publisher -</i><br/>
+    <i>publication date -</i><br/>
+</details>
+-->
+
+tags:  [`system design`](#system-design-подготовка-к-сложному-интервью)
+
+---
+#### System Design. Проектирование мобильных систем. Подготовка к сложному интервью
+<img alt="System Design. Проектирование мобильных систем. Подготовка к сложному интервью" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/649/2985484937/44614489.jpg" />
+
+<span>`score`&nbsp;</span>
+[**System Design. Проектирование мобильных систем. Подготовка к сложному интервью**](https://www.piter.com/collection/all/product/system-design-proektirovanie-mobilnyh-sistem-podgotovka-k-slozhnomu-intervyu)  
+_`authored by` [Мануэль Висенте Виво]()_  
+_`publisher` Piter_  
+_`publication date` -_
+
+...  
+...  
+...
+
+<!--
+<details>
+    <summary><i>анг. издание</i></summary>
+    <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
+    <i><b><a href=""></a></b></i><br/>
+    <i>authored by <a href=""></a> and <a href=""></a></i><br/>
+    <i>publisher -</i><br/>
+    <i>publication date -</i><br/>
+</details>
+-->
+
+tags:  [`system design`](#system-design-подготовка-к-сложному-интервью)
+
+---
+#### System Design: пережить интервью
+<img alt="System Design: пережить интервью" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/1676/970507916/44614106.jpg" />
+
+<span>`score`&nbsp;</span>
+[**System Design: пережить интервью**](https://www.piter.com/collection/all/product/system-design-perezhit-intervyu)  
+_`authored by` [Чжиюн Тань]()_  
+_`publisher` Piter_  
+_`publication date` -_
+
+...  
+...  
+...
+
+<!--
+<details>
+    <summary><i>анг. издание</i></summary>
+    <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
+    <i><b><a href=""></a></b></i><br/>
+    <i>authored by <a href=""></a> and <a href=""></a></i><br/>
+    <i>publisher -</i><br/>
+    <i>publication date -</i><br/>
+</details>
+-->
+
+tags:  [`system design`](#system-design-подготовка-к-сложному-интервью)
+
+---
 #### Современная программная инженерия
-<img alt="empty book title" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
+<img alt="Современная программная инженерия" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/6011/624506747/44612335.jpg" />
 
 <span>`score`&nbsp;</span>
 [**Современная программная инженерия**]()  
 _`authored by` [Дэвид Фарли]()_  
-_`publisher` -_  
+_`publisher` Piter_  
 _`publication date` -_ 
+
+...  
+...  
+...
 
 <details>
     <summary><i>анг. издание</i></summary>
@@ -234,46 +358,56 @@ tags:  [`software engineering`](#Современная-программная-�
 
 ---
 #### not sorted yet stage 1
-- Computer Science для программиста-самоучки
-- Грокаем алгоритмы
-- Машинное обучение. Паттерны проектирования
-- Облачный Go
-- Паттерны разработки на Python
-- Проектирование событийно-ориентированных систем
-- Создание событийно-управляемых микросервисов
-- [x] Создание микросервисов. 2-е изд. Сэм Ньюмен
-- [x] От монолита к микросервисам. Эволюционные шаблоны для трансформации монолитной системы. Сэм Ньюмен
-- [x] Фундаментальный подход к программной архитектуре: паттерны, свойства, проверенные методы. Нил Форд, Марк Ричардс
-- [ ] Современный подход к программной архитектуре: сложные компромиссы. Нил Форд, Марк Ричардс
-- [x] Эволюционная архитектура. Поддержка непрерывных изменений. Нил Форд, Ребекка Парсонс 
-- [ ] Эволюционная архитектура. Автоматизированное управление программным обеспечением. 2-е межд. изд. Нил Форд, Ребекка Парсонс
-- Шаблоны корпоративных приложений
-- Шаблоны интеграции корпоративных приложений
-- Масштабируемый рефакторинг
-- Еще более эффективный Agile
-- Говорят, в IT много платят
-- Мама, я теперь тимлид
-- Записки автоматизатора
-- Легко и просто. Как справляться с задачами, к которым страшно подступиться
-- Лягушка, слон и броколли. Как жить и как не надо
-- Визуализируйте работу
-- Проект Феникс. Как DevOps устраняет хаос и ускоряет развитие компании
-- Профессия Бизнес-аналитик
-- Бизнес как игра
-- Джоэл о программировании
-- Джоэл: и снова о программировании
-- Ум программиста. Как понять и осмыслить любой ко
-- Чистый код
-- Совершенный код. Практическое руководство по разработке программного обеспечения
-- Программист-прагматик
-- Чистая архитектура. Искусство разработки программного обеспечения
-- Эффективная работа с унаследованным кодом
-- Применение UML 2.0 и шаблонов проектирования. Введение в объектно-ориентированный анализ, проектирование и итеративную разработку
-- Структура и интерпритаци компьютерных программ. 2-е издание
-- Как проектировать программы
-- Проектирование гибких программ
-- Типы в языках программирования
-- Создай свой собственный язык программирования
+	- Computer Science для программиста-самоучки
+	- Грокаем алгоритмы
+	- Облачный Go
+
+	- Проектирование событийно-ориентированных систем
+	- Создание событийно-управляемых микросервисов
+
+	- Создание микросервисов. 2-е изд. Сэм Ньюмен
+	- От монолита к микросервисам. Эволюционные шаблоны для трансформации монолитной системы. Сэм Ньюмен
+
+	- Фундаментальный подход к программной архитектуре: паттерны, свойства, проверенные методы. Нил Форд, Марк Ричардс
+	- Современный подход к программной архитектуре: сложные компромиссы. Нил Форд, Марк Ричардс
+	- Эволюционная архитектура. Поддержка непрерывных изменений. Нил Форд, Ребекка Парсонс
+	- Эволюционная архитектура. Автоматизированное управление программным обеспечением. 2-е межд. изд. Нил Форд, Ребекка Парсонс
+
+	- Машинное обучение. Паттерны проектирования
+	- Паттерны разработки на Python
+	- Шаблоны корпоративных приложений
+	- Шаблоны интеграции корпоративных приложений
+	- Применение UML 2.0 и шаблонов проектирования. Введение в объектно-ориентированный анализ, проектирование и итеративную разработку
+
+	- Записки автоматизатора
+	- Джоэл о программировании
+	- Джоэл: и снова о программировании
+	- Говорят, в IT много платят
+	- Мама, я теперь тимлид
+	- Еще более эффективный Agile
+	- Проект Феникс. Как DevOps устраняет хаос и ускоряет развитие компании
+	- Профессия Бизнес-аналитик
+	- Визуализируйте работу
+
+	- Чистый код
+	- Программист-прагматик
+	- Масштабируемый рефакторинг
+	- Эффективная работа с унаследованным кодом
+	- Ум программиста. Как понять и осмыслить любой ко
+	- Чистая архитектура. Искусство разработки программного обеспечения
+	- Совершенный код. Практическое руководство по разработке программного обеспечения
+
+	- Как проектировать программы
+	- Проектирование гибких программ
+	- Типы в языках программирования
+	- Создай свой собственный язык программирования
+	- Структура и интерпритаци компьютерных программ. 2-е издание
+
+	- Бизнес как игра
+	- Лягушка, слон и броколли. Как жить и как не надо
+	- Легко и просто. Как справляться с задачами, к которым страшно подступиться
+
+[в начало](#bookshelf)
 
 ---
 #### Управление памятью в .NET для профессионалов
@@ -423,6 +557,8 @@ _`publication date` 2023_
 
 tags:  `dotnet` `dotnet-core` `jon-skeet`
 
+[в начало](#bookshelf)
+
 ---
 #### not sorted yet stage 2
 <img alt="empty book title" width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
@@ -508,6 +644,8 @@ _May, 2021_
 
 tags:  `dotnet` `ef-core`
 
+[в начало](#bookshelf)
+
 ---
 #### Паттерны программирования игр
 
@@ -553,7 +691,7 @@ tags:  `xslt`
 
 tags:  `xslt`
 
-[в начало](#Bookshelf)
+[в начало](#bookshelf)
 
 ---
 #### Elegant Objects
@@ -620,6 +758,8 @@ _`publication date` -_
 
 tags:  `yegor256` `code-ahead`
 
+[в начало](#bookshelf)
+
 ---
 #### linux and unix
     - Внутреннее устройство Linux
@@ -645,6 +785,9 @@ tags:  `yegor256` `code-ahead`
     
     - Kafka в действии
     - Kafka Streams и ksqlDB
+
+[в начало](#bookshelf)
+
 #### database design
     - PostgreSQL14 изнутри
     - MongoDB. Полное руководство
@@ -679,8 +822,8 @@ tags:  `yegor256` `code-ahead`
     - Хулиномика
     - Жлобология
     - Криптвоюматика
-#### end
-[в начало](#Bookshelf)
+
+[в начало](#bookshelf)
 
 
 
@@ -693,8 +836,7 @@ _`authored by` [Mark Richards](https://www.amazon.com/Mark-Richards/e/B0039T7ODK
 _`publisher` O'Reilly Media_  
 _`pubication date` March 3, 2020_
 
-
-tags:  [`Software Development`](#software-development) [`Software Architecture`](#software-architecture) [`Software Engineering`](#software-engineering)
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
 ---
 <img alt="Clean Architecture: A Craftsman's Guide to Software Structure and Design" width="120" src="https://m.media-amazon.com/images/I/71stxGw9JgL._SL1500_.jpg" />
@@ -704,8 +846,7 @@ _`authored by` [Robert Martin](https://www.amazon.com/Robert-Martin/e/B004N5WF1K
 _`publisher` Pearson_  
 _`pubication date` September 10, 2017_
 
-
-tags:  [`Software Development`](#software-development) [`Software Architecture`](#software-architecture) [`Software Engineering`](#software-engineering)
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
 ---
 <img alt="Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems" width="120" src="https://m.media-amazon.com/images/I/91YfNb49PLL._SL1500_.jpg" />
@@ -715,8 +856,7 @@ _`authored by` [Martin Kleppmann](https://www.amazon.com/Martin-Kleppmann/e/B00Q
 _`publisher` O'Reilly Media_  
 _`pubication date` May 2, 2017_
 
-
-tags:  [`Software Development`](#software-development) [`Software Architecture`](#software-architecture) [`Software Engineering`](#software-engineering)
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
 ---
 <img alt="Design Patterns: Elements of Reusable Object-Oriented Software" width="120" src="https://m.media-amazon.com/images/I/81YsHe4woRL._SL1500_.jpg" />
@@ -726,8 +866,7 @@ _`authored by` Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady B
 _`publisher` Addison-Wesley Professional_  
 _`pubication date` October 31, 1994_
 
-
-tags:  [`Software Development`](#software-development) [`Software Architecture`](#software-architecture) [`Software Engineering`](#software-engineering)
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
 ---
 <img alt="Domain-Driven Design: Tackling Complexity in the Heart of Software" width="120" src="https://m.media-amazon.com/images/I/81ykBjVaUjL._SL1500_.jpg" />
@@ -737,8 +876,7 @@ _`authored by` [Eric Evans](https://www.amazon.com/Eric-Evans/e/B001KDCO2I/)_
 _`publisher` Addison-Wesley Professional_  
 _`pubication date` August 20, 2003_
 
-
-tags:  [`Software Development`](#software-development) [`Software Architecture`](#software-architecture) [`Software Engineering`](#software-engineering)
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
 ---
 <img alt="Building Microservices: Designing Fine-Grained Systems" width="120" src="https://m.media-amazon.com/images/I/81dmHMoJDjL._SL1500_.jpg" />
@@ -748,8 +886,7 @@ _`authored by` [Sam Newman](https://www.amazon.com/Sam-Newman/e/B00LEP6IB0/)_
 _`publisher` O'Reilly Media_  
 _`pubication date` September 28, 2021_
 
-
-tags:  [`Software Development`](#software-development) [`Software Architecture`](#software-architecture) [`Software Engineering`](#software-engineering)
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
 ---
 <img alt="Building Evolutionary Architectures: Support Constant Change" width="120" src="https://m.media-amazon.com/images/I/91V2fclaQPL._SL1500_.jpg" />
@@ -759,19 +896,27 @@ _`authored by` Neal Ford, [Rebecca Parsons](https://www.amazon.com/Rebecca-Parso
 _`publisher` O'Reilly Media_  
 _`pubication date` November 7, 2017_
 
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
-tags:  [`Software Development`](#software-development) [`Software Architecture`](#software-architecture) [`Software Engineering`](#software-engineering)
-
----
 ---
 <img alt="Software Architecture in Practice" width="120" src="https://m.media-amazon.com/images/I/81FcAOseqNL._SL1500_.jpg" />
 
 [**Software Architecture in Practice**](https://www.amazon.com/dp/0136886094)  
+_`authored by` Len Bass, Paul Clements, Rick Kazman_  
+_`publisher` Addison-Wesley Professional_  
+_`pubication date` August 3, 2021_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
 ---
 <img alt="Head First Design Patterns: A Brain-Friendly Guide" width="120" src="https://m.media-amazon.com/images/I/91bobQSPQrL._SL1500_.jpg" />
 
 [**Head First Design Patterns: A Brain-Friendly Guide**](https://www.amazon.com/dp/0596007124)  
+_`authored by` Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra_  
+_`publisher` O'Reilly Media_  
+_`pubication date` October 1, 2004_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
 ---
 <img alt="Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions" width="120" src="https://m.media-amazon.com/images/I/81B9BdZnSvL._SL1500_.jpg" />
@@ -788,12 +933,18 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 
 [**Implementing Domain-Driven Design**](https://www.amazon.com/dp/0321834577)  
 _`authored by` Vaughn Vernon_  
+_`published at` February 6, 2013_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
 ---
 <img alt="Microservices Patterns: With examples in Java" width="120" src="https://m.media-amazon.com/images/I/612SvfNVfdL._SL1500_.jpg" />
 
 [**Microservices Patterns: With examples in Java**](https://www.amazon.com/dp/1617294543)  
 _`authored by` Chris Richardson_  
+_`published at` November 19, 2018_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
 ---
 <img alt="Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith" width="120" src="https://m.media-amazon.com/images/I/91yYn6cJaLL._SL1500_.jpg" />
@@ -801,12 +952,18 @@ _`authored by` Chris Richardson_
 <span>✅&nbsp;</span>
 [**Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith**](https://www.amazon.com/dp/1492047848)  
 _`authored by` Sam Newman_  
+_`published at` December 24, 2019_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
 ---
 <img alt="Release It!: Design and Deploy Production-Ready Software" width="120" src="https://m.media-amazon.com/images/I/51YLCdLeopS._SL1000_.jpg" />
 
 [**Release It!: Design and Deploy Production-Ready Software**](https://www.amazon.com/dp/0978739213)  
 _`authored by` Michael T. Nygard_  
+_`published at` July 12, 2017_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
 ---
 <img alt="A Philosophy of Software Design" width="120" src="https://m.media-amazon.com/images/I/71J0G8g08dL._SL1200_.jpg" />
@@ -814,6 +971,9 @@ _`authored by` Michael T. Nygard_
 <span>✅&nbsp;</span>
 [**A Philosophy of Software Design**](https://www.amazon.com/dp/1732102201)  
 _`authored by` John Ousterhout_  
+_`published at` April 6, 2018_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
 ---
 <img alt="The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise" width="120" src="https://m.media-amazon.com/images/I/71ngR++SKRL._SL1500_.jpg" />
@@ -821,11 +981,15 @@ _`authored by` John Ousterhout_
 [**The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise**](https://www.amazon.com/dp/1492077542)  
 _`authored by` Gregor Hohpe_  
 
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
 ---
 <img alt="Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives" width="120" src="https://m.media-amazon.com/images/I/51Po0D8O7tL._SL1000_.jpg" />
 
 [**Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives**](https://www.amazon.com/dp/0321112296)  
 _`authored by` Nick Rozanski, Eoin Woods_  
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
 ---
 <img alt="System Design Interview – An insider's guide" width="120" src="https://m.media-amazon.com/images/I/51vZ6t5W4gL._SL1499_.jpg" />
@@ -989,11 +1153,15 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 [**Architecting for Scale: High Availability for Your Growing Applications**](https://www.amazon.com/dp/1491943394)  
 _`authored by` Lee Atchison_  
 
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
 ---
 <img alt="The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise" width="120" src="https://m.media-amazon.com/images/I/41i0Ln3-yQL.jpg" />
 
 [**The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise**](https://www.amazon.com/dp/0137030428)  
 _`authored by` Martin L Abbott, Michael T Fisher_  
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
 
 ---
 <img alt="Web Scalability for Startup Engineers" width="120" src="https://m.media-amazon.com/images/I/61HO2V6wnNL._SL1360_.jpg" />
@@ -1001,4 +1169,6 @@ _`authored by` Martin L Abbott, Michael T Fisher_
 [**Web Scalability for Startup Engineers**](https://www.amazon.com/dp/0071843655)  
 _`authored by` Artur Ejsmont_  
 
----
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+[в начало](#bookshelf)
