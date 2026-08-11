@@ -268,10 +268,10 @@ tags:  [`software engineering`](#Современная-программная-�
 - Программист-прагматик
 - Чистая архитектура. Искусство разработки программного обеспечения
 - Эффективная работа с унаследованным кодом
-- Применение UML 2.0 и шаблонов проектирования. Введение в объектно-ориентированный анализ, проектирование и итеративную разработку
+[ ] Применение UML 2.0 и шаблонов проектирования. Введение в объектно-ориентированный анализ, проектирование и итеративную разработку
 - Структура и интерпритаци компьютерных программ. 2-е издание
 - Как проектировать программы
-- Проектирование гибких программ
+    - Проектирование гибких программ
 - Типы в языках программирования
 - Создай свой собственный язык программирования
 
@@ -477,7 +477,7 @@ _`authored by` [Gary McLean Hall](https://github.com/garymcleanhall)_
 _`publisher` -_  
 _`publication date` 2019_
 
-tags:  `dotnet` `c#`
+tags: `dotnet` `c#`
 
 ---
 <img alt="Apps and Services with .NET 8" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/ddc5d172-e74f-40d7-aea4-bb8133b115d1" />
@@ -492,7 +492,7 @@ _`publication date` December, 2023_
 ...  
 ...
 
-tags:  `dotnet`
+tags: `dotnet`
 
 ---
 <img alt="Entity Framework Core in Action" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/b27e2f90-d2c2-41af-aaf9-cfa21883ce6d" />
@@ -679,5 +679,5 @@ tags:  `yegor256` `code-ahead`
     - Хулиномика
     - Жлобология
     - Криптвоюматика
-#### end
+
 [в начало](#Bookshelf)
