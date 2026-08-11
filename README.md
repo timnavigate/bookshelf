@@ -813,7 +813,7 @@ _`authored by` Michael T. Nygard_
 
 <span>✅&nbsp;</span>
 [**A Philosophy of Software Design**](https://www.amazon.com/dp/1732102201)  
-_`authored by` John Ousterhout _  
+_`authored by` John Ousterhout_  
 
 ---
 <img alt="The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise" width="120" src="https://m.media-amazon.com/images/I/71ngR++SKRL._SL1500_.jpg" />
