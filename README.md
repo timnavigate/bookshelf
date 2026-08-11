@@ -681,3 +681,324 @@ tags:  `yegor256` `code-ahead`
     - Криптвоюматика
 #### end
 [в начало](#Bookshelf)
+
+
+
+
+#### 38 awesome books on software architecture
+<img alt="Fundamentals of Software Architecture: An Engineering Approach" width="120" src="https://m.media-amazon.com/images/I/9193iMIxVTL._SL1500_.jpg" />
+
+[**Fundamentals of Software Architecture: An Engineering Approach**](https://www.amazon.com/dp/1492043451)  
+_`authored by` [Mark Richards](https://www.amazon.com/Mark-Richards/e/B0039T7ODK/), [Neal Ford](https://www.amazon.com/Neal-Ford/e/B001K7PMYQ/)_  
+_`publisher` O'Reilly Media_  
+_`pubication date` March 3, 2020_
+
+
+tags:  [`Software Development`](#software-development) [`Software Architecture`](#software-architecture) [`Software Engineering`](#software-engineering)
+
+---
+<img alt="Clean Architecture: A Craftsman's Guide to Software Structure and Design" width="120" src="https://m.media-amazon.com/images/I/71stxGw9JgL._SL1500_.jpg" />
+
+[**Clean Architecture: A Craftsman's Guide to Software Structure and Design**](https://www.amazon.com/dp/0134494164)  
+_`authored by` [Robert Martin](https://www.amazon.com/Robert-Martin/e/B004N5WF1K/)_  
+_`publisher` Pearson_  
+_`pubication date` September 10, 2017_
+
+
+tags:  [`Software Development`](#software-development) [`Software Architecture`](#software-architecture) [`Software Engineering`](#software-engineering)
+
+---
+<img alt="Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems" width="120" src="https://m.media-amazon.com/images/I/91YfNb49PLL._SL1500_.jpg" />
+
+[**Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems**](https://www.amazon.com/dp/1449373321)  
+_`authored by` [Martin Kleppmann](https://www.amazon.com/Martin-Kleppmann/e/B00Q43XKD6/)_  
+_`publisher` O'Reilly Media_  
+_`pubication date` May 2, 2017_
+
+
+tags:  [`Software Development`](#software-development) [`Software Architecture`](#software-architecture) [`Software Engineering`](#software-engineering)
+
+---
+<img alt="Design Patterns: Elements of Reusable Object-Oriented Software" width="120" src="https://m.media-amazon.com/images/I/81YsHe4woRL._SL1500_.jpg" />
+
+[**Design Patterns: Elements of Reusable Object-Oriented Software**](https://www.amazon.com/dp/0201633612)  
+_`authored by` Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch_  
+_`publisher` Addison-Wesley Professional_  
+_`pubication date` October 31, 1994_
+
+
+tags:  [`Software Development`](#software-development) [`Software Architecture`](#software-architecture) [`Software Engineering`](#software-engineering)
+
+---
+<img alt="Domain-Driven Design: Tackling Complexity in the Heart of Software" width="120" src="https://m.media-amazon.com/images/I/81ykBjVaUjL._SL1500_.jpg" />
+
+[**Domain-Driven Design: Tackling Complexity in the Heart of Software**](https://www.amazon.com/dp/0321125215)  
+_`authored by` [Eric Evans](https://www.amazon.com/Eric-Evans/e/B001KDCO2I/)_  
+_`publisher` Addison-Wesley Professional_  
+_`pubication date` August 20, 2003_
+
+
+tags:  [`Software Development`](#software-development) [`Software Architecture`](#software-architecture) [`Software Engineering`](#software-engineering)
+
+---
+<img alt="Building Microservices: Designing Fine-Grained Systems" width="120" src="https://m.media-amazon.com/images/I/81dmHMoJDjL._SL1500_.jpg" />
+
+[**Building Microservices: Designing Fine-Grained Systems**](https://www.amazon.com/dp/1492034029/)  
+_`authored by` [Sam Newman](https://www.amazon.com/Sam-Newman/e/B00LEP6IB0/)_  
+_`publisher` O'Reilly Media_  
+_`pubication date` September 28, 2021_
+
+
+tags:  [`Software Development`](#software-development) [`Software Architecture`](#software-architecture) [`Software Engineering`](#software-engineering)
+
+---
+<img alt="Building Evolutionary Architectures: Support Constant Change" width="120" src="https://m.media-amazon.com/images/I/91V2fclaQPL._SL1500_.jpg" />
+
+[**Building Evolutionary Architectures: Support Constant Change**](https://www.amazon.com/dp/1491986360)  
+_`authored by` Neal Ford, [Rebecca Parsons](https://www.amazon.com/Rebecca-Parsons/e/B076KLYL7Q/ref=dp_byline_cont_book_2), Patrick Kua_  
+_`publisher` O'Reilly Media_  
+_`pubication date` November 7, 2017_
+
+
+tags:  [`Software Development`](#software-development) [`Software Architecture`](#software-architecture) [`Software Engineering`](#software-engineering)
+
+---
+---
+<img alt="Software Architecture in Practice" width="120" src="https://m.media-amazon.com/images/I/81FcAOseqNL._SL1500_.jpg" />
+
+[**Software Architecture in Practice**](https://www.amazon.com/dp/0136886094)  
+
+---
+<img alt="Head First Design Patterns: A Brain-Friendly Guide" width="120" src="https://m.media-amazon.com/images/I/91bobQSPQrL._SL1500_.jpg" />
+
+[**Head First Design Patterns: A Brain-Friendly Guide**](https://www.amazon.com/dp/0596007124)  
+
+---
+<img alt="Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions" width="120" src="https://m.media-amazon.com/images/I/81B9BdZnSvL._SL1500_.jpg" />
+
+<span>✅&nbsp;</span>
+[**Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions**](https://www.amazon.com/dp/0321200683)  
+_`authored by` Gregor Hohpe, Bobby Woolf_  
+_`published at` October 10, 2003_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="Implementing Domain-Driven Design" width="120" src="https://m.media-amazon.com/images/I/818NkFvZy4L._SL1500_.jpg" />
+
+[**Implementing Domain-Driven Design**](https://www.amazon.com/dp/0321834577)  
+_`authored by` Vaughn Vernon_  
+
+---
+<img alt="Microservices Patterns: With examples in Java" width="120" src="https://m.media-amazon.com/images/I/612SvfNVfdL._SL1500_.jpg" />
+
+[**Microservices Patterns: With examples in Java**](https://www.amazon.com/dp/1617294543)  
+_`authored by` Chris Richardson_  
+
+---
+<img alt="Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith" width="120" src="https://m.media-amazon.com/images/I/91yYn6cJaLL._SL1500_.jpg" />
+
+<span>✅&nbsp;</span>
+[**Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith**](https://www.amazon.com/dp/1492047848)  
+_`authored by` Sam Newman_  
+
+---
+<img alt="Release It!: Design and Deploy Production-Ready Software" width="120" src="https://m.media-amazon.com/images/I/51YLCdLeopS._SL1000_.jpg" />
+
+[**Release It!: Design and Deploy Production-Ready Software**](https://www.amazon.com/dp/0978739213)  
+_`authored by` Michael T. Nygard_  
+
+---
+<img alt="A Philosophy of Software Design" width="120" src="https://m.media-amazon.com/images/I/71J0G8g08dL._SL1200_.jpg" />
+
+<span>✅&nbsp;</span>
+[**A Philosophy of Software Design**](https://www.amazon.com/dp/1732102201)  
+_`authored by` John Ousterhout _  
+
+---
+<img alt="The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise" width="120" src="https://m.media-amazon.com/images/I/71ngR++SKRL._SL1500_.jpg" />
+
+[**The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise**](https://www.amazon.com/dp/1492077542)  
+_`authored by` Gregor Hohpe_  
+
+---
+<img alt="Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives" width="120" src="https://m.media-amazon.com/images/I/51Po0D8O7tL._SL1000_.jpg" />
+
+[**Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives**](https://www.amazon.com/dp/0321112296)  
+_`authored by` Nick Rozanski, Eoin Woods_  
+
+---
+<img alt="System Design Interview – An insider's guide" width="120" src="https://m.media-amazon.com/images/I/51vZ6t5W4gL._SL1499_.jpg" />
+
+<span>✅&nbsp;</span>
+[**System Design Interview – An insider's guide**](https://www.amazon.com/dp/B08CMF2CQF/)  
+_`authored by` Alex Xu_  
+_`published at` June 12, 2020_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="System Design Interview – An Insider's Guide: Volume 2" width="120" src="https://m.media-amazon.com/images/I/51lJolln98L._SL1429_.jpg" />
+
+[**System Design Interview – An Insider's Guide: Volume 2**](https://www.amazon.com/dp/1736049119/)  
+_`authored by` Alex Xu, Sahn Lam_  
+_`published at` March 11, 2022_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="97 Things Every Software Architect Should Know" width="120" src="https://m.media-amazon.com/images/I/91FzKX-YQTL._SL1500_.jpg" />
+
+[**97 Things Every Software Architect Should Know**](https://www.amazon.com/dp/059652269X)  
+_`authored by` Richard Monson-Haefel_  
+_`published at` March 17, 2009_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="The Pragmatic Programmer: From Journeyman to Master" width="120" src="https://m.media-amazon.com/images/I/61ztlXgCmpL._SL1500_.jpg" />
+
+<span>✅&nbsp;</span>
+[**The Pragmatic Programmer: From Journeyman to Master**](https://www.amazon.com/dp/020161622X)  
+_`authored by` Andrew Hunt, David Thomas_  
+_`published at` January 1, 1999_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="Site Reliability Engineering: How Google Runs Production Systems" width="120" src="https://m.media-amazon.com/images/I/814nAGmpAGL._SL1500_.jpg" />
+
+[**Site Reliability Engineering: How Google Runs Production Systems**](https://www.amazon.com/dp/149192912X)  
+_`authored by` Jennifer Petoff, Betsy Beyer, Chris Jones, Niall Richard Murphy_  
+_`published at` May 10, 2016_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures" width="120" src="https://m.media-amazon.com/images/I/81sdcxLtlwL._SL1500_.jpg" />
+
+[**Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures**](https://www.amazon.com/dp/1492086894/)  
+_`authored by` Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani_  
+_`published at` November 30, 2021_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" width="120" src="https://m.media-amazon.com/images/I/61jcWW-96CL._SL1360_.jpg" />
+
+[**Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation**](https://www.amazon.com/dp/0321601912)  
+_`authored by` Jez Humble, David Farley_  
+_`published at` July 27, 2010_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations" width="120" src="https://m.media-amazon.com/images/I/71mhqEw8LcL._SL1500_.jpg" />
+
+[**The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations**](https://www.amazon.com/dp/1942788002)  
+_`authored by` Gene Kim, Patrick Debois, John Willis, Jez Humble, John Allspaw_  
+_`published at` October 6, 2016_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="Database Internals: A Deep Dive into How Distributed Data Systems Work" width="120" src="https://m.media-amazon.com/images/I/91UYIt74czL._SL1500_.jpg" />
+
+<span>✅&nbsp;</span>
+[**Database Internals: A Deep Dive into How Distributed Data Systems Work**](https://www.amazon.com/dp/1492040347)  
+_`authored by` Alex Petrov_  
+_`published at` November 5, 2019_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services" width="120" src="https://m.media-amazon.com/images/I/91CxhyACrlL._SL1500_.jpg" />
+
+[**Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services**](https://www.amazon.com/dp/1491983647)  
+_`authored by` Brendan Burns_  
+_`published at` April 3, 2018_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="Head First Software Architecture: A Learner's Guide to Architectural Thinking" width="120" src="https://m.media-amazon.com/images/I/81DrluSWXKL._SL1500_.jpg" />
+
+[**Head First Software Architecture: A Learner's Guide to Architectural Thinking**](https://www.amazon.com/dp/1098134354)  
+_`authored by` Raju Gandhi, Mark Richards, Neal Ford_  
+_`published at` April 9, 2024_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="Software Architecture for Busy Developers: Talk and act like a software architect in one weekend" width="120" src="https://m.media-amazon.com/images/I/81mai2Q0MaL._SL1500_.jpg" />
+
+[**Software Architecture for Busy Developers: Talk and act like a software architect in one weekend**](https://www.amazon.com/dp/B09B2R6QN8/)  
+_`authored by` Stephane Eyskens_  
+_`published at` October 15, 2021_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="Clean Architecture with .NET: Design scalable .NET applications by using Clean Architecture principles and proven patterns" width="120" src="https://m.media-amazon.com/images/I/71RfS6ARwRL._SL1500_.jpg" />
+
+[**Clean Architecture with .NET: Design scalable .NET applications by using Clean Architecture principles and proven patterns**](https://www.amazon.com/dp/B0FFN11CDB/)  
+_`authored by` Casey Crouse, Steve "Ardalis" Smith, Jason Taylor_  
+_`published at` April 30, 2026_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="Infrastructure as Code: Managing Servers in the Cloud" width="120" src="https://m.media-amazon.com/images/I/91j0xvGbHBL._SL1500_.jpg" />
+
+[**Infrastructure as Code: Managing Servers in the Cloud**](https://www.amazon.com/dp/1491924357)  
+_`authored by` Kief Morris_  
+_`published at` July 26, 2016_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="Cloud Native Patterns: Designing change-tolerant software" width="120" src="https://m.media-amazon.com/images/I/81H40uiahSL._SL1500_.jpg" />
+
+[**Cloud Native Patterns: Designing change-tolerant software**](https://www.amazon.com/dp/1617294292)  
+_`authored by` Cornelia Davis_  
+_`published at` May 31, 2019_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications" width="120" src="https://m.media-amazon.com/images/I/81D4+NMzjWL._SL1500_.jpg" />
+
+[**Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications**](https://www.amazon.com/dp/1492050288)  
+_`authored by` Bilgin Ibryam, Roland Huss_  
+_`published at` May 21, 2019_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="Practice of Cloud System Administration, The: DevOps and SRE Practices for Web Services, Volume 2" width="120" src="https://m.media-amazon.com/images/I/81txgKaY6QL._SL1500_.jpg" />
+
+[**Practice of Cloud System Administration, The: DevOps and SRE Practices for Web Services, Volume 2**](https://www.amazon.com/dp/B00N7N2CRQ)  
+_`authored by` Limoncelli Thomas A., Chalup Strata R., Hogan Christina J._  
+_`published at` September 1, 2014_
+
+tags: [`software-architecture`](#software-architecture) [`software-development`](#software-development) [`software-engineering`](#software-engineering)
+
+---
+<img alt="Architecting for Scale: High Availability for Your Growing Applications" width="120" src="https://m.media-amazon.com/images/I/91i-+fiH2+L._SL1500_.jpg" />
+
+[**Architecting for Scale: High Availability for Your Growing Applications**](https://www.amazon.com/dp/1491943394)  
+_`authored by` Lee Atchison_  
+
+---
+<img alt="The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise" width="120" src="https://m.media-amazon.com/images/I/41i0Ln3-yQL.jpg" />
+
+[**The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise**](https://www.amazon.com/dp/0137030428)  
+_`authored by` Martin L Abbott, Michael T Fisher_  
+
+---
+<img alt="Web Scalability for Startup Engineers" width="120" src="https://m.media-amazon.com/images/I/61HO2V6wnNL._SL1360_.jpg" />
+
+[**Web Scalability for Startup Engineers**](https://www.amazon.com/dp/0071843655)  
+_`authored by` Artur Ejsmont_  
+
+---
