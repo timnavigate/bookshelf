@@ -118,7 +118,7 @@ _`publication date` 2024_
 
 <details>
     <summary><i>анг. издание</i></summary>
-    <img alt="Testing Web APIs" width="120" src="https://m.media-amazon.com/images/I/61RPbyND3FL._SL1500_.jpg" /><be/>
+    <img alt="Testing Web APIs" width="120" src="https://m.media-amazon.com/images/I/61RPbyND3FL._SL1500_.jpg" /><br/>
     <i><b><a href="https://www.amazon.com/Testing-Web-APIs-Mark-Winteringham/dp/1617299537">Testing Web APIs</a></b></i><br/>
     <i>by <a href="https://github.com/mwinteringham">Mark Winteringham</a></i><br/>
     <i>Manning, December 2022</i><br/>
