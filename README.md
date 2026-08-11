@@ -7,7 +7,7 @@
 - [Тестирование веб-API](#тестирование-веб-API)
 - [Непрерывное развитие API](#непрерывное-развитие-API)
 - [RESTful Web API паттерны и практики](#RESTful-Web-API-паттерны-и-практики)
-- [Web API. Сборник рецептов: Повысьте уровень JavaScript-приложений](#Web-API-сборник-рецептов)
+- [Web API. Сборник рецептов: Повысьте уровень JavaScript-приложений](#Web-API-сборник-рецептов-повысьте-уровень-JavaScript-приложений)
 - [Разработка требований к программному обеспечению](#разработка-требований-к-программному-обеспечению)
 - [System Design. Подготовка к сложному интервью](#System-Design-подготовка-к-сложному-интервью)
 - [System Design. Распределенные системы](#System-Design-II-распределенные-системы)
@@ -775,7 +775,6 @@ tags:  `dotnet` `dotnet-core` `jon-skeet`
 
 [в начало](#bookshelf)
 
----
 #### not sorted yet stage 1
 <img alt="Параллельное программирование на C# и .NET Core" width="120" align="right" src="https://www.dmkpress.com/upload/iblock/5af/3nyfpqby4zm13en0hy8ophu6bzf5lfie.jpg" />
 
@@ -923,7 +922,6 @@ tags:  `dotnet` `ef-core`
 
 [в начало](#bookshelf)
 
----
 #### not sorted yet stage 2
 	- ✅O'Reilly - Масштабируемый рефакторинг
 	- ✅Addison Wesley - Шаблоны корпоративных приложений
@@ -988,7 +986,6 @@ tags:  `dotnet` `ef-core`
 
 [в начало](#bookshelf)
 
----
 #### Паттерны программирования игр
     ✅? - Паттерны программирования игр
     
@@ -1018,7 +1015,6 @@ tags: [`xslt`](#xslt)
 
 [в начало](#bookshelf)
 
----
 #### Elegant Objects
 <img alt="Elegant Objects, Volume 1" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/38ad581e-f6db-461b-b711-efea661c00c6" />
 
@@ -1032,10 +1028,8 @@ _`published` -_
 ...  
 ...
 
-
 tags:  `yegor256` `elegant-objects`
 
----
 <img alt="Элегантные объекты. Java Edition" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/97b5d651-2eda-4a97-a85a-60d23283e2bf" />
 
 <span>✅</span>
@@ -1047,7 +1041,6 @@ _`published`_
 ...  
 ...  
 ...
-
 
 tags:  `yegor256` `elegant-objects`
 
@@ -1063,7 +1056,6 @@ _`publish`, `date`_
 ...  
 ...  
 ...
-
 
 tags:  `clojure`
 
@@ -1081,12 +1073,10 @@ _`published` -_
 ...  
 ...
 
-
 tags:  `yegor256` `code-ahead`
 
 [в начало](#bookshelf)
 
----
 #### linux and unix
     - ✅? - Внутреннее устройство Linux
     - ✅? - Unix. Программное окружение
@@ -1118,7 +1108,6 @@ tags: [`kafka`](#kafka) [`docker`](#docker) [`kubernetes`](#kubernetes)
 
 [в начало](#bookshelf)
 
----
 #### database design
     - ✅? - PostgreSQL14 изнутри
     - ✅O'Reilly - MongoDB. Полное руководство
@@ -1183,7 +1172,6 @@ tags: `databases` `postgresql` `mongodb`
 
 [в начало](#bookshelf)
 
----
 #### 38 awesome books on software architecture
 <img alt="Fundamentals of Software Architecture: An Engineering Approach" width="120" src="https://m.media-amazon.com/images/I/9193iMIxVTL._SL1500_.jpg" />
 
