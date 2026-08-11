@@ -46,7 +46,7 @@
 #### API как искусство
 <img alt="API как искусство: разработка, поддержка, интеграция. Сергей Константинов" width="120" src="https://bhv.ru/wp-content/uploads/2025/04/3133_978-5-9775-2084-3.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**API как искусство: разработка, поддержка, интеграция**](https://bhv.ru/product/api-kak-iskusstvo-razrabotka-podderzhka-integratsiya/)  
 _`authored by` [Сергей Константинов](https://github.com/twirl/The-API-Book)_  
 _`publisher` ДМК-Пресс_  
@@ -58,7 +58,7 @@ tags:  [`api`](#API-как-искусство)
 #### Проектирование веб-API
 <img alt="Проектирование веб-API" width="120" src="https://www.dmkpress.com/upload/iblock/71a/uclujzb33ygz8su0ixjhk7n7ybphd26z.jpg" />  
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Проектирование веб-API**](https://dmkpress.com/catalog/computer/web/978-5-97060-861-6/)  
 _`authored by` [Арно Лоре](https://github.com/arno-di-loreto)_  
 _`publisher` ДМК-Пресс_  
@@ -78,7 +78,7 @@ tags:  [`api`](#API-как-искусство) [`api-design`](#API-как-иск
 #### Проектирование архитектуры API
 <img alt="Проектирование архитектуры API" width="120" src="https://bhv.ru/wp-content/uploads/2024/05/3038_978-601-09-5053-5.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Проектирование архитектуры API: Как проектировать, развивать и эксплуатировать API**](https://bhv.ru/product/proektirovanie-arhitektury-api-kak-pravilno-proektirovat-razvivat-i-ekspluatirovat-api)  
 _`authored by` [Джеймс Гоф](https://github.com/jpgough), Дэниэл Брайант, Мэтью Оберн_  
 _`publisher` БХВ_  
@@ -98,7 +98,7 @@ tags:  [`api`](#API-как-искусство) [`api-design`](#Проектир�
 #### Паттерны проектирования API
 <img alt="Паттерны проектирования API" width="120" src="https://static.insales-cdn.com/images/products/1/6799/639056527/44611984.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Паттерны проектирования API**](https://www.piter.com/product/patterny-proektirovaniya-api)  
 _`authored by` [Джей Джей Гивакс](https://github.com/jgeewax)_  
 _`publisher` Питер_  
@@ -118,7 +118,7 @@ tags:  [`api`](#API-как-искусство) [`api-design`](#Проектир�
 #### Тестирование веб-API
 <img alt="Тестирование веб-API" width="120" src="https://static.insales-cdn.com/images/products/1/2633/808274505/44612092.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Тестирование веб-API**](https://www.piter.com/collection/top-2/product/testirovanie-veb-api)  
 _`authored by` [Марк Винтерингем](https://github.com/mwinteringham)_  
 _`publisher` Питер_  
@@ -138,7 +138,7 @@ tags:  [`api`](#API-как-искусство) [`api-testing`](#Тестиров
 #### Непрерывное развитие API
 <img alt="Непрерывное развитие API" width="120" src="https://static.insales-cdn.com/images/products/1/5607/611374567/44612023.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Непрерывное развитие API. Правильные решения в изменчивом технологическом ландшафте, 2-е изд.**](https://www.piter.com/collection/bestsellery-oreilly/product/nepreryvnoe-razvitie-api-pravilnye-resheniya-v-izmenchivom-tehnologicheskom-landshafte-2-e-izd)  
 _Мехди Меджуи, [Эрик Уайлд](https://github.com/dret), [Ронни Митра](https://github.com/mitraman), [Майк Амундсен](https://github.com/mamund)_  
 _Питер, 2023_
@@ -157,7 +157,7 @@ tags:  [`api`](#API-как-искусство) [`api-architecture`](#Проек�
 #### RESTful Web API паттерны и практики
 <img alt="RESTful Web API паттерны и практики" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/7566/996253070/01084867.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**RESTful Web API паттерны и практики**](https://www.piter.com/collection/all/product/system-design-ii-raspredelennye-sistemy-podgotovka-k-slozhnomu-intervyu)  
 _`authored by` [Амундсен Майк]()_  
 _`publisher` Piter_  
@@ -185,7 +185,7 @@ tags:  [`api`](#api-как-искусство)
 #### Web API. Сборник рецептов: Повысьте уровень JavaScript-приложений
 <img alt="Web API. Сборник рецептов: Повысьте уровень JavaScript-приложений" width="120" align="right" src="https://bhv.ru/wp-content/uploads/2025/09/3118_978-601-12-3681-2.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**Web API. Сборник рецептов: Повысьте уровень JavaScript-приложений**](https://bhv.ru/product/web-api-sbornik-retseptov-povyste-uroven-javascript-prilozhenij/)  
 _`authored by` Аттарди Джо_  
 _`publisher` BHV_  
@@ -213,7 +213,7 @@ tags:  [`api`](#api-как-искусство)
 #### Стили API. Проектирование и внедрение
 <img alt="Стили API. Проектирование и внедрение" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/4617/3124654601/01141157.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**Стили API. Проектирование и внедрение**](https://www.piter.com/collection/all/product/stili-api-proektirovanie-i-vnedrenie)  
 _`authored by` Дыновски Л., Дулак М._  
 _`publisher` Piter_  
@@ -241,7 +241,7 @@ tags:  [`api`](#api-как-искусство)
 #### Автоматизация доставки API. Улучшаем скорость и качество с APIOps и OpenAPI
 <img alt="Автоматизация доставки API. Улучшаем скорость и качество с APIOps и OpenAPI" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/8065/3086507905/44614256.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**Автоматизация доставки API. Улучшаем скорость и качество с APIOps и OpenAPI**](https://www.piter.com/collection/all/product/avtomatizatsiya-dostavki-api-uluchshaem-skorost-i-kachestvo-s-apiops-i-openapi)  
 _`authored by` Нвайву И._  
 _`publisher` Piter_  
@@ -269,7 +269,7 @@ tags:  [`api`](#api-как-искусство)
 #### Разработка требований к программному обеспечению
 <img alt="empty book title" width="120" align="right" src="https://bhv.ru/wp-content/uploads/2019/12/2389_978-5-9775-3348-5.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Разработка требований к программному обеспечению. 3 изд.**](https://bhv.ru/product/razrabotka-trebovanij-k-programmnomu-obespecheniyu-3-izd)  
 _`authored by` [Карл Вигерс](https://www.google.com/search?q=Karl+Wiegers) и [Джой Битти](https://www.google.com/search?q=Joy+Beatty&oq=Joy+Beatty)_  
 _`publisher` BHV_  
@@ -297,7 +297,7 @@ tags:  [`software-requirements`](#Разработка-требований-к-�
 #### System Design. Подготовка к сложному интервью
 <img alt="empty book title" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/530/496681490/44611816.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**System Design. Подготовка к сложному интервью**](https://www.piter.com/collection/best/product/system-design-podgotovka-k-slozhnomu-intervyu)  
 _`authored by` [Алекс Сюй]()_  
 _`publisher` Piter_  
@@ -322,7 +322,7 @@ tags:  [`system design`](#System-Design-Подготовка-к-сложному
 #### System Design. Машинное обучение
 <img alt="System Design. Машинное обучение" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/4737/782807681/44612130.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**System Design. Подготовка к сложному интервью**]()  
 _`authored by` [Алекс Сюй]() и [Али Аминиан]()_  
 _`publisher` Piter_  
@@ -347,7 +347,7 @@ tags:  [`system design`](#System-Design-Подготовка-к-сложному
 #### System Design. Подготовка к сложному интервью по GenAI
 <img alt="System Design. Подготовка к сложному интервью по GenAI" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/3081/2551180297/44614339.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**System Design. Подготовка к сложному интервью по GenAI**](https://www.piter.com/collection/all/product/system-design-podgotovka-k-slozhnomu-intervyu-po-genai)  
 _`authored by` [Али Аминиан](), [Хао Шенг]()_  
 _`publisher` Piter_  
@@ -375,7 +375,7 @@ tags:  [`system-design`](#system-design-подготовка-к-сложному
 #### System Design II. Распределенные системы
 <img alt="System Design II. Распределенные системы. Подготовка к сложному интервью" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/6697/2600278569/44614332.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**System Design II. Распределенные системы. Подготовка к сложному интервью**](https://www.piter.com/collection/all/product/system-design-ii-raspredelennye-sistemy-podgotovka-k-slozhnomu-intervyu)  
 _`authored by` [Алекс Сюй](), [Сан Лэм]()_  
 _`publisher` Piter_  
@@ -403,7 +403,7 @@ tags:  [`system-design`](#system-design-подготовка-к-сложному
 #### System Design. Проектирование мобильных систем
 <img alt="System Design. Проектирование мобильных систем. Подготовка к сложному интервью" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/649/2985484937/44614489.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**System Design. Проектирование мобильных систем. Подготовка к сложному интервью**](https://www.piter.com/collection/all/product/system-design-proektirovanie-mobilnyh-sistem-podgotovka-k-slozhnomu-intervyu)  
 _`authored by` [Мануэль Висенте Виво]()_  
 _`publisher` Piter_  
@@ -431,7 +431,7 @@ tags:  [`system-design`](#system-design-подготовка-к-сложному
 #### System Design: пережить интервью
 <img alt="System Design: пережить интервью" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/1676/970507916/44614106.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**System Design: пережить интервью**](https://www.piter.com/collection/all/product/system-design-perezhit-intervyu)  
 _`authored by` [Чжиюн Тань]()_  
 _`publisher` Piter_  
@@ -456,10 +456,38 @@ _`publication date` -_
 tags:  [`system-design`](#system-design-подготовка-к-сложному-интервью)
 
 ---
+#### Software Architecture Patterns, Antipatterns, and Pitfalls
+<img alt="Software Architecture Patterns, Antipatterns, and Pitfalls: Understanding Qualitative Trade-Offs" width="120" align="right" src="https://m.media-amazon.com/images/I/81LBQCSsZGL._SL1500_.jpg" />
+
+<span>🛒</span>
+[**Software Architecture Patterns, Antipatterns, and Pitfalls: Understanding Qualitative Trade-Offs**](https://www.amazon.com/Software-Architecture-Patterns-Antipatterns-Pitfalls/dp/B0GQF83WT5)  
+_`authored ` Mark Richards, Neal Ford, Raju Gandhi_  
+_`publisher` O'Reilly_  
+_`published` December 1, 2026_
+
+...  
+...  
+...
+
+<details>
+    <summary><i>анг. издание</i></summary>
+    <img alt="..." width="100" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/f8637e3f-06c4-4082-9887-9ece13214211" />
+    <i><b><a href="">...</a></b></i><br/>
+    <i>authored by <a href="">...</a> and <a href="">...</a></i><br/>
+    <i>publisher ...</i><br/>
+    <i>published at ...</i><br/>
+    <br/>
+    ...
+    <br/>>
+</details>
+
+tags:  [`software-architecture`](#software-architecture)
+
+---
 #### Программная архитектура: практика командного принятия решений
 <img alt="Программная архитектура: практика командного принятия решений" width="120" align="right" src="https://bhv.ru/wp-content/uploads/2026/05/3142_978-601-12-8530-8_1.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**Программная архитектура: практика командного принятия решений**](https://bhv.ru/product/programmnaya-arhitektura-praktika-komandnogo-prinyatiya-reshenij)  
 _`authored by` Хармел-Лоу Эндрю_  
 _`publisher` BHV_  
@@ -487,7 +515,7 @@ tags:  [`software-architecture`](#software-architecture)
 #### Метрики программной архитектуры. Кейсы, повышающие качество ПО
 <img alt="Метрики программной архитектуры. Кейсы, повышающие качество ПО" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/545/3165192737/01129322.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**Метрики программной архитектуры. Кейсы, повышающие качество ПО**](https://www.piter.com/product/metriki-programmnoy-arhitektury-keysy-povyshayuschie-kachestvo-po)  
 _`authored by` Форд Н., Лилиенталь К., Фарли Д., Чичери К., Хармел-Лоу Э., Килинг М., Роза Ж., фон Цитцевиц А., Вудс Э., Вайсс Р._  
 _`publisher` Piter_  
@@ -515,7 +543,7 @@ tags:  [`software-architecture`](#software-architecture)
 #### Solutions architect: Архитектура и проектирование ИТ-решений. 3-е изд
 <img alt="Solutions architect: Архитектура и проектирование ИТ-решений. 3-е изд" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/6729/2409323081/01123976.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**Solutions architect: Архитектура и проектирование ИТ-решений. 3-е изд**](https://www.piter.com/collection/recommend/product/solutions-architect-arhitektura-i-proektirovanie-it-resheniy-3-e-izd)  
 _`authored by` Шривастава С., Шривастав Н._  
 _`publisher` Piter_  
@@ -543,7 +571,7 @@ tags:  [`software-architecture`](#software-architecture) [`solution-architecture
 #### Современный подход к программной архитектуре: сложные компромиссы
 <img alt="Современный подход к программной архитектуре: сложные компромиссы" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/4504/816320920/44612024.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**Современный подход к программной архитектуре: сложные компромиссы**](https://www.piter.com/collection/programmirovanie-razrabotka-programnogo-obespecheniya/product/sovremennyy-podhod-k-programmnoy-arhitekture-slozhnye-kompromissy)  
 _`authored by` Форд Н., Ричардс М., Садаладж П., Дехгани Ж._  
 _`publisher` Piter_  
@@ -571,7 +599,7 @@ tags:  [`software-architecture`](#software-architecture) [`solution-architecture
 #### Современная программная инженерия
 <img alt="Современная программная инженерия" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/6011/624506747/44612335.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Современная программная инженерия**]()  
 _`authored by` [Дэвид Фарли]()_  
 _`publisher` Piter_  
@@ -599,7 +627,7 @@ tags:  [`software engineering`](#Современная-программная-�
 #### Управление памятью в .NET для профессионалов
 <img alt="Управление памятью в .NET для профессионалов" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/2c6b4a18-b382-4572-ac4b-647db856215f" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Управление памятью в .NET для профессионалов**](https://dmkpress.com/catalog/computer/programming/dot_net/978-5-97060-800-5/)  
 _`authored by` [Конрад Кокоса](https://github.com/kkokosa)_  
 _`publisher` DMK_  
@@ -618,7 +646,7 @@ tags:  `dotnet` `memory` `garbage-collector`
 #### Конкурентность в C#
 <img alt="Конкурентность в C#" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/b092838e-e489-4601-9f66-8a8bfc69d6d6" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Конкурентность в C#**](https://www.piter.com/product/konkurentnost-v-c-asinhronnoe-parallelnoe-i-mnogopotochnoe-programmirovanie-2-e-mezhd-izd), 2-е издание, 2020  
 _`authored ` [Стивен Клири](https://github.com/StephenCleary)_  
 _`publisher` -_  
@@ -636,7 +664,7 @@ tags:  `dotnet` `concurrency` `patterns` `async`
 #### Внедрение зависимостей на платформе .NET
 <img alt="Внедрение зависимостей на платформе .NET" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/64ba50c0-8980-4169-93f0-09d5e325f575" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Внедрение зависимостей на платформе .NET**](https://www.piter.com/collection/programmirovanie-razrabotka-programnogo-obespecheniya/product/vnedrenie-zavisimostey-na-platforme-net-2-e-izdanie), 2-е издание, 2021  
 _`authored by` [Марк Симан](https://github.com/ploeh)_  
 _`publisher` -_  
@@ -654,7 +682,7 @@ tags:  `dotnet` `dependency-injection` `patterns`
 #### Паттерны проектирования на платформе .NET
 <img alt="Паттерны проектирования на платформе .NET" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/9badc67a-7463-4aa2-adfa-beecde12e390" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Паттерны проектирования на платформе .NET**](https://www.piter.com/product/patterny-proektirovaniya-na-platforme-net)  
 _`authored by` [Сергей Тепляков](https://github.com/SergeyTeplyakov)_  
 _`publisher` Piter_  
@@ -671,7 +699,7 @@ tags:  `dotnet` `patterns`
 #### Принципы юнит-тестирования
 <img alt="Принципы юнит-тестирования" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/d16f19b8-dc6e-4c24-bcd3-a4eb47324d8c" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Принципы юнит-тестирования**](https://www.piter.com/product/printsipy-yunit-testirovaniya), 2022  
 _`authored by` [Владимир Хориков](https://github.com/vkhorikov)_  
 _`publisher` -_  
@@ -689,7 +717,7 @@ tags:  `dotnet` `testing`
 #### Код, который умещается в голове 
 <img alt="Код, который умещается в голове" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/d4deffab-07de-4be8-91d3-9bb4528718f2" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Код, который умещается в голове**](https://www.piter.com/collection/recommend/product/robert-martin-rekomenduet-kod-kotoryy-umeschaetsya-v-golove-evristiki-dlya-razrabotchikov)  
 _`authored by` [Марк Симан](https://github.com/ploeh)_  
 _`publisher` Piter_  
@@ -707,7 +735,7 @@ tags:  `dotnet`
 #### ASP.NET Core в действии
 <img alt="ASP.NET Core в действии" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/3b08135a-b207-484a-a2de-570bb97d36d1" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**ASP.NET Core в действии**](https://dmkpress.com/catalog/computer/web/978-5-97060-550-9/)  
 _`authored by` [Эндрю Лок](https://github.com/andrewlock)_  
 _`publisher` DMK_  
@@ -725,7 +753,7 @@ tags:  `dotnet` `dotnet-core`
 #### Software. Ошибки и компромиссы
 <img alt="Software. Ошибки и компромиссы" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/6b68dabb-ca77-416b-8330-cefed38190b6"  />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Software. Ошибки и компромиссы**](https://www.piter.com/product/software-oshibki-i-kompromissy-pri-razrabotke-po)  
 _`authored by` [Джон Скит](https://github.com/jskeet/) и [Томаш Лелек](https://github.com/tomekl007)_  
 _`publisher` Piter_  
@@ -751,7 +779,7 @@ tags:  `dotnet` `dotnet-core` `jon-skeet`
 #### not sorted yet stage 1
 <img alt="Параллельное программирование на C# и .NET Core" width="120" align="right" src="https://www.dmkpress.com/upload/iblock/5af/3nyfpqby4zm13en0hy8ophu6bzf5lfie.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Параллельное программирование на C# и .NET Core**](https://dmkpress.com/catalog/computer/programming/c/978-5-97060-851-7/)  
 _`authored by` [Shakti Tanwar](https://github.com/shaktisinghtanwar)_  
 _`publisher` ДМК_  
@@ -766,7 +794,7 @@ tags:  `dotnet` `dotnet-core` `concurrency`
 ---
 <img alt="Pro Microservices in .NET 6: With Examples Using ASP.NET Core 6, MassTransit, and Kubernetes" width="120" align="right" src="https://m.media-amazon.com/images/I/61wWAIr7qsL._SL1180_.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Pro Microservices in .NET 6: With Examples Using ASP.NET Core 6, MassTransit, and Kubernetes**](https://www.amazon.com/Pro-Microservices-NET-MassTransit-Kubernetes/dp/1484278321)  
 _`authored by` [Sean Whitesell](https://github.com/seanw122), [Rob Richardson](https://github.com/robrich) and [Matthew D. Groves](https://github.com/mgroves)_  
 _`publisher` Apress_  
@@ -781,7 +809,7 @@ tags:  `dotnet` `microservices` `patterns` `architecture` `masstransit` `kuberne
 ---
 <img alt="Безопасность ASP.NET Core" width="120" align="right" src="https://www.dmkpress.com/upload/resize_cache/iblock/17f/560_720_1/f3u4nzw8tp715e9x7sg36ql5zy5ar06w.jpg"  />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Безопасность ASP.NET Core**](https://dmkpress.com/catalog/computer/web/978-5-93700-176-4/)  
 _`authored by` [Christian Wenz](https://github.com/wenz)_  
 _`publisher` ДМК>_  
@@ -796,7 +824,7 @@ tags:  `dotnet` `aspnet-core` `security`
 ---
 <img alt="C# 9.0. Карманный справочник" width="120" align="right" src="https://imo10.labirint.ru/books/801590/cover.jpg/2000-0" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**C# 9.0. Карманный справочник**](https://www.ozon.ru/product/c-9-0-karmannyy-spravochnik-albahari-ben-albahari-dzhozef-251632157/)  
 _`authored by` [Joe Albahari](https://www.albahari.com/) and [Ben Albahari](https://www.albahari.com/)__  
 _`publisher` Диалектика_  
@@ -811,7 +839,7 @@ tags:  `dotnet` `c#`
 ---
 <img alt="Адаптивный код. 2-е издание" width="120" align="right" src="https://imo10.labirint.ru/books/612652/cover.jpg/2000-0" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Адаптивный код. 2-е издание**](https://www.ozon.ru/product/adaptivnyy-kod-gibkoe-kodirovanie-s-pomoshchyu-patternov-proektirovaniya-i-printsipov-solid-2-341104039/)  
 _`authored by` [Gary McLean Hall](https://github.com/garymcleanhall)_  
 _`publisher` Диалектика_  
@@ -826,7 +854,7 @@ tags:  `dotnet` `c#`
 ---
 <img alt="C# 14 and .NET 10 – Modern Cross-Platform Development Fundamentals: Build modern websites and services with ASP.NET Core, Blazor, and EF Core using Visual Studio 2026" width="120" align="right" src="https://m.media-amazon.com/images/I/71FjyKt0j7L._SL1500_.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**C# 14 and .NET 10 – Modern Cross-Platform Development Fundamentals: Build modern websites and services with ASP.NET Core, Blazor, and EF Core using Visual Studio 2026**](https://www.amazon.com/14-NET-Cross-Platform-Development-Fundamentals-ebook/dp/B0FQJX9J9S)  
 _`authored by` [Mark J. Price](https://github.com/markjprice)_  
 _`publisher` Packt Publishing_  
@@ -840,7 +868,7 @@ tags:  `dotnet`
 ---
 <img alt="Tools and Skills for .NET 10: Get the career you want with good practices and patterns to design, debug, and test your solutions" width="120" align="right" src="https://m.media-amazon.com/images/I/71OClUIrFYL._SL1500_.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**Tools and Skills for .NET 10: Get the career you want with good practices and patterns to design, debug, and test your solutions**](https://www.amazon.com/Tools-Skills-NET-practices-solutions-ebook/dp/B0FRMQFS1Z)  
 _`authored by` [Mark J. Price](https://github.com/markjprice)_  
 _`publisher` Packt Publishing_  
@@ -854,7 +882,7 @@ tags:  `dotnet`
 ---
 <img alt="Real-World Web Development with .NET 10: Build websites and services using mature and proven ASP.NET Core MVC, Web API, and Umbraco CMS" width="120" align="right" src="https://m.media-amazon.com/images/I/71UGanf+q0L._SL1500_.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**Real-World Web Development with .NET 10: Build websites and services using mature and proven ASP.NET Core MVC, Web API, and Umbraco CMS**](https://www.amazon.com/Real-World-Web-Development-NET-10-ebook/dp/B0FRMCSYR4)  
 _`authored by` [Mark J. Price](https://github.com/markjprice)_  
 _`publisher` Packt Publishing_  
@@ -868,7 +896,7 @@ tags:  `dotnet`
 ---
 <img alt="Apps and Services with .NET 10: Build practical projects with Avalonia, Blazor, gRPC, GraphQL, and other enterprise technologies" width="120" align="right" src="https://m.media-amazon.com/images/I/81j8sK6trwL._SL1500_.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**Apps and Services with .NET 10: Build practical projects with Avalonia, Blazor, gRPC, GraphQL, and other enterprise technologies**](https://www.amazon.com/Apps-Services-NET-enterprise-technologies-ebook/dp/B0FRMQ3N2G)  
 _`authored by` [Mark J. Price](https://github.com/markjprice)_  
 _`publisher` Packt Publishing_  
@@ -882,7 +910,7 @@ tags:  `dotnet`
 ---
 <img alt="Entity Framework Core in Action, Second Edition" width="120" align="right" src="https://m.media-amazon.com/images/I/71lKwGFB+sS._SL1500_.jpg" />
 
-<span>🛒&nbsp;</span>
+<span>🛒</span>
 [**Entity Framework Core in Action, Second Edition**](https://www.amazon.com/Entity-Framework-Core-Action-Second-ebook/dp/B098BNRPNK)  
 _`authored ` [Jon P Smith](https://github.com/JonPSmith)_  
 _`publisher` Manning_  
@@ -899,8 +927,8 @@ tags:  `dotnet` `ef-core`
 #### not sorted yet stage 2
 	- ✅O'Reilly - Масштабируемый рефакторинг
 	- ✅Addison Wesley - Шаблоны корпоративных приложений
-	- ✅O'Reilly - Эволюционная архитектура. Поддержка непрерывных изменений. Нил Форд, Ребекка Парсонс
-	- 🛒O'Reilly - Эволюционная архитектура. Автоматизированное управление программным обеспечением. 2-е межд. изд. Нил Форд, Ребекка Парсонс
+	- ✅O'Reilly - Эволюционная архитектура. Поддержка непрерывных изменений | Building Evolutionary Architectures: Support Constant Change | Нил Форд, Ребекка Парсонс
+	- 🛒O'Reilly - Эволюционная архитектура. Автоматизированное управление программным обеспечением. 2-е межд. изд | Building Evolutionary Architectures: Automated Software Governance, 2nd Edition | Нил Форд, Ребекка Парсонс
     - ✅O'Reilly - От монолита к микросервисам. Эволюционные шаблоны для трансформации монолитной системы. Сэм Ньюмен
 	- ✅O'Reilly - Создание микросервисов. 2-е изд. Сэм Ньюмен
 	- ✅O'Reilly - Создание событийно-управляемых микросервисов
@@ -917,11 +945,13 @@ tags:  `dotnet` `ef-core`
     - ✅? - BPM CBOK 4.0. Свод знаний по управлению бизнес-процессами 
 	- ✅Addison Wesley - Применение UML 2.0 и шаблонов проектирования. Введение в объектно-ориентированный анализ, проектирование и итеративную разработку
 	
-    - ✅O'Reilly - Фундаментальный подход к программной архитектуре: паттерны, свойства, проверенные методы. Нил Форд, Марк Ричардс
+    - ✅O'Reilly - Фундаментальный подход к программной архитектуре: паттерны, свойства, проверенные методы | Fundamentals of Software Architecture: An Engineering Approach | Нил Форд, Марк Ричардс
+    - 🛒O'Reilly - Современный подход к программной архитектуре: сложные компромиссы | Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures | Нил Форд, Марк Ричардс
 	- ✅Addison Wesley - Шаблоны интеграции корпоративных приложений
 	- ✅? - Проектирование событийно-ориентированных систем
+    - ✅? - A Philosophy of Software Design
 	
-	- ✅? - Чистая архитектура. Искусство разработки программного обеспечения
+	- ✅? - Чистая архитектура. Искусство разработки программного обеспечения | Clean Architecture: A Craftsman's Guide to Software Structure and Design
 	- ✅? - Совершенный код. Практическое руководство по разработке программного обеспечения
 	- ✅? - Эффективная работа с унаследованным кодом
 	- ✅? - Чистый код
@@ -992,7 +1022,7 @@ tags: [`xslt`](#xslt)
 #### Elegant Objects
 <img alt="Elegant Objects, Volume 1" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/38ad581e-f6db-461b-b711-efea661c00c6" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Elegant Objects, Volume 1**](https://www.amazon.com/Elegant-Objects-1-Yegor-Bugayenko/dp/1519166915), February 17, 2016  
 _`authored by` [Yegor Bugayenko](https://github.com/yegor256)_  
 _`publisher` -_  
@@ -1008,7 +1038,7 @@ tags:  `yegor256` `elegant-objects`
 ---
 <img alt="Элегантные объекты. Java Edition" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/97b5d651-2eda-4a97-a85a-60d23283e2bf" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Элегантные объекты. Java Edition**](https://www.piter.com/collection/A32721/product/elegantnye-obekty-java-edition), 2018  
 _`authored by` [Yegor Bugayenko](https://github.com/yegor256)_  
 _`publisher` -_  
@@ -1025,7 +1055,7 @@ tags:  `yegor256` `elegant-objects`
 #### Clojure на производстве
 <img alt="Clojure на производстве" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/89dba865-ac22-4c7b-95db-6d59f73279a8" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Clojure на производстве**](https://dmkpress.com/catalog/computer/programming/functional/978-5-93700-055-2), Ноябрь 2021  
 _by [Ivan Grishaev](https://github.com/igrishaev)_  
 _`publish`, `date`_
@@ -1041,7 +1071,7 @@ tags:  `clojure`
 #### Code Ahead
 <img alt="Наш код. Ремесло, профессия, искусство" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/0144c634-53ae-42b3-b5bf-40ef82e8cec2" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Наш код. Ремесло, профессия, искусство**](https://www.piter.com/product/nash-kod-remeslo-professiya-iskusstvo), 2019  
 _`authored by` [Yegor Bugayenko](https://github.com/yegor256)_  
 _`publisher` -_  
@@ -1157,7 +1187,7 @@ tags: `databases` `postgresql` `mongodb`
 #### 38 awesome books on software architecture
 <img alt="Fundamentals of Software Architecture: An Engineering Approach" width="120" src="https://m.media-amazon.com/images/I/9193iMIxVTL._SL1500_.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Fundamentals of Software Architecture: An Engineering Approach**](https://www.amazon.com/dp/1492043451)  
 _`authored by` [Mark Richards](https://www.amazon.com/Mark-Richards/e/B0039T7ODK/), [Neal Ford](https://www.amazon.com/Neal-Ford/e/B001K7PMYQ/)_  
 _`publisher` O'Reilly Media_  
@@ -1168,7 +1198,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="Clean Architecture: A Craftsman's Guide to Software Structure and Design" width="120" src="https://m.media-amazon.com/images/I/71stxGw9JgL._SL1500_.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Clean Architecture: A Craftsman's Guide to Software Structure and Design**](https://www.amazon.com/dp/0134494164)  
 _`authored by` [Robert Martin](https://www.amazon.com/Robert-Martin/e/B004N5WF1K/)_  
 _`publisher` Pearson_  
@@ -1179,7 +1209,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems" width="120" src="https://m.media-amazon.com/images/I/91YfNb49PLL._SL1500_.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems**](https://www.amazon.com/dp/1449373321)  
 _`authored by` [Martin Kleppmann](https://www.amazon.com/Martin-Kleppmann/e/B00Q43XKD6/)_  
 _`publisher` O'Reilly Media_  
@@ -1210,7 +1240,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="Building Microservices: Designing Fine-Grained Systems" width="120" src="https://m.media-amazon.com/images/I/81dmHMoJDjL._SL1500_.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Building Microservices: Designing Fine-Grained Systems**](https://www.amazon.com/dp/1492034029/)  
 _`authored by` [Sam Newman](https://www.amazon.com/Sam-Newman/e/B00LEP6IB0/)_  
 _`publisher` O'Reilly Media_  
@@ -1221,7 +1251,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="Building Evolutionary Architectures: Support Constant Change" width="120" src="https://m.media-amazon.com/images/I/91V2fclaQPL._SL1500_.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Building Evolutionary Architectures: Support Constant Change**](https://www.amazon.com/dp/1491986360)  
 _`authored by` Neal Ford, [Rebecca Parsons](https://www.amazon.com/Rebecca-Parsons/e/B076KLYL7Q/ref=dp_byline_cont_book_2), Patrick Kua_  
 _`publisher` O'Reilly Media_  
@@ -1252,7 +1282,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions" width="120" src="https://m.media-amazon.com/images/I/81B9BdZnSvL._SL1500_.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions**](https://www.amazon.com/dp/0321200683)  
 _`authored ` Gregor Hohpe, Bobby Woolf_  
 _`published` October 10, 2003_
@@ -1280,7 +1310,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith" width="120" src="https://m.media-amazon.com/images/I/91yYn6cJaLL._SL1500_.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith**](https://www.amazon.com/dp/1492047848)  
 _`authored ` Sam Newman_  
 _`published` December 24, 2019_
@@ -1299,7 +1329,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="A Philosophy of Software Design" width="120" src="https://m.media-amazon.com/images/I/71J0G8g08dL._SL1200_.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**A Philosophy of Software Design**](https://www.amazon.com/dp/1732102201)  
 _`authored ` John Ousterhout_  
 _`published` April 6, 2018_
@@ -1325,7 +1355,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="System Design Interview – An insider's guide" width="120" src="https://m.media-amazon.com/images/I/51vZ6t5W4gL._SL1499_.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**System Design Interview – An insider's guide**](https://www.amazon.com/dp/B08CMF2CQF/)  
 _`authored ` Alex Xu_  
 _`published` June 12, 2020_
@@ -1335,6 +1365,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="System Design Interview – An Insider's Guide: Volume 2" width="120" src="https://m.media-amazon.com/images/I/51lJolln98L._SL1429_.jpg" />
 
+<span>🔥</span>
 [**System Design Interview – An Insider's Guide: Volume 2**](https://www.amazon.com/dp/1736049119/)  
 _`authored ` Alex Xu, Sahn Lam_  
 _`published` March 11, 2022_
@@ -1344,6 +1375,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="97 Things Every Software Architect Should Know" width="120" src="https://m.media-amazon.com/images/I/91FzKX-YQTL._SL1500_.jpg" />
 
+<span>🔥</span>
 [**97 Things Every Software Architect Should Know**](https://www.amazon.com/dp/059652269X)  
 _`authored ` Richard Monson-Haefel_  
 _`published` March 17, 2009_
@@ -1353,7 +1385,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="The Pragmatic Programmer: From Journeyman to Master" width="120" src="https://m.media-amazon.com/images/I/61ztlXgCmpL._SL1500_.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**The Pragmatic Programmer: From Journeyman to Master**](https://www.amazon.com/dp/020161622X)  
 _`authored ` Andrew Hunt, David Thomas_  
 _`published` January 1, 1999_
@@ -1372,6 +1404,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures" width="120" src="https://m.media-amazon.com/images/I/81sdcxLtlwL._SL1500_.jpg" />
 
+<span>🔥</span>
 [**Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures**](https://www.amazon.com/dp/1492086894/)  
 _`authored ` Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani_  
 _`published` November 30, 2021_
@@ -1399,7 +1432,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="Database Internals: A Deep Dive into How Distributed Data Systems Work" width="120" src="https://m.media-amazon.com/images/I/91UYIt74czL._SL1500_.jpg" />
 
-<span>✅&nbsp;</span>
+<span>✅</span>
 [**Database Internals: A Deep Dive into How Distributed Data Systems Work**](https://www.amazon.com/dp/1492040347)  
 _`authored ` Alex Petrov_  
 _`published` November 5, 2019_
@@ -1427,6 +1460,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="Software Architecture for Busy Developers: Talk and act like a software architect in one weekend" width="120" src="https://m.media-amazon.com/images/I/81mai2Q0MaL._SL1500_.jpg" />
 
+<span>🔥</span>
 [**Software Architecture for Busy Developers: Talk and act like a software architect in one weekend**](https://www.amazon.com/dp/B09B2R6QN8/)  
 _`authored ` Stephane Eyskens_  
 _`published` October 15, 2021_
@@ -1436,6 +1470,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="Clean Architecture with .NET: Design scalable .NET applications by using Clean Architecture principles and proven patterns" width="120" src="https://m.media-amazon.com/images/I/71RfS6ARwRL._SL1500_.jpg" />
 
+<span>🔥</span>
 [**Clean Architecture with .NET: Design scalable .NET applications by using Clean Architecture principles and proven patterns**](https://www.amazon.com/dp/B0FFN11CDB/)  
 _`authored ` Casey Crouse, Steve "Ardalis" Smith, Jason Taylor_  
 _`published` April 30, 2026_
@@ -1472,6 +1507,7 @@ tags: [`software-architecture`](#software-architecture) [`software-development`]
 ---
 <img alt="Practice of Cloud System Administration, The: DevOps and SRE Practices for Web Services, Volume 2" width="120" src="https://m.media-amazon.com/images/I/81txgKaY6QL._SL1500_.jpg" />
 
+<span>🔥</span>
 [**Practice of Cloud System Administration, The: DevOps and SRE Practices for Web Services, Volume 2**](https://www.amazon.com/dp/B00N7N2CRQ)  
 _`authored ` Limoncelli Thomas A., Chalup Strata R., Hogan Christina J._  
 _`published` September 1, 2014_
