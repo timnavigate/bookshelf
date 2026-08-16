@@ -120,7 +120,7 @@ tags:  [`api`](#api) [`api-design`](#проектирование-веб-API) [`
 [**Паттерны проектирования API**](https://www.piter.com/product/patterny-proektirovaniya-api)  
 _`authored by` [Джей Джей Гивакс](https://github.com/jgeewax)_  
 _`publisher` Питер_  
-_`publication date` 2024_
+_`published` 2024_
 
 <details>
     <summary><i>english edition</i></summary>
@@ -142,7 +142,7 @@ tags:  [`api`](#api) [`api-design`](#проектирование-веб-API) [`
 [**Тестирование веб-API**](https://www.piter.com/collection/top-2/product/testirovanie-veb-api)  
 _`authored by` [Марк Винтерингем](https://github.com/mwinteringham)_  
 _`publisher` Питер_  
-_`publication date` 2024_
+_`published` 2024_
 
 <details>
     <summary><i>english edition</i></summary>
@@ -371,7 +371,7 @@ tags:  [`system-design`](#system-design)
 [**System Design II. Распределенные системы. Подготовка к сложному интервью**](https://www.piter.com/collection/all/product/system-design-ii-raspredelennye-sistemy-podgotovka-k-slozhnomu-intervyu)  
 _`authored by` Алекс Сюй, Сан Лэм_  
 _`publisher` Piter_  
-_`publication date` ..._
+_`published` ..._
 
 ...  
 ...  
@@ -397,7 +397,7 @@ tags:  [`system-design`](#system-design)
 [**System Design. Проектирование мобильных систем. Подготовка к сложному интервью**](https://www.piter.com/collection/all/product/system-design-proektirovanie-mobilnyh-sistem-podgotovka-k-slozhnomu-intervyu)  
 _`authored by` Мануэль Висенте Виво_  
 _`publisher` Piter_  
-_`publication date` ..._
+_`published` ..._
 
 ...  
 ...  
@@ -423,7 +423,7 @@ tags: [`system-design`](#system-design)
 [**System Design: пережить интервью**](https://www.piter.com/collection/all/product/system-design-perezhit-intervyu)  
 _`authored by` Чжиюн Тань_  
 _`publisher` Piter_  
-_`publication date` ..._
+_`published` ..._
 
 ...  
 ...  
@@ -479,7 +479,7 @@ tags: [`software-architecture`](#38-awesome-books-on-software-architecture)
 [**Программная архитектура: практика командного принятия решений**](https://bhv.ru/product/programmnaya-arhitektura-praktika-komandnogo-prinyatiya-reshenij)  
 _`authored by` Хармел-Лоу Эндрю_  
 _`publisher` BHV_  
-_`publication date` 2026_
+_`published` 2026_
 
 ...  
 ...  
