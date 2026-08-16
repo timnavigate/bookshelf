@@ -34,7 +34,7 @@
   - [Код, который умещается в голове](#код-который-умещается-в-голове)
   - [ASP.NET Core в действии](#ASPNET-Core-в-действии)
   - [Software. Ошибки и компромиссы](#Software-ошибки-и-компромиссы)
-- Others
+- Another books
   - [not sorted yet stage 2](#not-sorted-yet-stage-2)
   - [Паттерны программирования игр](#паттерны-программирования-игр)
   - [JavaScript](#javascript)
@@ -53,7 +53,6 @@
 ---
 ### API
 
----
 #### API как искусство
 <img alt="API как искусство: разработка, поддержка, интеграция. Сергей Константинов" width="120" src="https://bhv.ru/wp-content/uploads/2025/04/3133_978-5-9775-2084-3.jpg" />
 
@@ -285,11 +284,8 @@ tags:  [`api`](#api)
 ---
 [в начало](#bookshelf)
 
----
-
 ### System Design
 
----
 #### System Design. Подготовка к сложному интервью
 <img alt="empty book title" width="120" align="right" src="https://cdn.insales-shop.ru/images/products/1/530/496681490/44611816.jpg" />
 
@@ -448,11 +444,8 @@ tags: [`system-design`](#system-design)
 ---
 [в начало](#bookshelf)
 
----
-
 ### Architecture
 
----
 #### Software Architecture Patterns, Antipatterns, and Pitfalls
 <img alt="Software Architecture Patterns, Antipatterns, and Pitfalls: Understanding Qualitative Trade-Offs" width="120" align="right" src="https://m.media-amazon.com/images/I/81LBQCSsZGL._SL1500_.jpg" />
 
@@ -589,11 +582,8 @@ tags:
 ---
 [в начало](#bookshelf)
 
----
-
 ### Engineering
 
----
 #### Разработка требований к программному обеспечению
 <img alt="empty book title" width="120" align="right" src="https://bhv.ru/wp-content/uploads/2019/12/2389_978-5-9775-3348-5.jpg" />
 
@@ -648,11 +638,8 @@ tags:  [`software engineering`](#современная-программная-�
 ---
 [в начало](#bookshelf)
 
----
-
 ### Dotnet
 
----
 #### Управление памятью в .NET для профессионалов
 <img alt="Управление памятью в .NET для профессионалов" width="120" align="right" src="https://github.com/timnavigate/bookshelf/assets/14907341/2c6b4a18-b382-4572-ac4b-647db856215f" />
 
@@ -1003,11 +990,8 @@ tags: [`dotnet`](#dotnet) `ef-core`
 ---
 [В начало](#bookshelf)
 
----
+### Another books
 
-### Others
-
----
 #### not sorted yet stage 2
 	- ✅O'Reilly - Масштабируемый рефакторинг
 	- ✅Addison Wesley - Шаблоны корпоративных приложений
@@ -1246,8 +1230,6 @@ tags:
 ---
 [В начало](#bookshelf)
 
----
-
 ### Music
     - История диджеев
     - Берлин, техно и easyJet
@@ -1277,8 +1259,6 @@ tags:
 
 ---
 [в начало](#bookshelf)
-
----
 
 ### Non-fiction
     - ✅? - Вторжение. Краткая история русских хакеров
@@ -1316,7 +1296,6 @@ tags:
 ---
 [в начало](#bookshelf)
 
----
 #### 38 awesome books on software architecture
 <img alt="Fundamentals of Software Architecture: An Engineering Approach" width="120" src="https://m.media-amazon.com/images/I/9193iMIxVTL._SL1500_.jpg" />
 
