@@ -1172,7 +1172,7 @@ tags: `databases` `postgresql` `mongodb`
     - ✅AdMarginem - Бредовая работа (Дэвид Гребер)
     - ✅AdMarginem - Гул мира. Философия слушания
 
-[в начало](#bookshelf)
+[В начало](#bookshelf)
 
 #### 38 awesome books on software architecture
 <img alt="Fundamentals of Software Architecture: An Engineering Approach" width="120" src="https://m.media-amazon.com/images/I/9193iMIxVTL._SL1500_.jpg" />
@@ -1528,4 +1528,4 @@ _`authored ` Artur Ejsmont_
 
 tags: [software-architecture](#38-awesome-books-on-software-architecture) [software-development](#38-awesome-books-on-software-architecture)  [software-engineering](#38-awesome-books-on-software-architecture)
 
-[в начало](#bookshelf)
+[В начало](#bookshelf)
